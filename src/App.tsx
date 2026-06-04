@@ -109,6 +109,7 @@ function App() {
           resetVisibleBooks(false)
         }}
         totalBooks={books.length}
+        filteredCount={filteredBooks.length}
         selectedCount={selected.selectedBooks.length}
         report={updateReport}
         onViewAll={() =>

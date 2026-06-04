@@ -241,12 +241,34 @@ main {
 
 .hero-input {
   min-height: 72px;
+  padding-right: 10px;
   border-color: #d0d5dd;
   background: rgba(255, 255, 255, 0.96);
 }
 
 .hero-input input {
   font-size: 21px;
+}
+
+.hero-search-submit {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 74px;
+  min-height: 48px;
+  border: 0;
+  border-radius: 8px;
+  color: #ffffff;
+  background: #f97316;
+  font-size: 15px;
+  font-weight: 850;
+}
+
+.hero-search-feedback {
+  margin: 10px 0 0;
+  color: #667085;
+  font-size: 13px;
+  font-weight: 750;
 }
 
 .hero-cta-row {
@@ -1094,6 +1116,11 @@ select {
 
   .hero-input input {
     font-size: 17px;
+  }
+
+  .hero-search-submit {
+    min-width: 58px;
+    padding: 0 10px;
   }
 
   .preview-grid,

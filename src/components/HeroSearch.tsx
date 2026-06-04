@@ -13,6 +13,7 @@ interface HeroSearchProps {
   query: string
   onQueryChange: (value: string) => void
   totalBooks: number
+  filteredCount: number
   selectedCount: number
   report: UpdateReport
   onViewAll: () => void
@@ -39,6 +40,7 @@ export function HeroSearch({
   query,
   onQueryChange,
   totalBooks,
+  filteredCount,
   selectedCount,
   report,
   onViewAll,
@@ -54,15 +56,30 @@ export function HeroSearch({
         <p className="hero-lede">
           분야, 강좌, 난이도, 디지털 교재 여부를 기준으로 도서를 찾고, 관심 도서를 담아 Gmail로 바로 공유할 수 있습니다.
         </p>
-        <div className="hero-search-box">
-          <label className="search-input hero-input">
+        <form
+          className="hero-search-box"
+          onSubmit={(event) => {
+            event.preventDefault()
+            onViewAll()
+          }}
+        >
+          <div className="search-input hero-input">
             <Search size={24} />
             <input
+              aria-label="도서 검색"
               value={query}
               onChange={(event) => onQueryChange(event.target.value)}
               placeholder="도서명, 저자, 강좌명, ISBN으로 검색"
             />
-          </label>
+            <button type="submit" className="hero-search-submit">
+              검색
+            </button>
+          </div>
+          <p className="hero-search-feedback" aria-live="polite">
+            {query.trim()
+              ? `전체 ${totalBooks.toLocaleString()}권 중 ${filteredCount.toLocaleString()}권이 검색 조건과 일치합니다.`
+              : `전체 ${totalBooks.toLocaleString()}권을 도서명, 저자, 강좌명, ISBN으로 검색합니다.`}
+          </p>
           <div className="hero-cta-row">
             <a
               href="#catalog-list"
@@ -84,7 +101,7 @@ export function HeroSearch({
               관심 도서 열기 {selectedCount}
             </button>
           </div>
-        </div>
+        </form>
         <div className="hero-status-row" aria-label="핵심 기능">
           {['전체 도서 검색', 'AI 강좌 분류', '디지털 교재 필터', 'Gmail 공유', '태블릿 최적화'].map((label) => (
             <span key={label}>{label}</span>
