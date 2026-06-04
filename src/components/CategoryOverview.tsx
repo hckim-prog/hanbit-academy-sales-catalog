@@ -20,7 +20,6 @@ export function CategoryOverview({ categories, activeCategory, onSelectCategory 
             onClick={() => onSelectCategory(category)}
           >
             <span>{category}</span>
-            <small>{category === '전체' ? '전체 후보' : '강좌 후보'}</small>
           </button>
         ))}
       </div>
