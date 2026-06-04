@@ -31,12 +31,12 @@ export function HeroSearch({
     <section className="hero-search">
       <div className="hero-copy">
         <span className="hero-eyebrow">B2B Course Finder for Professors</span>
-        <h1 className="tracking-tight">미래를 이끄는 강의, 한빛아카데미가 제안합니다</h1>
+        <h1 className="font-sans font-extrabold tracking-tight">성공적인 강의를 위한 한빛아카데미 맞춤 제안</h1>
         <p className="hero-lede">
-          전공, 강좌, 난이도, 강의자료, 디지털 교재 여부를 한 번에 비교하고 교수님께 맞는 교재 후보를 빠르게 공유하세요.
+          교수님의 강의 맥락, 전공 분야, 난이도, 수업 목표에 맞춰 교재 후보를 빠르게 찾고 상담 현장에서 바로 공유하세요.
         </p>
         <form
-          className="hero-search-box rounded-2xl border border-slate-200/80 bg-white/80 p-2 shadow-xl shadow-slate-950/5 backdrop-blur"
+          className="hero-search-box rounded-2xl border border-white/80 bg-white/75 p-2 shadow-md shadow-slate-900/5 backdrop-blur-xl"
           onSubmit={(event) => {
             event.preventDefault()
             onViewAll()
@@ -84,7 +84,7 @@ export function HeroSearch({
       </div>
 
       <div className="hero-preview" aria-label="상담 미리보기">
-        <div className="preview-card course-signal-card border-slate-200/80 bg-white/85 shadow-xl shadow-slate-950/5">
+        <div className="preview-card course-signal-card">
           <span className="preview-label">
             <Sparkles size={14} /> 강좌 적합성
           </span>
@@ -93,7 +93,7 @@ export function HeroSearch({
         </div>
         <button
           type="button"
-          className="preview-card selected-preview-card border-slate-200/80 bg-white/85 shadow-xl shadow-slate-950/5"
+          className="preview-card selected-preview-card"
           onClick={onOpenSelected}
         >
           <span className="preview-label">
@@ -103,20 +103,20 @@ export function HeroSearch({
           <p>선택한 도서를 교수님께 바로 공유합니다.</p>
         </button>
         <div className="preview-grid">
-          <div className="preview-card mini signal-card border-blue-100 bg-blue-50/70">
+          <div className="preview-card mini signal-card cyan">
             <span className="preview-label">
               <GraduationCap size={14} /> 대상 학년
             </span>
             <strong>학년·난이도</strong>
           </div>
-          <div className="preview-card mini signal-card border-emerald-100 bg-emerald-50/70">
+          <div className="preview-card mini signal-card green">
             <span className="preview-label">
               <MonitorCheck size={14} /> 디지털
             </span>
             <strong>교재 형태</strong>
           </div>
         </div>
-        <div className="preview-card data-card border-slate-200/80 bg-white/85 shadow-xl shadow-slate-950/5">
+        <div className="preview-card data-card">
           <div>
             <span className="preview-label">카탈로그 현황</span>
             <strong>{totalBooks.toLocaleString()}권 상담 데이터</strong>

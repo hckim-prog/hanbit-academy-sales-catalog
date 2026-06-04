@@ -1,6 +1,6 @@
-import { BookPlus, Check, Eye, GraduationCap } from 'lucide-react'
+import { BookPlus, Check, Eye, GraduationCap, Sparkles } from 'lucide-react'
 import type { Book } from '../types/book'
-import { formatDate } from '../lib/utils'
+import { formatDate, isNewBook } from '../lib/utils'
 
 interface BookCardProps {
   book: Book
@@ -10,11 +10,14 @@ interface BookCardProps {
 }
 
 export function BookCard({ book, selected, onOpen, onToggleSelected }: BookCardProps) {
+  const isNew = isNewBook(book.pub_date)
+  const isBest = book.sales_priority === 'A' || book.is_strategy_book
+
   return (
-    <article className="book-card group rounded-2xl border border-slate-200 bg-white/95 shadow-sm shadow-slate-950/5 transition duration-200 hover:-translate-y-1 hover:border-blue-200 hover:shadow-xl hover:shadow-slate-950/10">
+    <article className="book-card group rounded-[22px] border border-white/80 bg-white/75 shadow-md shadow-slate-900/5 backdrop-blur-xl transition duration-300 hover:-translate-y-1 hover:border-slate-200 hover:shadow-xl hover:shadow-slate-900/10">
       <div className="cover-wrap">
         <img
-          className="rounded-xl shadow-md shadow-slate-950/10 transition duration-200 group-hover:shadow-lg"
+          className="rounded-2xl shadow-[0_18px_40px_rgba(0,0,0,0.42)] transition duration-300 group-hover:shadow-[0_22px_54px_rgba(103,232,249,0.16)]"
           src={book.cover_url}
           alt={`${book.title} 표지`}
         />
@@ -27,7 +30,12 @@ export function BookCard({ book, selected, onOpen, onToggleSelected }: BookCardP
           </div>
         </div>
         <div className="book-badge-row" aria-label="영업 신호">
-          {book.is_strategy_book && <span className="badge accent">전략도서</span>}
+          {isNew && (
+            <span className="badge neon-cyan">
+              <Sparkles size={13} /> NEW
+            </span>
+          )}
+          {isBest && <span className="badge neon-magenta">BEST</span>}
         </div>
         <div className="fit-strip" aria-label="상담 핵심 지표">
           <span>

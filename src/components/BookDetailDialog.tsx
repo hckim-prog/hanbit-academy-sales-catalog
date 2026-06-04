@@ -1,6 +1,6 @@
 import * as Dialog from '@radix-ui/react-dialog'
 import * as Tabs from '@radix-ui/react-tabs'
-import { BookPlus, Check, ExternalLink, X } from 'lucide-react'
+import { BookOpenText, BookPlus, Check, Download, ExternalLink, X } from 'lucide-react'
 import { useState } from 'react'
 import type { Book } from '../types/book'
 
@@ -43,6 +43,12 @@ export function BookDetailDialog({ book, selected, onOpenChange, onToggleSelecte
                     {selected ? <Check size={17} /> : <BookPlus size={17} />}
                     {selected ? '관심 도서에서 제거' : '관심 도서 담기'}
                   </button>
+                  <a href={book.detail_url} target="_blank" rel="noreferrer" className="primary-action wide neon-action">
+                    <BookOpenText size={16} /> Request Sample
+                  </a>
+                  <a href={book.detail_url} target="_blank" rel="noreferrer" className="secondary-action wide neon-secondary-action">
+                    <Download size={16} /> Download Materials
+                  </a>
                   <a href={book.detail_url} target="_blank" rel="noreferrer" className="secondary-action wide">
                     <ExternalLink size={16} /> 한빛 상세페이지
                   </a>

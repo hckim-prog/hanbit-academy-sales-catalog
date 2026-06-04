@@ -21,10 +21,10 @@ export function AppShell({ children, selectedCount, onOpenSelected }: AppShellPr
           </div>
         </div>
         <nav className="top-actions" aria-label="주요 작업">
-          <a href="#catalog-list" className="top-nav-link">전체 도서</a>
-          <a href="#catalog-list" className="top-nav-link">신간</a>
-          <a href="#catalog-list" className="top-nav-link">베스트셀러</a>
-          <a href="#catalog-list" className="top-nav-link">전공별 서치</a>
+          <a href="#catalog-list" className="top-nav-link">All</a>
+          <a href="#catalog-list" className="top-nav-link">New</a>
+          <a href="#catalog-list" className="top-nav-link">Bestsellers</a>
+          <a href="#catalog-list" className="top-nav-link">Major Search</a>
           <button type="button" className="icon-button" title="Gmail 공유">
             <Mail size={18} />
           </button>
