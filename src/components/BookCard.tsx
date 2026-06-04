@@ -1,7 +1,6 @@
 import { BookPlus, Check, Eye, FileText, GraduationCap, MonitorCheck } from 'lucide-react'
 import type { Book } from '../types/book'
 import { isNewBook } from '../lib/utils'
-import { ReviewRequiredBadge } from './ReviewRequiredBadge'
 
 interface BookCardProps {
   book: Book
@@ -23,7 +22,6 @@ export function BookCard({ book, selected, onOpen, onToggleSelected }: BookCardP
             <span className="category-label">{book.ai_primary_category}</span>
             <h3>{book.title}</h3>
           </div>
-          <ReviewRequiredBadge required={book.review_required} />
         </div>
         <div className="fit-strip" aria-label="상담 핵심 지표">
           <span>
@@ -48,7 +46,6 @@ export function BookCard({ book, selected, onOpen, onToggleSelected }: BookCardP
         <p className="authors">{book.authors.join(', ')}</p>
         <div className="book-signals">
           {book.is_strategy_book && <strong>전략</strong>}
-          {book.confidence < 0.85 && <span>AI 검수 {Math.round(book.confidence * 100)}%</span>}
           {book.sales_priority && <span>우선순위 {book.sales_priority}</span>}
         </div>
         <div className="card-actions">

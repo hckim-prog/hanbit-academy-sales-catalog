@@ -1,5 +1,4 @@
 import type { Book, CatalogFilters, SortKey } from '../types/book'
-import { isNewBook } from './utils'
 
 const salesPriorityWeight = { A: 3, B: 2, C: 1, '': 0 }
 
@@ -34,11 +33,6 @@ export function filterBooks(books: Book[], filters: CatalogFilters) {
     if (query && !searchable.includes(query)) return false
     if (filters.category !== '전체' && book.ai_primary_category !== filters.category) return false
     if (filters.courseTag !== '전체' && !book.course_tags.includes(filters.courseTag)) return false
-    if (filters.flags.strategy && !book.is_strategy_book) return false
-    if (filters.flags.digital && !book.is_digital_textbook) return false
-    if (filters.flags.materials && !(book.has_ppt || book.has_solution || book.has_sample)) return false
-    if (filters.flags.review && !book.review_required) return false
-    if (filters.flags.newOnly && !isNewBook(book.pub_date)) return false
     return true
   })
 }
@@ -50,7 +44,6 @@ export function sortBooks(books: Book[], sortKey: SortKey) {
     if (sortKey === 'salesPriority') {
       return salesPriorityWeight[b.sales_priority] - salesPriorityWeight[a.sales_priority]
     }
-    if (sortKey === 'lowConfidence') return a.confidence - b.confidence
     if (sortKey === 'updated') return dateValue(b.updated_at) - dateValue(a.updated_at)
     return dateValue(b.pub_date) - dateValue(a.pub_date)
   })

@@ -4,15 +4,12 @@ import {
   Mail,
   Search,
 } from 'lucide-react'
-import type { UpdateReport } from '../types/book'
-
 interface HeroSearchProps {
   query: string
   onQueryChange: (value: string) => void
   totalBooks: number
   filteredCount: number
   selectedCount: number
-  report: UpdateReport
   onViewAll: () => void
   onOpenSelected: () => void
 }
@@ -23,7 +20,6 @@ export function HeroSearch({
   totalBooks,
   filteredCount,
   selectedCount,
-  report,
   onViewAll,
   onOpenSelected,
 }: HeroSearchProps) {
@@ -97,21 +93,13 @@ export function HeroSearch({
         </button>
         <div className="preview-card data-card">
           <div>
-            <span className="preview-label">업데이트 상태</span>
-            <strong>{totalBooks.toLocaleString()}권 운영 데이터</strong>
+            <span className="preview-label">카탈로그 현황</span>
+            <strong>{totalBooks.toLocaleString()}권 상담 데이터</strong>
           </div>
           <dl>
             <div>
-              <dt>신규</dt>
-              <dd>{report.new_books.length}</dd>
-            </div>
-            <div>
-              <dt>검수</dt>
-              <dd>{report.review_required_books.length}</dd>
-            </div>
-            <div>
-              <dt>실패</dt>
-              <dd>{report.crawl_failed_urls.length}</dd>
+              <dt>검색</dt>
+              <dd>{filteredCount.toLocaleString()}</dd>
             </div>
           </dl>
         </div>

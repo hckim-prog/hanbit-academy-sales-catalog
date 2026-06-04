@@ -2,7 +2,6 @@ import * as Dialog from '@radix-ui/react-dialog'
 import * as Tabs from '@radix-ui/react-tabs'
 import { BookPlus, Check, ExternalLink, X } from 'lucide-react'
 import type { Book } from '../types/book'
-import { ReviewRequiredBadge } from './ReviewRequiredBadge'
 
 interface BookDetailDialogProps {
   book: Book | null
@@ -82,11 +81,8 @@ export function BookDetailDialog({ book, selected, onOpenChange, onToggleSelecte
                         ['1차 분야', book.ai_primary_category],
                         ['보조 분야', book.ai_secondary_categories.join(', ')],
                         ['강의 유형', book.teaching_type.join(', ')],
-                        ['분류 신뢰도', `${Math.round(book.confidence * 100)}%`],
-                        ['검수 상태', book.review_required ? '검수 필요' : '자동 승인'],
                       ]}
                     />
-                    <ReviewRequiredBadge required={book.review_required} />
                     <p className="detail-copy">{book.classification_reason}</p>
                   </Tabs.Content>
                   <Tabs.Content value="sales" className="tab-panel">

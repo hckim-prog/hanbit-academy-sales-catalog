@@ -8,10 +8,7 @@ export function UpdateStatusBadge({ report }: { report: UpdateReport }) {
       <RotateCcw size={18} />
       <div>
         <strong>{formatDate(report.last_updated_at)}</strong>
-        <span>
-          신규 {report.new_books.length} · 변경 {report.changed_books.length} · 검수{' '}
-          {report.review_required_books.length}
-        </span>
+        <span>신규 도서 {report.new_books.length}</span>
       </div>
     </div>
   )

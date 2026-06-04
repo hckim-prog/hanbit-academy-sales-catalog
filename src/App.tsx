@@ -27,13 +27,6 @@ function App() {
   const [category, setCategory] = useState('전체')
   const [courseTag, setCourseTag] = useState('전체')
   const [sortKey, setSortKey] = useState<SortKey>('newest')
-  const [flags] = useState({
-    strategy: false,
-    digital: false,
-    materials: false,
-    review: false,
-    newOnly: false,
-  })
   const [detailBook, setDetailBook] = useState<Book | null>(null)
   const [selectedOpen, setSelectedOpen] = useState(false)
   const [visibleCount, setVisibleCount] = useState(pageSize)
@@ -42,10 +35,10 @@ function App() {
   const filteredBooks = useMemo(
     () =>
       sortBooks(
-        filterBooks(books, { query, category, courseTag, flags }),
+        filterBooks(books, { query, category, courseTag }),
         sortKey,
       ),
-    [books, query, category, courseTag, flags, sortKey],
+    [books, query, category, courseTag, sortKey],
   )
   const visibleBooks = filteredBooks.slice(0, visibleCount)
   const hasMoreBooks = visibleCount < filteredBooks.length
@@ -111,7 +104,6 @@ function App() {
         totalBooks={books.length}
         filteredCount={filteredBooks.length}
         selectedCount={selected.selectedBooks.length}
-        report={updateReport}
         onViewAll={() =>
           document
             .querySelector('.catalog-toolbar')
@@ -131,8 +123,8 @@ function App() {
         />
         <div className="status-panel">
           <div>
-            <span className="eyebrow">업데이트 상태</span>
-            <h2>검수 중심 반자동 운영</h2>
+            <span className="eyebrow">카탈로그 현황</span>
+            <h2>상담용 최신 도서 데이터</h2>
           </div>
           <UpdateStatusBadge report={updateReport} />
         </div>
@@ -168,7 +160,6 @@ function App() {
             <option value="title">도서명순</option>
             <option value="category">분야순</option>
             <option value="salesPriority">영업 우선순위순</option>
-            <option value="lowConfidence">AI 신뢰도 낮은 순</option>
             <option value="updated">최근 업데이트순</option>
           </select>
         </div>

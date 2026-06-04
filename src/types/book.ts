@@ -18,7 +18,6 @@ export type SortKey =
   | 'title'
   | 'category'
   | 'salesPriority'
-  | 'lowConfidence'
   | 'updated'
 
 export interface Book {
@@ -93,11 +92,4 @@ export interface CatalogFilters {
   query: string
   category: string
   courseTag: string
-  flags: {
-    strategy: boolean
-    digital: boolean
-    materials: boolean
-    review: boolean
-    newOnly: boolean
-  }
 }
