@@ -18,7 +18,6 @@ export function BookCard({ book, selected, onOpen, onToggleSelected }: BookCardP
           src={book.cover_url}
           alt={`${book.title} 표지`}
         />
-        <span>{book.ai_primary_category}</span>
       </div>
       <div className="book-main">
         <div className="book-card-head">
@@ -35,13 +34,6 @@ export function BookCard({ book, selected, onOpen, onToggleSelected }: BookCardP
             <GraduationCap size={15} /> {book.target_grade || '학년 미정'}
           </span>
           <span>{book.difficulty_level || '난이도 미정'}</span>
-        </div>
-        <div className="tag-row">
-          {book.course_tags.slice(0, 3).map((tag) => (
-            <span key={tag} className="badge">
-              {tag}
-            </span>
-          ))}
         </div>
         <p className="summary">{book.one_line_summary}</p>
         <p className="authors">

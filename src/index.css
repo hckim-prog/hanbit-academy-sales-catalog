@@ -476,7 +476,6 @@ main {
 .quick-filters,
 .filter-chip-row,
 .tag-scroll,
-.tag-row,
 .book-badge-row,
 .book-signals {
   display: flex;
@@ -765,12 +764,6 @@ select {
   opacity: 0.92;
 }
 
-.cover-wrap span {
-  display: block;
-  margin-top: 7px;
-  overflow-wrap: anywhere;
-}
-
 .book-main {
   display: flex;
   min-width: 0;
@@ -816,10 +809,6 @@ select {
   margin-top: 10px;
   line-height: 1.6;
   font-size: 14px;
-}
-
-.tag-row {
-  margin-top: 9px;
 }
 
 .fit-strip {
