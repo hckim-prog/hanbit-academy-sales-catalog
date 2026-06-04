@@ -1,4 +1,5 @@
 import type { Book, CatalogFilters, SortKey } from '../types/book'
+import { isNewBook } from './utils'
 
 const salesPriorityWeight = { A: 3, B: 2, C: 1, '': 0 }
 
@@ -33,6 +34,12 @@ export function filterBooks(books: Book[], filters: CatalogFilters) {
     if (query && !searchable.includes(query)) return false
     if (filters.category !== '전체' && book.ai_primary_category !== filters.category) return false
     if (filters.courseTag !== '전체' && !book.course_tags.includes(filters.courseTag)) return false
+    if (filters.difficulty !== '전체' && book.difficulty_level !== filters.difficulty) return false
+    if (filters.flags.strategy && !book.is_strategy_book) return false
+    if (filters.flags.digital && !(book.is_digital_textbook || book.ebook_available)) return false
+    if (filters.flags.materials && !(book.has_ppt || book.has_solution || book.has_sample)) return false
+    if (filters.flags.review && !book.review_required) return false
+    if (filters.flags.newOnly && !isNewBook(book.pub_date)) return false
     return true
   })
 }

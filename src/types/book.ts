@@ -92,4 +92,12 @@ export interface CatalogFilters {
   query: string
   category: string
   courseTag: string
+  difficulty: string
+  flags: {
+    strategy: boolean
+    digital: boolean
+    materials: boolean
+    review: boolean
+    newOnly: boolean
+  }
 }

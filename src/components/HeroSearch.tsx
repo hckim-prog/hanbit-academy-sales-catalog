@@ -1,8 +1,12 @@
 import {
   BookmarkCheck,
   DatabaseZap,
+  GraduationCap,
+  Layers3,
   Mail,
+  MonitorCheck,
   Search,
+  Sparkles,
 } from 'lucide-react'
 interface HeroSearchProps {
   query: string
@@ -26,19 +30,19 @@ export function HeroSearch({
   return (
     <section className="hero-search">
       <div className="hero-copy">
-        <span className="hero-eyebrow">Hanbit Academy Sales Catalog</span>
-        <h1>교수님 강의에 맞는 교재를 빠르게 찾고 공유하세요</h1>
+        <span className="hero-eyebrow">B2B Course Finder for Professors</span>
+        <h1 className="tracking-tight">미래를 이끄는 강의, 한빛아카데미가 제안합니다</h1>
         <p className="hero-lede">
-          분야, 강좌, 난이도, 디지털 교재 여부를 기준으로 도서를 찾고, 관심 도서를 담아 Gmail로 바로 공유할 수 있습니다.
+          전공, 강좌, 난이도, 강의자료, 디지털 교재 여부를 한 번에 비교하고 교수님께 맞는 교재 후보를 빠르게 공유하세요.
         </p>
         <form
-          className="hero-search-box"
+          className="hero-search-box rounded-2xl border border-slate-200/80 bg-white/80 p-2 shadow-xl shadow-slate-950/5 backdrop-blur"
           onSubmit={(event) => {
             event.preventDefault()
             onViewAll()
           }}
         >
-          <div className="search-input hero-input">
+          <div className="search-input hero-input border-0 bg-transparent shadow-none">
             <Search size={24} />
             <input
               aria-label="도서 검색"
@@ -80,9 +84,16 @@ export function HeroSearch({
       </div>
 
       <div className="hero-preview" aria-label="상담 미리보기">
+        <div className="preview-card course-signal-card border-slate-200/80 bg-white/85 shadow-xl shadow-slate-950/5">
+          <span className="preview-label">
+            <Sparkles size={14} /> 강좌 적합성
+          </span>
+          <strong>수업명 중심으로 후보 압축</strong>
+          <p>분야보다 강의 상황을 먼저 보고 교재를 비교합니다.</p>
+        </div>
         <button
           type="button"
-          className="preview-card selected-preview-card"
+          className="preview-card selected-preview-card border-slate-200/80 bg-white/85 shadow-xl shadow-slate-950/5"
           onClick={onOpenSelected}
         >
           <span className="preview-label">
@@ -91,14 +102,30 @@ export function HeroSearch({
           <strong>{selectedCount}권 선택 · Gmail 공유</strong>
           <p>선택한 도서를 교수님께 바로 공유합니다.</p>
         </button>
-        <div className="preview-card data-card">
+        <div className="preview-grid">
+          <div className="preview-card mini signal-card border-blue-100 bg-blue-50/70">
+            <span className="preview-label">
+              <GraduationCap size={14} /> 대상 학년
+            </span>
+            <strong>학년·난이도</strong>
+          </div>
+          <div className="preview-card mini signal-card border-emerald-100 bg-emerald-50/70">
+            <span className="preview-label">
+              <MonitorCheck size={14} /> 디지털
+            </span>
+            <strong>교재 형태</strong>
+          </div>
+        </div>
+        <div className="preview-card data-card border-slate-200/80 bg-white/85 shadow-xl shadow-slate-950/5">
           <div>
             <span className="preview-label">카탈로그 현황</span>
             <strong>{totalBooks.toLocaleString()}권 상담 데이터</strong>
           </div>
           <dl>
             <div>
-              <dt>검색</dt>
+              <dt>
+                <Layers3 size={13} /> 검색 결과
+              </dt>
               <dd>{filteredCount.toLocaleString()}</dd>
             </div>
           </dl>

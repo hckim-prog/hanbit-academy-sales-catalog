@@ -1,4 +1,4 @@
-import { BookMarked, LibraryBig, Mail, ShoppingBag } from 'lucide-react'
+import { BookMarked, LibraryBig, Mail, SearchCheck } from 'lucide-react'
 import type { ReactNode } from 'react'
 
 interface AppShellProps {
@@ -17,10 +17,14 @@ export function AppShell({ children, selectedCount, onOpenSelected }: AppShellPr
           </div>
           <div>
             <strong>Hanbit Academy Sales Catalog</strong>
-            <span>교수 상담용 웹 카탈로그</span>
+            <span>Premium Course Finder</span>
           </div>
         </div>
         <nav className="top-actions" aria-label="주요 작업">
+          <a href="#catalog-list" className="top-nav-link">전체 도서</a>
+          <a href="#catalog-list" className="top-nav-link">신간</a>
+          <a href="#catalog-list" className="top-nav-link">베스트셀러</a>
+          <a href="#catalog-list" className="top-nav-link">전공별 서치</a>
           <button type="button" className="icon-button" title="Gmail 공유">
             <Mail size={18} />
           </button>
@@ -32,8 +36,8 @@ export function AppShell({ children, selectedCount, onOpenSelected }: AppShellPr
       </header>
       <main>{children}</main>
       <footer className="app-footer">
-        <ShoppingBag size={16} />
-        <span>가격보다 강좌 적합성, 제공 자료, 디지털 교재 여부를 우선 표시합니다.</span>
+        <SearchCheck size={16} />
+        <span>강좌 적합성, 제공 자료, 디지털 교재 여부를 중심으로 상담 후보를 정리합니다.</span>
       </footer>
     </div>
   )

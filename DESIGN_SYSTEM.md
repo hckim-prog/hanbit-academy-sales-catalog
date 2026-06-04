@@ -15,11 +15,11 @@ The product should feel like a premium SaaS course-finder dashboard for tablet-b
 - `--color-text-soft`: tertiary labels.
 - `--color-border`: default borders.
 - `--color-border-strong`: focused or structural borders.
-- `--color-accent`: Hanbit orange, only for primary actions, focus rings, and selected states.
-- `--color-accent-soft`: light orange selected state background.
-- `--color-accent-ink`: text on pale orange states.
+- `--color-accent`: cobalt blue or deep navy, only for primary actions, focus rings, and selected states.
+- `--color-accent-soft`: pale blue selected state background.
+- `--color-accent-ink`: text on pale blue states.
 
-Hanbit orange must remain a point color. Never use it as a full-page background or dominant gradient.
+Hanbit orange should not be a dominant UI color. Use deep navy and cobalt blue for trust, clarity, and global SaaS polish.
 
 ## 2. Background Style
 
@@ -37,7 +37,7 @@ Hanbit orange must remain a point color. Never use it as a full-page background 
 
 ## 4. Button Style
 
-- Primary buttons use Hanbit orange sparingly.
+- Primary buttons use cobalt blue or deep navy sparingly.
 - Secondary buttons use white surfaces, gray borders, and dark text.
 - Buttons must be tablet-friendly with at least 42px height.
 - Icon + label is preferred for core actions.
@@ -45,7 +45,7 @@ Hanbit orange must remain a point color. Never use it as a full-page background 
 ## 5. Badge Style
 
 - Badges are quiet metadata chips with neutral borders.
-- Active badges use light orange fill and orange-brown text.
+- Active badges use pale blue fill and cobalt text.
 - Badges should represent sales-useful signals: course tag, grade, teaching material, digital format, priority.
 - Internal operations badges such as review/failure states should not appear in the sales UI.
 
@@ -53,7 +53,7 @@ Hanbit orange must remain a point color. Never use it as a full-page background 
 
 - Search is the primary hero control.
 - Search fields should be large, high contrast, and centered in the first task flow.
-- Focus state should use a subtle orange ring.
+- Focus state should use a subtle cobalt ring.
 - Placeholder should support title, author, course name, and ISBN.
 
 ## 7. Sidebar/Filter Style

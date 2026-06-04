@@ -26,6 +26,14 @@ function App() {
   const [query, setQuery] = useState('')
   const [category, setCategory] = useState('전체')
   const [courseTag, setCourseTag] = useState('전체')
+  const [difficulty, setDifficulty] = useState('전체')
+  const [flags, setFlags] = useState({
+    strategy: false,
+    digital: false,
+    materials: false,
+    review: false,
+    newOnly: false,
+  })
   const [sortKey, setSortKey] = useState<SortKey>('newest')
   const [detailBook, setDetailBook] = useState<Book | null>(null)
   const [selectedOpen, setSelectedOpen] = useState(false)
@@ -35,10 +43,10 @@ function App() {
   const filteredBooks = useMemo(
     () =>
       sortBooks(
-        filterBooks(books, { query, category, courseTag }),
+        filterBooks(books, { query, category, courseTag, difficulty, flags }),
         sortKey,
       ),
-    [books, query, category, courseTag, sortKey],
+    [books, query, category, courseTag, difficulty, flags, sortKey],
   )
   const visibleBooks = filteredBooks.slice(0, visibleCount)
   const hasMoreBooks = visibleCount < filteredBooks.length
@@ -133,8 +141,18 @@ function App() {
       <CourseTagFilter
         tags={facets.courseTags}
         activeTag={courseTag}
+        activeDifficulty={difficulty}
+        flags={flags}
         onSelectTag={(nextTag) => {
           setCourseTag(nextTag)
+          resetVisibleBooks()
+        }}
+        onSelectDifficulty={(nextDifficulty) => {
+          setDifficulty(nextDifficulty)
+          resetVisibleBooks()
+        }}
+        onToggleFlag={(flag) => {
+          setFlags((currentFlags) => ({ ...currentFlags, [flag]: !currentFlags[flag] }))
           resetVisibleBooks()
         }}
       />

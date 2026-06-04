@@ -1,6 +1,7 @@
 import * as Dialog from '@radix-ui/react-dialog'
 import * as Tabs from '@radix-ui/react-tabs'
-import { BookPlus, Check, ExternalLink, X } from 'lucide-react'
+import { BookOpenText, BookPlus, Check, Download, ExternalLink, FileText, X } from 'lucide-react'
+import { useState } from 'react'
 import type { Book } from '../types/book'
 
 interface BookDetailDialogProps {
@@ -11,8 +12,16 @@ interface BookDetailDialogProps {
 }
 
 export function BookDetailDialog({ book, selected, onOpenChange, onToggleSelected }: BookDetailDialogProps) {
+  const [activeTab, setActiveTab] = useState('summary')
+
   return (
-    <Dialog.Root open={Boolean(book)} onOpenChange={onOpenChange}>
+    <Dialog.Root
+      open={Boolean(book)}
+      onOpenChange={(open) => {
+        if (!open) setActiveTab('summary')
+        onOpenChange(open)
+      }}
+    >
       <Dialog.Portal>
         <Dialog.Overlay className="dialog-overlay" />
         <Dialog.Content className="dialog-content">
@@ -34,11 +43,24 @@ export function BookDetailDialog({ book, selected, onOpenChange, onToggleSelecte
                     {selected ? <Check size={17} /> : <BookPlus size={17} />}
                     {selected ? '관심 도서에서 제거' : '관심 도서 담기'}
                   </button>
+                  <a href={book.detail_url} target="_blank" rel="noreferrer" className="primary-action wide">
+                    <BookOpenText size={16} /> 견본서 신청하기
+                  </a>
+                  <a href={book.detail_url} target="_blank" rel="noreferrer" className="secondary-action wide">
+                    <Download size={16} /> 강의교안 다운로드
+                  </a>
+                  <button
+                    type="button"
+                    className="secondary-action wide"
+                    onClick={() => setActiveTab('toc')}
+                  >
+                    <FileText size={16} /> 목차 미리보기
+                  </button>
                   <a href={book.detail_url} target="_blank" rel="noreferrer" className="secondary-action wide">
                     <ExternalLink size={16} /> 한빛 상세페이지
                   </a>
                 </aside>
-                <Tabs.Root defaultValue="summary" className="detail-tabs">
+                <Tabs.Root value={activeTab} onValueChange={setActiveTab} className="detail-tabs">
                   <Tabs.List className="tab-list">
                     <Tabs.Trigger value="summary">핵심 요약</Tabs.Trigger>
                     <Tabs.Trigger value="official">공식 정보</Tabs.Trigger>

@@ -1,5 +1,5 @@
 import * as Dialog from '@radix-ui/react-dialog'
-import { Trash2, X } from 'lucide-react'
+import { BookOpenCheck, Trash2, X } from 'lucide-react'
 import type { Book } from '../types/book'
 import { EmailComposerButton } from './EmailComposerButton'
 
@@ -39,7 +39,13 @@ export function SelectedBooksSheet({ open, onOpenChange, books, onRemove, onClea
                 </button>
               </article>
             ))}
-            {!books.length && <p className="muted">아직 담은 도서가 없습니다.</p>}
+            {!books.length && (
+              <div className="sheet-empty">
+                <BookOpenCheck size={24} />
+                <strong>아직 담은 도서가 없습니다</strong>
+                <p>상담 중 관심 도서를 담으면 이곳에서 Gmail 공유 문안을 바로 만들 수 있습니다.</p>
+              </div>
+            )}
           </div>
           <div className="sheet-actions">
             <EmailComposerButton books={books} />
