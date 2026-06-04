@@ -27,7 +27,7 @@ function App() {
   const [category, setCategory] = useState('전체')
   const [courseTag, setCourseTag] = useState('전체')
   const [sortKey, setSortKey] = useState<SortKey>('newest')
-  const [flags, setFlags] = useState({
+  const [flags] = useState({
     strategy: false,
     digital: false,
     materials: false,
@@ -118,11 +118,6 @@ function App() {
             ?.scrollIntoView({ behavior: 'smooth', block: 'start' })
         }
         onOpenSelected={() => setSelectedOpen(true)}
-        flags={flags}
-        onFlagsChange={(nextFlags) => {
-          setFlags(nextFlags)
-          resetVisibleBooks()
-        }}
       />
 
       <section className="overview-row">

@@ -284,26 +284,6 @@ main {
   padding-inline: 18px;
 }
 
-.hero-status-row {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
-  margin-top: 22px;
-}
-
-.hero-status-row span {
-  display: inline-flex;
-  align-items: center;
-  min-height: 30px;
-  padding: 0 10px;
-  border: 1px solid rgba(229, 231, 235, 0.88);
-  border-radius: 999px;
-  color: #475467;
-  background: rgba(255, 255, 255, 0.7);
-  font-size: 12px;
-  font-weight: 800;
-}
-
 .hero-preview {
   position: relative;
   z-index: 1;
@@ -320,10 +300,6 @@ main {
   background: rgba(255, 255, 255, 0.78);
   box-shadow: 0 20px 56px rgba(16, 24, 40, 0.08);
   backdrop-filter: blur(14px);
-}
-
-.preview-card.course-card {
-  padding: 20px;
 }
 
 .preview-card strong {
@@ -350,22 +326,16 @@ main {
   font-weight: 850;
 }
 
-.preview-grid {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 12px;
-}
-
-.preview-card.mini {
-  min-height: 124px;
-  padding: 16px;
+.selected-preview-card {
+  min-height: 142px;
+  padding: 18px;
   color: inherit;
   text-align: left;
 }
 
-.preview-card.mini.active {
-  border-color: #fed7aa;
-  background: rgba(255, 247, 237, 0.86);
+.selected-preview-card:hover {
+  border-color: #fdba74;
+  background: rgba(255, 247, 237, 0.78);
 }
 
 .preview-card.data-card {
@@ -398,14 +368,6 @@ main {
   color: #111827;
   font-size: 20px;
   font-weight: 850;
-}
-
-.hero-filter-row {
-  padding: 6px;
-  border: 1px solid rgba(229, 231, 235, 0.78);
-  border-radius: 10px;
-  background: rgba(255, 255, 255, 0.66);
-  backdrop-filter: blur(12px);
 }
 
 .search-input input {
@@ -1123,7 +1085,6 @@ select {
     padding: 0 10px;
   }
 
-  .preview-grid,
   .preview-card.data-card,
   .preview-card.data-card dl {
     grid-template-columns: 1fr;
