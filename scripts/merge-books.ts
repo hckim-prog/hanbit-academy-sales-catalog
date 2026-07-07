@@ -4,6 +4,7 @@ async function main() {
   const rawBooks = await readJson<RawBook[]>('data/books_raw.json', [])
   const aiBooks = await readJson<ClassifiedBook[]>('data/books_ai_classified.json', [])
   const salesMeta = await readJson<SalesMeta[]>('data/books_sales_meta.json', [])
+  const updateReport = await readJson<{ last_updated_at?: string }>('data/update_report.json', {})
   const aiById = new Map(aiBooks.map((book) => [book.book_id, book]))
   const salesById = new Map(salesMeta.map((book) => [book.book_id, book]))
 
@@ -61,6 +62,10 @@ async function main() {
       merged.map((book) => [book.book_id, { intro: book.intro, toc: book.toc, author_intro: book.author_intro }]),
     ),
   )
+  await writeJson('data/catalog_meta.json', {
+    last_updated_at: updateReport.last_updated_at || '',
+    total_books: merged.length,
+  })
   console.log(`[merge] saved ${merged.length} merged books`)
 }
 

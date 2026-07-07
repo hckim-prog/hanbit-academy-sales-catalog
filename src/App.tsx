@@ -7,6 +7,7 @@ import { LoadingState } from './components/LoadingState'
 import { useSelectedBooks } from './lib/useSelectedBooks'
 import { rankBooks } from './lib/catalog'
 import type { Book } from './types/book'
+import catalogMeta from '../data/catalog_meta.json'
 
 const BookDetailDialog = lazy(() => import('./components/BookDetailDialog').then((module) => ({ default: module.BookDetailDialog })))
 const SelectedBooksSheet = lazy(() => import('./components/SelectedBooksSheet').then((module) => ({ default: module.SelectedBooksSheet })))
@@ -76,7 +77,7 @@ function App() {
   const resultTitle = submittedQuery ? `“${submittedQuery}” 검색 결과` : category !== '전체' ? `${category} 도서` : '최근 출간 도서'
 
   return (
-    <AppShell selectedCount={selected.selectedBooks.length} onOpenSelected={() => setSelectedOpen(true)}>
+    <AppShell lastUpdatedAt={catalogMeta.last_updated_at} selectedCount={selected.selectedBooks.length} onOpenSelected={() => setSelectedOpen(true)}>
       <HeroSearch query={query} onQueryChange={setQuery} onSubmit={submitSearch} totalBooks={books.length} />
 
       <nav className="discipline-browser" aria-label="분야별 도서 찾기">
