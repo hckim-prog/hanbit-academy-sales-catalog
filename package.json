@@ -11,6 +11,8 @@
     "crawl:all": "tsx scripts/crawl-hanbit-books.ts --mode all && npm run classify && npm run merge",
     "classify": "tsx scripts/classify-books.ts",
     "merge": "tsx scripts/merge-books.ts",
+    "verify:content": "tsx scripts/verify-official-content.ts",
+    "verify:classification": "tsx scripts/verify-classification.ts",
     "update:books": "tsx scripts/update-books.ts",
     "lint": "eslint .",
     "preview": "vite preview"

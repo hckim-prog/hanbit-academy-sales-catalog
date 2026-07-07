@@ -32,7 +32,7 @@ export function SelectedBooksSheet({ open, onOpenChange, books, onRemove, onClea
                 <img src={book.cover_url} alt="" />
                 <div>
                   <strong>{book.title}</strong>
-                  <span>{book.course_tags.slice(0, 2).join(', ')}</span>
+                  <span>{book.ai_primary_category}</span>
                 </div>
                 <button type="button" className="icon-button" onClick={() => onRemove(book.book_id)} aria-label="삭제">
                   <Trash2 size={17} />

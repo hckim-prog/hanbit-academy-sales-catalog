@@ -1,0 +1,62 @@
+name: Daily catalog update
+
+on:
+  schedule:
+    # 05:00 Asia/Seoul = 20:00 UTC on the previous day
+    - cron: '0 20 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-catalog-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Check out catalog
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Check latest Hanbit titles
+        run: npm run update:books
+
+      - name: Detect new titles
+        id: changes
+        shell: bash
+        run: |
+          if git diff --quiet -- data/books_raw.json; then
+            echo "has_new_books=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "has_new_books=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Classify and generate catalog
+        if: steps.changes.outputs.has_new_books == 'true'
+        run: npm run classify && npm run merge
+
+      - name: Verify classification and build
+        if: steps.changes.outputs.has_new_books == 'true'
+        run: npm run verify:classification && npm run lint && npm run build
+
+      - name: Publish verified catalog data
+        if: steps.changes.outputs.has_new_books == 'true'
+        shell: bash
+        run: |
+          git config user.name "hanbit-catalog-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/books_raw.json data/books_ai_classified.json data/books_merged.json data/books_catalog.json data/book_details.json data/update_report.json logs/crawl_errors.json
+          git commit -m "data: update Hanbit catalog $(date -u +%Y-%m-%d)"
+          git push
