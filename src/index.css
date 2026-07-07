@@ -1434,6 +1434,20 @@ select {
 .simple-brand strong { font-size: 16px; }
 .simple-brand small { margin-top: 1px; color: var(--color-text-muted); font-size: 11px; }
 
+.catalog-updated {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 7px 11px;
+  border-radius: 999px;
+  color: #3f4b5c;
+  background: #f1f5f9;
+  font-size: 12px;
+  font-weight: 700;
+}
+.catalog-updated svg { color: #138a50; }
+.catalog-updated time { color: var(--color-text); font-weight: 850; }
+
 .simple-topbar .selected-button strong {
   min-width: 24px;
   padding: 2px 7px;
@@ -1617,6 +1631,8 @@ select {
 @media (max-width: 600px) {
   .simple-topbar { padding-inline: 14px; }
   .simple-brand small { display: none; }
+  .catalog-updated span { display: none; }
+  .catalog-updated { padding-inline: 9px; font-size: 10px; }
   .simple-topbar .selected-button { padding-inline: 10px; font-size: 12px; }
   .simple-hero { padding: 42px 16px 40px; }
   .simple-hero h1 { font-size: 32px; }
