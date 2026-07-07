@@ -39,7 +39,7 @@ async function main() {
       professor_talk: sales?.professor_talk || '',
       replacement_books: sales?.replacement_books || [],
       internal_note: sales?.internal_note || '',
-      mail_text: sales?.mail_text || ai?.one_line_summary || '',
+      mail_text: createEmailSummary(raw),
       reviewed_by: sales?.reviewed_by || '',
       reviewed_at: sales?.reviewed_at || '',
       updated_at: new Date().toISOString(),
@@ -47,7 +47,41 @@ async function main() {
   })
 
   await writeJson('data/books_merged.json', merged)
+  await writeJson(
+    'data/books_catalog.json',
+    merged.map((book) =>
+      Object.fromEntries(
+        Object.entries(book).filter(([key]) => !['intro', 'toc', 'author_intro'].includes(key)),
+      ),
+    ),
+  )
+  await writeJson(
+    'data/book_details.json',
+    Object.fromEntries(
+      merged.map((book) => [book.book_id, { intro: book.intro, toc: book.toc, author_intro: book.author_intro }]),
+    ),
+  )
   console.log(`[merge] saved ${merged.length} merged books`)
+}
+
+function createEmailSummary(book: RawBook) {
+  const units = [book.subtitle, ...book.intro.split('\n')]
+    .map((value) => value.trim())
+    .filter(Boolean)
+    .flatMap((value) => {
+      const sentences = value.match(/[^.!?。！？]+[.!?。！？]+/g)?.map((sentence) => sentence.trim()) || []
+      return sentences.length ? sentences : [value]
+    })
+
+  const selected: string[] = []
+  for (const unit of units) {
+    if (selected.includes(unit)) continue
+    if (selected.length && selected.join(' ').length + unit.length + 1 > 220) break
+    selected.push(unit)
+    if (selected.length === 2 || selected.join(' ').length >= 120) break
+  }
+
+  return selected.join(' ')
 }
 
 main().catch((error) => {

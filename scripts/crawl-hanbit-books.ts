@@ -18,7 +18,7 @@ interface CrawlError {
   reason: string
 }
 
-interface BookSeed {
+export interface BookSeed {
   title: string
   authors: string[]
   price: string
@@ -189,7 +189,7 @@ function mergeSeeds(listSeeds: BookSeed[], downloadSeeds: BookSeed[]) {
   return dedupeSeeds(merged)
 }
 
-async function crawlDetail(seed: BookSeed): Promise<RawBook> {
+export async function crawlDetail(seed: BookSeed): Promise<RawBook> {
   const html = await fetchText(seed.detail_url)
   const $ = cheerio.load(html)
   const pageText = normalizeSpace($('body').text())
@@ -221,9 +221,9 @@ async function crawlDetail(seed: BookSeed): Promise<RawBook> {
     ebook_available: /전자책|eBook|ebook/i.test(pageText),
     rental_available: /대여 가능|대여/.test(pageText),
     difficulty_from_site: extractDifficulty($),
-    intro: collectSection($, ['책소개', '소개', '이 책이 필요한 독자']),
-    toc: collectSection($, ['목차']),
-    author_intro: collectSection($, ['저자소개', '저자 소개']),
+    intro: extractOfficialSection($, '#tabs_1 .detail_conbox'),
+    toc: extractOfficialSection($, '#tabs_3 .detail_conbox'),
+    author_intro: extractOfficialSection($, '#tabs_2 .detail_conbox'),
     series: extractSeries($, pageText),
     source_materials: inferMaterials(pageText),
     out_of_stock: seed.out_of_stock || /품절|절판|구매불가/.test(pageText),
@@ -370,15 +370,20 @@ function normalizeDate(value: string) {
   return `${match[1]}-${match[2].padStart(2, '0')}-${match[3].padStart(2, '0')}`
 }
 
-function collectSection($: cheerio.CheerioAPI, labels: string[]) {
-  for (const label of labels) {
-    const heading = $(`*:contains("${label}")`)
-      .filter((_, element) => normalizeSpace($(element).text()) === label)
-      .first()
-    const text = normalizeSpace(heading.parent().next().text() || heading.next().text())
-    if (text) return text
-  }
-  return ''
+export function extractOfficialSection($: cheerio.CheerioAPI, selector: string) {
+  const section = $(selector).first().clone()
+  if (!section.length) return ''
+  section.find('script, style, noscript').remove()
+  section.find('br').replaceWith('\n')
+  section.find('p, div, li, tr, h1, h2, h3, h4, h5').each((_, element) => {
+    $(element).append('\n')
+  })
+  return section
+    .text()
+    .split('\n')
+    .map((line) => normalizeSpace(line))
+    .filter(Boolean)
+    .join('\n')
 }
 
 function inferMaterials(text: string) {
