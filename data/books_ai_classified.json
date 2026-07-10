@@ -1,5 +1,34 @@
 [
   {
+    "book_id": "B3391602187",
+    "ai_primary_category": "AI/데이터과학",
+    "ai_secondary_categories": [
+      "기초수학"
+    ],
+    "course_tags": [
+      "인공지능",
+      "머신러닝",
+      "딥러닝",
+      "선형대수"
+    ],
+    "target_department": [],
+    "target_grade": "",
+    "difficulty_level": "중고급",
+    "teaching_type": [],
+    "sales_keywords": [
+      "인공지능",
+      "머신러닝",
+      "딥러닝",
+      "선형대수"
+    ],
+    "digital_relevance": "",
+    "one_line_summary": "",
+    "confidence": 0.98,
+    "classification_reason": "서지정보 가중치 분류 84.0점 (title:머신러닝 / toc:머신러닝,딥러닝,자연어 처리 / intro:ai,인공지능,머신러닝). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
+    "review_required": false,
+    "classified_at": "2026-07-10T21:06:57.602Z"
+  },
+  {
     "book_id": "B6873873587",
     "ai_primary_category": "AI/데이터과학",
     "ai_secondary_categories": [
@@ -23,7 +52,7 @@
     "confidence": 0.81,
     "classification_reason": "서지정보 가중치 분류 36.0점 (toc:ai,데이터 과학,데이터과학 / intro:ai). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:56.885Z"
+    "classified_at": "2026-07-10T21:06:57.614Z"
   },
   {
     "book_id": "B7196498731",
@@ -47,7 +76,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 96.0점 (title:ai / subtitle:ai,생성형 ai / intro:ai,생성형 ai / source:대학교재 > 데이터과학/인공지능). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:56.900Z"
+    "classified_at": "2026-07-10T21:06:57.629Z"
   },
   {
     "book_id": "B5809577664",
@@ -68,7 +97,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 80.0점 (title:반도체 / toc:반도체 / intro:반도체 / source:대학교재 > 전기/전자). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:56.913Z"
+    "classified_at": "2026-07-10T21:06:57.642Z"
   },
   {
     "book_id": "B9849783303",
@@ -91,7 +120,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 84.5점 (title:plc / toc:전기회로,plc / intro:반도체,plc / source:대학교재 > 전기/전자). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:56.929Z"
+    "classified_at": "2026-07-10T21:06:57.658Z"
   },
   {
     "book_id": "B3168618559",
@@ -114,7 +143,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 80.0점 (title:칼만 필터 / toc:칼만 필터 / intro:칼만 필터 / source:대학교재 > 전기/전자). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:56.940Z"
+    "classified_at": "2026-07-10T21:06:57.668Z"
   },
   {
     "book_id": "B7612122780",
@@ -146,7 +175,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 84.0점 (title:인공지능 / toc:ai,인공지능,머신러닝 / intro:ai,인공지능,딥러닝). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:56.954Z"
+    "classified_at": "2026-07-10T21:06:57.683Z"
   },
   {
     "book_id": "B5440354875",
@@ -176,7 +205,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 80.0점 (title:이산수학 / toc:이산수학 / intro:이산수학 / source:대학교재 > 수학/통계). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:56.963Z"
+    "classified_at": "2026-07-10T21:06:57.692Z"
   },
   {
     "book_id": "B6694163768",
@@ -201,7 +230,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 79.5점 (title:자료구조 / toc:자료구조,알고리즘 / intro:자료구조,알고리즘). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:56.973Z"
+    "classified_at": "2026-07-10T21:06:57.701Z"
   },
   {
     "book_id": "B3187186805",
@@ -222,7 +251,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 55.0점 (title:컴퓨터 네트워크 / intro:컴퓨터 네트워크). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:56.983Z"
+    "classified_at": "2026-07-10T21:06:57.712Z"
   },
   {
     "book_id": "B3602695498",
@@ -246,7 +275,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 108.0점 (title:리눅스 / subtitle:리눅스 / toc:운영체제,리눅스 / intro:리눅스). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:56.995Z"
+    "classified_at": "2026-07-10T21:06:57.724Z"
   },
   {
     "book_id": "B9532893413",
@@ -267,7 +296,7 @@
     "confidence": 0.85,
     "classification_reason": "서지정보 가중치 분류 25.0점 (toc:재무회계 / source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:57.005Z"
+    "classified_at": "2026-07-10T21:06:57.733Z"
   },
   {
     "book_id": "B9521577345",
@@ -292,7 +321,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 110.0점 (title:ai / subtitle:인공지능 / toc:ai / intro:ai / source:대학교재 > 데이터과학/인공지능). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:57.012Z"
+    "classified_at": "2026-07-10T21:06:57.740Z"
   },
   {
     "book_id": "B6214507465",
@@ -313,7 +342,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 60.0점 (title:기계공작 / intro:기계공작 / source:대학교재 > 기계/자동차). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:57.020Z"
+    "classified_at": "2026-07-10T21:06:57.748Z"
   },
   {
     "book_id": "B6533879018",
@@ -334,7 +363,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 80.0점 (title:제어공학 / toc:제어공학 / intro:제어공학 / source:대학교재 > 전기/전자). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:57.029Z"
+    "classified_at": "2026-07-10T21:06:57.757Z"
   },
   {
     "book_id": "B3154911147",
@@ -362,7 +391,7 @@
     "confidence": 0.91,
     "classification_reason": "서지정보 가중치 분류 75.0점 (title:파이썬 / toc:프로그래밍 / intro:파이썬). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:57.038Z"
+    "classified_at": "2026-07-10T21:06:57.765Z"
   },
   {
     "book_id": "B5631571551",
@@ -383,7 +412,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 75.0점 (title:ai / toc:ai / intro:ai). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:57.044Z"
+    "classified_at": "2026-07-10T21:06:57.772Z"
   },
   {
     "book_id": "B6611629213",
@@ -407,7 +436,7 @@
     "confidence": 0.76,
     "classification_reason": "서지정보 가중치 분류 31.5점 (toc:인공지능 / intro:ai,인공지능). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:57.053Z"
+    "classified_at": "2026-07-10T21:06:57.780Z"
   },
   {
     "book_id": "B5465430479",
@@ -428,7 +457,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 91.3점 (title:프로그래밍,안드로이드 / toc:프로그래밍,안드로이드 / intro:프로그래밍,안드로이드 / source:IT/모바일 > 프로그래밍). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:57.065Z"
+    "classified_at": "2026-07-10T21:06:57.793Z"
   },
   {
     "book_id": "B4827509116",
@@ -451,7 +480,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 89.0점 (title:유니티 / toc:프로그래밍,c#,유니티 / intro:프로그래밍,c#,유니티 / source:대학교재 > 프로그래밍). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:57.076Z"
+    "classified_at": "2026-07-10T21:06:57.804Z"
   },
   {
     "book_id": "B1581256511",
@@ -472,7 +501,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 80.0점 (title:반도체 / toc:반도체 / intro:반도체 / source:대학교재 > 전기/전자). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:57.085Z"
+    "classified_at": "2026-07-10T21:06:57.812Z"
   },
   {
     "book_id": "B6027377332",
@@ -506,7 +535,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 94.3점 (title:통계 분석,통계분석 / toc:데이터 분석,데이터분석,회귀분석 / intro:통계 분석,통계분석 / source:대학교재 > 수학/통계). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:57.092Z"
+    "classified_at": "2026-07-10T21:06:57.819Z"
   },
   {
     "book_id": "B3641203696",
@@ -527,7 +556,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 115.5점 (title:메타분석 / subtitle:논문 작성,논문작성 / toc:연구 방법,메타분석 / intro:논문 작성,논문작성,메타분석). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:57.105Z"
+    "classified_at": "2026-07-10T21:06:57.830Z"
   },
   {
     "book_id": "B2003425997",
@@ -550,7 +579,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 125.8점 (title:프로그래밍,자바 / subtitle:프로그래밍,java / toc:프로그래밍,자바 / intro:프로그래밍,자바 / source:대학교재 > 프로그래밍). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:57.116Z"
+    "classified_at": "2026-07-10T21:06:57.840Z"
   },
   {
     "book_id": "B3303998935",
@@ -576,7 +605,7 @@
     "confidence": 0.97,
     "classification_reason": "서지정보 가중치 분류 83.0점 (title:통계학 / toc:통계학 / intro:통계학,데이터 분석,데이터분석 / source:대학교재 > 수학/통계). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:57.126Z"
+    "classified_at": "2026-07-10T21:06:57.850Z"
   },
   {
     "book_id": "B2390457647",
@@ -597,7 +626,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 60.0점 (title:전자회로 / intro:전자회로 / source:대학교재 > 전기/전자). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:57.133Z"
+    "classified_at": "2026-07-10T21:06:57.857Z"
   },
   {
     "book_id": "B6454162891",
@@ -620,7 +649,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 80.0점 (title:경제학 / toc:경제학 / intro:경제학 / source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:57.143Z"
+    "classified_at": "2026-07-10T21:06:57.867Z"
   },
   {
     "book_id": "B4351633227",
@@ -641,7 +670,7 @@
     "confidence": 0.9,
     "classification_reason": "서지정보 가중치 분류 31.0점 (toc:전기회로,반도체,논리회로 / source:대학교재 > 전기/전자). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:57.153Z"
+    "classified_at": "2026-07-10T21:06:57.876Z"
   },
   {
     "book_id": "B2756940702",
@@ -664,7 +693,7 @@
     "confidence": 0.75,
     "classification_reason": "서지정보 가중치 분류 37.5점 (toc:프로그래밍,파이썬,코딩 / intro:프로그래밍,파이썬). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:57.162Z"
+    "classified_at": "2026-07-10T21:06:57.885Z"
   },
   {
     "book_id": "B2587951501",
@@ -685,7 +714,7 @@
     "confidence": 0.63,
     "classification_reason": "서지정보 가중치 분류 5.0점 (source:대학교재 > 전기/전자). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:57.172Z"
+    "classified_at": "2026-07-10T21:06:57.895Z"
   },
   {
     "book_id": "B9791005718",
@@ -708,7 +737,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 60.0점 (title:회로이론 / intro:회로이론 / source:대학교재 > 전기/전자). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:57.179Z"
+    "classified_at": "2026-07-10T21:06:57.902Z"
   },
   {
     "book_id": "B3800689990",
@@ -729,7 +758,7 @@
     "confidence": 0.93,
     "classification_reason": "서지정보 가중치 분류 38.0점 (toc:경제학,비즈니스 / intro:비즈니스 / source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:57.195Z"
+    "classified_at": "2026-07-10T21:06:57.918Z"
   },
   {
     "book_id": "B5077386784",
@@ -752,7 +781,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 75.0점 (title:엑셀 / toc:엑셀 / intro:엑셀). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:57.204Z"
+    "classified_at": "2026-07-10T21:06:57.926Z"
   },
   {
     "book_id": "B1140851860",
@@ -782,7 +811,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 83.0점 (title:선형대수 / toc:미분방정식,선형대수 / intro:선형대수 / source:대학교재 > 수학/통계). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:57.214Z"
+    "classified_at": "2026-07-10T21:06:57.936Z"
   },
   {
     "book_id": "B3259643916",
@@ -808,7 +837,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 94.3점 (title:논문 작성,논문작성 / toc:논문 작성,논문작성,연구 방법 / intro:논문 작성,논문작성 / source:대학교재 > 논문). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:57.222Z"
+    "classified_at": "2026-07-10T21:06:57.944Z"
   },
   {
     "book_id": "B9339123702",
@@ -831,7 +860,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 84.5점 (title:자바 / toc:프로그래밍,자바 / intro:프로그래밍,자바 / source:대학교재 > 프로그래밍). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:57.234Z"
+    "classified_at": "2026-07-10T21:06:57.954Z"
   },
   {
     "book_id": "B1800144707",
@@ -854,7 +883,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 70.0점 (title:공학설계 / toc:공학설계 / source:대학교재 > 과학/공학일반). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:57.251Z"
+    "classified_at": "2026-07-10T21:06:57.971Z"
   },
   {
     "book_id": "B9043172795",
@@ -875,7 +904,7 @@
     "confidence": 0.9,
     "classification_reason": "서지정보 가중치 분류 33.0점 (toc:자바,소프트웨어 개발 / intro:자바). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:57.260Z"
+    "classified_at": "2026-07-10T21:06:57.980Z"
   },
   {
     "book_id": "B5930658295",
@@ -903,7 +932,7 @@
     "confidence": 0.83,
     "classification_reason": "서지정보 가중치 분류 37.5점 (toc:인공지능,머신러닝,딥러닝 / intro:ai,인공지능). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:57.275Z"
+    "classified_at": "2026-07-10T21:06:57.995Z"
   },
   {
     "book_id": "B6277648614",
@@ -924,7 +953,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 80.0점 (title:esg / toc:esg / intro:esg / source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:57.295Z"
+    "classified_at": "2026-07-10T21:06:58.015Z"
   },
   {
     "book_id": "B5793952816",
@@ -947,7 +976,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 84.5점 (title:파이썬 / toc:프로그래밍,파이썬 / intro:프로그래밍,파이썬 / source:대학교재 > 프로그래밍). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:57.309Z"
+    "classified_at": "2026-07-10T21:06:58.029Z"
   },
   {
     "book_id": "B6052955179",
@@ -968,7 +997,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 60.0점 (title:회계원리 / intro:회계원리 / source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:57.315Z"
+    "classified_at": "2026-07-10T21:06:58.034Z"
   },
   {
     "book_id": "B3144477710",
@@ -989,7 +1018,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 60.0점 (title:회계원리 / intro:회계원리 / source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:57.324Z"
+    "classified_at": "2026-07-10T21:06:58.043Z"
   },
   {
     "book_id": "B3784304333",
@@ -1010,7 +1039,7 @@
     "confidence": 0.58,
     "classification_reason": "서지정보 근거가 부족하여 공식 카테고리를 후순위 기준으로 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:57.330Z"
+    "classified_at": "2026-07-10T21:06:58.051Z"
   },
   {
     "book_id": "B7719333218",
@@ -1031,7 +1060,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 60.0점 (title:회로이론 / intro:회로이론 / source:대학교재 > 전기/전자). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:57.339Z"
+    "classified_at": "2026-07-10T21:06:58.060Z"
   },
   {
     "book_id": "B5307216859",
@@ -1059,7 +1088,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 86.0점 (title:강화학습 / toc:기계학습,딥러닝,강화학습 / intro:강화학습 / source:대학교재 > 데이터과학/인공지능). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:57.350Z"
+    "classified_at": "2026-07-10T21:06:58.071Z"
   },
   {
     "book_id": "B2881064144",
@@ -1082,7 +1111,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 108.0점 (title:운영체제 / subtitle:운영체제 / toc:운영체제,알고리즘 / intro:운영체제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:57.360Z"
+    "classified_at": "2026-07-10T21:06:58.080Z"
   },
   {
     "book_id": "B6114770734",
@@ -1105,7 +1134,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 120.8점 (title:데이터 분석,데이터분석 / subtitle:데이터 분석,데이터분석 / toc:데이터 분석,데이터분석 / intro:데이터 분석,데이터분석). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:57.370Z"
+    "classified_at": "2026-07-10T21:06:58.090Z"
   },
   {
     "book_id": "B7921416285",
@@ -1134,7 +1163,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 94.3점 (title:자료구조,알고리즘 / toc:운영체제,자료구조,알고리즘 / intro:자료구조,알고리즘 / source:대학교재 > 컴퓨터공학). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:57.381Z"
+    "classified_at": "2026-07-10T21:06:58.101Z"
   },
   {
     "book_id": "B3608980815",
@@ -1161,7 +1190,7 @@
     "confidence": 0.74,
     "classification_reason": "서지정보 가중치 분류 37.5점 (toc:미분적분학,미분방정식,선형대수 / intro:미분적분학,선형대수). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:57.396Z"
+    "classified_at": "2026-07-10T21:06:58.116Z"
   },
   {
     "book_id": "B7753527016",
@@ -1185,7 +1214,7 @@
     "confidence": 0.73,
     "classification_reason": "서지정보 가중치 분류 30.0점 (toc:동역학 / intro:기계공학). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:57.409Z"
+    "classified_at": "2026-07-10T21:06:58.128Z"
   },
   {
     "book_id": "B1917177051",
@@ -1211,7 +1240,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 92.8점 (title:컴퓨터 구조,컴퓨터구조 / toc:컴퓨터 구조,컴퓨터구조 / intro:컴퓨터 구조,컴퓨터구조,컴퓨터 아키텍처 / source:대학교재 > 컴퓨터공학). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:57.417Z"
+    "classified_at": "2026-07-10T21:06:58.137Z"
   },
   {
     "book_id": "B4698546432",
@@ -1243,7 +1272,7 @@
     "confidence": 0.83,
     "classification_reason": "서지정보 가중치 분류 63.0점 (subtitle:파이썬 / toc:파이썬 / intro:프로그래밍,파이썬,코딩). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:57.431Z"
+    "classified_at": "2026-07-10T21:06:58.150Z"
   },
   {
     "book_id": "B9838134901",
@@ -1269,7 +1298,7 @@
     "confidence": 0.82,
     "classification_reason": "서지정보 가중치 분류 44.0점 (toc:통계 분석,통계분석,회귀분석 / intro:통계 분석,통계분석,데이터 분석 / source:대학교재 > 수학/통계). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:57.439Z"
+    "classified_at": "2026-07-10T21:06:58.158Z"
   },
   {
     "book_id": "B1029138056",
@@ -1290,7 +1319,7 @@
     "confidence": 0.85,
     "classification_reason": "서지정보 가중치 분류 25.0점 (toc:마케팅 / source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:57.448Z"
+    "classified_at": "2026-07-10T21:06:58.166Z"
   },
   {
     "book_id": "B6808882615",
@@ -1313,7 +1342,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 81.0점 (title:비즈니스 / toc:마케팅,창업,비즈니스 / intro:비즈니스). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:57.459Z"
+    "classified_at": "2026-07-10T21:06:58.177Z"
   },
   {
     "book_id": "B9196229750",
@@ -1337,7 +1366,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 83.0점 (title:경영정보시스템 / toc:경영정보시스템,비즈니스 / intro:경영정보시스템 / source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:57.467Z"
+    "classified_at": "2026-07-10T21:06:58.186Z"
   },
   {
     "book_id": "B2341318191",
@@ -1358,7 +1387,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 80.0점 (title:마케팅 / toc:마케팅 / intro:마케팅 / source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:57.474Z"
+    "classified_at": "2026-07-10T21:06:58.192Z"
   },
   {
     "book_id": "B7727966206",
@@ -1379,7 +1408,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 80.0점 (title:비즈니스 / toc:비즈니스 / intro:비즈니스 / source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:57.485Z"
+    "classified_at": "2026-07-10T21:06:58.203Z"
   },
   {
     "book_id": "B4476644577",
@@ -1400,7 +1429,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 83.0점 (title:창업 / toc:마케팅,창업 / intro:창업 / source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:57.492Z"
+    "classified_at": "2026-07-10T21:06:58.210Z"
   },
   {
     "book_id": "B2504849608",
@@ -1421,7 +1450,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 80.0점 (title:경영정보시스템 / toc:경영정보시스템 / intro:경영정보시스템 / source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:57.496Z"
+    "classified_at": "2026-07-10T21:06:58.214Z"
   },
   {
     "book_id": "B7422122981",
@@ -1442,7 +1471,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 80.0점 (title:창업 / toc:창업 / intro:창업 / source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:57.501Z"
+    "classified_at": "2026-07-10T21:06:58.219Z"
   },
   {
     "book_id": "B1992391326",
@@ -1468,7 +1497,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 79.5점 (title:ai / toc:ai,머신러닝 / intro:ai,머신러닝). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:57.507Z"
+    "classified_at": "2026-07-10T21:06:58.225Z"
   },
   {
     "book_id": "B8372233658",
@@ -1489,7 +1518,7 @@
     "confidence": 0.58,
     "classification_reason": "서지정보 근거가 부족하여 공식 카테고리를 후순위 기준으로 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:57.538Z"
+    "classified_at": "2026-07-10T21:06:58.256Z"
   },
   {
     "book_id": "B8060712934",
@@ -1514,7 +1543,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 88.3점 (title:자료구조,알고리즘 / toc:알고리즘 / intro:자료구조,알고리즘 / source:대학교재 > 컴퓨터공학). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:57.543Z"
+    "classified_at": "2026-07-10T21:06:58.261Z"
   },
   {
     "book_id": "B1077705950",
@@ -1535,7 +1564,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 83.0점 (title:경제학 / toc:경제학,무역 / intro:경제학 / source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:57.556Z"
+    "classified_at": "2026-07-10T21:06:58.273Z"
   },
   {
     "book_id": "B3411540576",
@@ -1556,7 +1585,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 86.0점 (title:열역학 / toc:열역학,유체역학 / intro:열역학,기계공학,공학설계 / source:대학교재 > 기계/자동차). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:57.568Z"
+    "classified_at": "2026-07-10T21:06:58.285Z"
   },
   {
     "book_id": "B6426315656",
@@ -1577,7 +1606,7 @@
     "confidence": 0.63,
     "classification_reason": "서지정보 가중치 분류 5.0점 (source:대학교재 > 기계/자동차). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:57.577Z"
+    "classified_at": "2026-07-10T21:06:58.293Z"
   },
   {
     "book_id": "B9180202013",
@@ -1598,7 +1627,7 @@
     "confidence": 0.58,
     "classification_reason": "서지정보 근거가 부족하여 공식 카테고리를 후순위 기준으로 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:57.593Z"
+    "classified_at": "2026-07-10T21:06:58.310Z"
   },
   {
     "book_id": "B5796340237",
@@ -1619,7 +1648,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 75.0점 (title:c++ / toc:c++ / intro:c++). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:57.602Z"
+    "classified_at": "2026-07-10T21:06:58.318Z"
   },
   {
     "book_id": "B2020326051",
@@ -1640,7 +1669,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 75.0점 (title:java / toc:java / intro:java). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:57.606Z"
+    "classified_at": "2026-07-10T21:06:58.323Z"
   },
   {
     "book_id": "B7868545776",
@@ -1661,7 +1690,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 78.0점 (title:python / toc:python / intro:python,java,c++). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:57.630Z"
+    "classified_at": "2026-07-10T21:06:58.346Z"
   },
   {
     "book_id": "B1736895528",
@@ -1682,7 +1711,7 @@
     "confidence": 0.69,
     "classification_reason": "서지정보 가중치 분류 10.0점 (intro:esg). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:57.637Z"
+    "classified_at": "2026-07-10T21:06:58.352Z"
   },
   {
     "book_id": "B9873726649",
@@ -1703,7 +1732,7 @@
     "confidence": 0.58,
     "classification_reason": "서지정보 근거가 부족하여 공식 카테고리를 후순위 기준으로 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:57.643Z"
+    "classified_at": "2026-07-10T21:06:58.358Z"
   },
   {
     "book_id": "B2884471342",
@@ -1724,7 +1753,7 @@
     "confidence": 0.58,
     "classification_reason": "서지정보 근거가 부족하여 공식 카테고리를 후순위 기준으로 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:57.649Z"
+    "classified_at": "2026-07-10T21:06:58.364Z"
   },
   {
     "book_id": "B4331317476",
@@ -1745,7 +1774,7 @@
     "confidence": 0.58,
     "classification_reason": "서지정보 근거가 부족하여 공식 카테고리를 후순위 기준으로 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:57.676Z"
+    "classified_at": "2026-07-10T21:06:58.391Z"
   },
   {
     "book_id": "B6993233791",
@@ -1766,7 +1795,7 @@
     "confidence": 0.9,
     "classification_reason": "서지정보 가중치 분류 30.0점 (toc:python / intro:python). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:57.700Z"
+    "classified_at": "2026-07-10T21:06:58.414Z"
   },
   {
     "book_id": "B3197233212",
@@ -1787,7 +1816,7 @@
     "confidence": 0.58,
     "classification_reason": "서지정보 근거가 부족하여 공식 카테고리를 후순위 기준으로 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:57.702Z"
+    "classified_at": "2026-07-10T21:06:58.417Z"
   },
   {
     "book_id": "B4078255461",
@@ -1808,7 +1837,7 @@
     "confidence": 0.58,
     "classification_reason": "서지정보 근거가 부족하여 공식 카테고리를 후순위 기준으로 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:57.708Z"
+    "classified_at": "2026-07-10T21:06:58.422Z"
   },
   {
     "book_id": "B3742091761",
@@ -1829,7 +1858,7 @@
     "confidence": 0.58,
     "classification_reason": "서지정보 근거가 부족하여 공식 카테고리를 후순위 기준으로 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:57.723Z"
+    "classified_at": "2026-07-10T21:06:58.436Z"
   },
   {
     "book_id": "B4698900723",
@@ -1850,7 +1879,7 @@
     "confidence": 0.58,
     "classification_reason": "서지정보 근거가 부족하여 공식 카테고리를 후순위 기준으로 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:57.729Z"
+    "classified_at": "2026-07-10T21:06:58.443Z"
   },
   {
     "book_id": "B9857678879",
@@ -1871,7 +1900,7 @@
     "confidence": 0.58,
     "classification_reason": "서지정보 근거가 부족하여 공식 카테고리를 후순위 기준으로 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:57.735Z"
+    "classified_at": "2026-07-10T21:06:58.448Z"
   },
   {
     "book_id": "B7653877847",
@@ -1892,7 +1921,7 @@
     "confidence": 0.58,
     "classification_reason": "서지정보 근거가 부족하여 공식 카테고리를 후순위 기준으로 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:57.739Z"
+    "classified_at": "2026-07-10T21:06:58.452Z"
   },
   {
     "book_id": "B5121614404",
@@ -1913,7 +1942,7 @@
     "confidence": 0.58,
     "classification_reason": "서지정보 근거가 부족하여 공식 카테고리를 후순위 기준으로 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:57.742Z"
+    "classified_at": "2026-07-10T21:06:58.454Z"
   },
   {
     "book_id": "B4947776485",
@@ -1934,7 +1963,7 @@
     "confidence": 0.58,
     "classification_reason": "서지정보 근거가 부족하여 공식 카테고리를 후순위 기준으로 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:57.748Z"
+    "classified_at": "2026-07-10T21:06:58.461Z"
   },
   {
     "book_id": "B3712732591",
@@ -1955,7 +1984,7 @@
     "confidence": 0.58,
     "classification_reason": "서지정보 근거가 부족하여 공식 카테고리를 후순위 기준으로 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:57.757Z"
+    "classified_at": "2026-07-10T21:06:58.469Z"
   },
   {
     "book_id": "B8178842746",
@@ -1976,7 +2005,7 @@
     "confidence": 0.79,
     "classification_reason": "서지정보 가중치 분류 20.0점 (toc:java). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:57.787Z"
+    "classified_at": "2026-07-10T21:06:58.499Z"
   },
   {
     "book_id": "B6034362349",
@@ -1997,7 +2026,7 @@
     "confidence": 0.58,
     "classification_reason": "서지정보 근거가 부족하여 공식 카테고리를 후순위 기준으로 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:57.799Z"
+    "classified_at": "2026-07-10T21:06:58.510Z"
   },
   {
     "book_id": "B4716875597",
@@ -2018,7 +2047,7 @@
     "confidence": 0.73,
     "classification_reason": "서지정보 가중치 분류 20.0점 (toc:plc). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:57.808Z"
+    "classified_at": "2026-07-10T21:06:58.519Z"
   },
   {
     "book_id": "B6797595426",
@@ -2039,7 +2068,7 @@
     "confidence": 0.79,
     "classification_reason": "서지정보 가중치 분류 20.0점 (toc:plc). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:57.816Z"
+    "classified_at": "2026-07-10T21:06:58.527Z"
   },
   {
     "book_id": "B4537686554",
@@ -2060,7 +2089,7 @@
     "confidence": 0.58,
     "classification_reason": "서지정보 근거가 부족하여 공식 카테고리를 후순위 기준으로 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:57.821Z"
+    "classified_at": "2026-07-10T21:06:58.532Z"
   },
   {
     "book_id": "B1901557509",
@@ -2081,7 +2110,7 @@
     "confidence": 0.58,
     "classification_reason": "서지정보 근거가 부족하여 공식 카테고리를 후순위 기준으로 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:57.829Z"
+    "classified_at": "2026-07-10T21:06:58.540Z"
   },
   {
     "book_id": "B3917658037",
@@ -2109,7 +2138,7 @@
     "confidence": 0.8,
     "classification_reason": "서지정보 가중치 분류 33.0점 (toc:자료구조,알고리즘 / intro:알고리즘). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:57.847Z"
+    "classified_at": "2026-07-10T21:06:58.556Z"
   },
   {
     "book_id": "B8402518090",
@@ -2130,7 +2159,7 @@
     "confidence": 0.63,
     "classification_reason": "서지정보 가중치 분류 5.0점 (source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:57.851Z"
+    "classified_at": "2026-07-10T21:06:58.560Z"
   },
   {
     "book_id": "B1717056238",
@@ -2153,7 +2182,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 89.3점 (title:엑셀,파워포인트 / toc:프레젠테이션,엑셀,파워포인트 / intro:엑셀,파워포인트). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:57.886Z"
+    "classified_at": "2026-07-10T21:06:58.593Z"
   },
   {
     "book_id": "B1053207646",
@@ -2179,7 +2208,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 84.5점 (title:파이썬 / toc:프로그래밍,파이썬 / intro:프로그래밍,파이썬 / source:대학교재 > 프로그래밍). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:57.910Z"
+    "classified_at": "2026-07-10T21:06:58.616Z"
   },
   {
     "book_id": "B3737758364",
@@ -2204,7 +2233,7 @@
     "confidence": 0.92,
     "classification_reason": "서지정보 가중치 분류 36.0점 (toc:인공지능,머신러닝,딥러닝 / intro:인공지능). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:57.921Z"
+    "classified_at": "2026-07-10T21:06:58.626Z"
   },
   {
     "book_id": "B8738844473",
@@ -2225,7 +2254,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 86.0점 (title:ai / toc:ai,인공지능 / intro:ai,인공지능,생성형 ai / source:대학교재 > 데이터과학/인공지능). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:57.934Z"
+    "classified_at": "2026-07-10T21:06:58.639Z"
   },
   {
     "book_id": "B2617028478",
@@ -2246,7 +2275,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 61.5점 (title:통신이론 / intro:신호 및 시스템,통신이론 / source:대학교재 > 전기/전자). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:57.943Z"
+    "classified_at": "2026-07-10T21:06:58.647Z"
   },
   {
     "book_id": "B7569510647",
@@ -2272,7 +2301,7 @@
     "confidence": 0.84,
     "classification_reason": "서지정보 가중치 분류 60.0점 (title:미분적분학 / intro:미분적분학 / source:대학교재 > 수학/통계). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:57.950Z"
+    "classified_at": "2026-07-10T21:06:58.654Z"
   },
   {
     "book_id": "B3578000815",
@@ -2300,7 +2329,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 120.8점 (title:ai,생성형 ai / subtitle:ai / toc:ai,인공지능,머신러닝 / intro:ai,인공지능,생성형 ai). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:57.961Z"
+    "classified_at": "2026-07-10T21:06:58.664Z"
   },
   {
     "book_id": "B1251889714",
@@ -2321,7 +2350,7 @@
     "confidence": 0.63,
     "classification_reason": "서지정보 가중치 분류 5.0점 (source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:57.970Z"
+    "classified_at": "2026-07-10T21:06:58.672Z"
   },
   {
     "book_id": "B4381825886",
@@ -2342,7 +2371,7 @@
     "confidence": 0.63,
     "classification_reason": "서지정보 가중치 분류 5.0점 (source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:57.978Z"
+    "classified_at": "2026-07-10T21:06:58.680Z"
   },
   {
     "book_id": "B6079433066",
@@ -2368,7 +2397,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 75.0점 (title:컴퓨팅 사고 / toc:컴퓨팅 사고 / intro:컴퓨팅 사고). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:57.988Z"
+    "classified_at": "2026-07-10T21:06:58.690Z"
   },
   {
     "book_id": "B1305539845",
@@ -2394,7 +2423,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 80.0점 (title:운영체제 / toc:운영체제 / intro:운영체제 / source:대학교재 > 컴퓨터공학). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:57.994Z"
+    "classified_at": "2026-07-10T21:06:58.696Z"
   },
   {
     "book_id": "B1403287337",
@@ -2415,7 +2444,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 83.0점 (title:전력전자 / toc:반도체,전력전자 / intro:전력전자 / source:대학교재 > 전기/전자). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:58.010Z"
+    "classified_at": "2026-07-10T21:06:58.712Z"
   },
   {
     "book_id": "B3462362830",
@@ -2440,7 +2469,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 86.0점 (title:통계학 / toc:통계학,회귀분석 / intro:통계학,데이터 분석,데이터분석 / source:대학교재 > 수학/통계). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:58.022Z"
+    "classified_at": "2026-07-10T21:06:58.723Z"
   },
   {
     "book_id": "B3181555834",
@@ -2461,7 +2490,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 55.0점 (title:전자기학 / intro:전자기학). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:58.031Z"
+    "classified_at": "2026-07-10T21:06:58.730Z"
   },
   {
     "book_id": "B1756720070",
@@ -2482,7 +2511,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 80.0점 (title:공학수학 / toc:미분방정식 / intro:공학수학 / source:대학교재 > 수학/통계). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:58.040Z"
+    "classified_at": "2026-07-10T21:06:58.740Z"
   },
   {
     "book_id": "B8382206676",
@@ -2503,7 +2532,7 @@
     "confidence": 0.92,
     "classification_reason": "서지정보 가중치 분류 35.0점 (toc:비즈니스 / intro:비즈니스 / source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:58.049Z"
+    "classified_at": "2026-07-10T21:06:58.748Z"
   },
   {
     "book_id": "B6883793272",
@@ -2526,7 +2555,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 89.3점 (title:엑셀,파워포인트 / toc:프레젠테이션,엑셀,파워포인트 / intro:엑셀,파워포인트). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:58.058Z"
+    "classified_at": "2026-07-10T21:06:58.757Z"
   },
   {
     "book_id": "B2248492142",
@@ -2552,7 +2581,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 89.3점 (title:데이터 분석,데이터분석 / toc:데이터 분석,데이터분석,회귀분석 / intro:데이터 분석,데이터분석). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:58.069Z"
+    "classified_at": "2026-07-10T21:06:58.768Z"
   },
   {
     "book_id": "B4608455176",
@@ -2580,7 +2609,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 84.5점 (title:파이썬 / toc:프로그래밍,파이썬 / intro:프로그래밍,파이썬 / source:대학교재 > 프로그래밍). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:58.080Z"
+    "classified_at": "2026-07-10T21:06:58.778Z"
   },
   {
     "book_id": "B9857583401",
@@ -2603,7 +2632,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 83.0점 (title:plc / toc:전기회로,plc / intro:plc / source:대학교재 > 전기/전자). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:58.097Z"
+    "classified_at": "2026-07-10T21:06:58.796Z"
   },
   {
     "book_id": "B6272802411",
@@ -2624,7 +2653,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 80.0점 (title:전자기학 / toc:반도체 / intro:전자기학 / source:대학교재 > 전기/전자). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:58.107Z"
+    "classified_at": "2026-07-10T21:06:58.809Z"
   },
   {
     "book_id": "B4517780938",
@@ -2645,7 +2674,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 84.5점 (title:c언어 / toc:프로그래밍,c언어 / intro:프로그래밍,c언어 / source:대학교재 > 프로그래밍). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:58.119Z"
+    "classified_at": "2026-07-10T21:06:58.822Z"
   },
   {
     "book_id": "B5569670161",
@@ -2666,7 +2695,7 @@
     "confidence": 0.9,
     "classification_reason": "서지정보 가중치 분류 33.0점 (toc:프로그래밍,파이썬 / intro:파이썬). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:58.130Z"
+    "classified_at": "2026-07-10T21:06:58.834Z"
   },
   {
     "book_id": "B9610173726",
@@ -2690,7 +2719,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 114.5점 (title:파이썬 / subtitle:코딩 / toc:프로그래밍,파이썬 / intro:파이썬,코딩 / source:대학교재 > 프로그래밍). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:58.141Z"
+    "classified_at": "2026-07-10T21:06:58.845Z"
   },
   {
     "book_id": "B7479497519",
@@ -2711,7 +2740,7 @@
     "confidence": 0.63,
     "classification_reason": "서지정보 가중치 분류 5.0점 (source:대학교재 > 전기/전자). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:58.149Z"
+    "classified_at": "2026-07-10T21:06:58.853Z"
   },
   {
     "book_id": "B6185498700",
@@ -2734,7 +2763,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 89.8점 (title:프로그래밍,c# / toc:프로그래밍,c# / intro:프로그래밍 / source:대학교재 > 프로그래밍). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:58.162Z"
+    "classified_at": "2026-07-10T21:06:58.864Z"
   },
   {
     "book_id": "B2607926867",
@@ -2757,7 +2786,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 80.0점 (title:신호 및 시스템 / toc:신호 및 시스템 / intro:신호 및 시스템 / source:대학교재 > 전기/전자). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:58.172Z"
+    "classified_at": "2026-07-10T21:06:58.873Z"
   },
   {
     "book_id": "B3921368567",
@@ -2782,7 +2811,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 79.5점 (title:리눅스 / toc:운영체제,리눅스 / intro:운영체제,리눅스). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:58.182Z"
+    "classified_at": "2026-07-10T21:06:58.883Z"
   },
   {
     "book_id": "B9682226271",
@@ -2805,7 +2834,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 60.0점 (title:현대대수학 / intro:현대대수학 / source:대학교재 > 수학/통계). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:58.197Z"
+    "classified_at": "2026-07-10T21:06:58.895Z"
   },
   {
     "book_id": "B7801137987",
@@ -2828,7 +2857,7 @@
     "confidence": 0.77,
     "classification_reason": "서지정보 가중치 분류 30.0점 (toc:열역학 / intro:기계공학). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:58.212Z"
+    "classified_at": "2026-07-10T21:06:58.907Z"
   },
   {
     "book_id": "B6189661102",
@@ -2860,7 +2889,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 97.5점 (title:데이터 분석,데이터분석,빅데이터 분석 / toc:통계 분석,통계분석,데이터 분석 / intro:데이터 분석,데이터분석,빅데이터 분석). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:58.224Z"
+    "classified_at": "2026-07-10T21:06:58.918Z"
   },
   {
     "book_id": "B3677403347",
@@ -2886,7 +2915,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 75.0점 (title:파이썬 / toc:파이썬 / intro:파이썬). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:58.235Z"
+    "classified_at": "2026-07-10T21:06:58.926Z"
   },
   {
     "book_id": "B7284914969",
@@ -2909,7 +2938,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 83.0점 (title:전자회로 / toc:반도체,논리회로 / intro:전자회로 / source:대학교재 > 전기/전자). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:58.244Z"
+    "classified_at": "2026-07-10T21:06:58.934Z"
   },
   {
     "book_id": "B1693703715",
@@ -2930,7 +2959,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 83.3점 (title:디지털 논리회로,논리회로 / toc:논리회로 / intro:회로이론,논리회로). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:58.255Z"
+    "classified_at": "2026-07-10T21:06:58.945Z"
   },
   {
     "book_id": "B8748284697",
@@ -2951,7 +2980,7 @@
     "confidence": 0.63,
     "classification_reason": "서지정보 가중치 분류 5.0점 (source:대학교재 > 데이터과학/인공지능). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:58.267Z"
+    "classified_at": "2026-07-10T21:06:58.956Z"
   },
   {
     "book_id": "B9618180040",
@@ -2980,7 +3009,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 119.0점 (title:인공지능 / subtitle:ai / toc:ai,인공지능,머신러닝 / intro:ai,인공지능,머신러닝 / source:대학교재 > 데이터과학/인공지능). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:58.277Z"
+    "classified_at": "2026-07-10T21:06:58.967Z"
   },
   {
     "book_id": "B5912089383",
@@ -3001,7 +3030,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 80.0점 (title:동역학 / toc:동역학 / intro:동역학 / source:대학교재 > 기계/자동차). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:58.283Z"
+    "classified_at": "2026-07-10T21:06:58.972Z"
   },
   {
     "book_id": "B8104780287",
@@ -3022,7 +3051,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 80.0점 (title:동역학 / toc:동역학 / intro:동역학 / source:대학교재 > 기계/자동차). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:58.289Z"
+    "classified_at": "2026-07-10T21:06:58.978Z"
   },
   {
     "book_id": "B8396724879",
@@ -3043,7 +3072,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 61.5점 (title:미분적분학 / intro:미분적분학,기초수학 / source:대학교재 > 수학/통계). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:58.295Z"
+    "classified_at": "2026-07-10T21:06:58.984Z"
   },
   {
     "book_id": "B6583897305",
@@ -3064,7 +3093,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 61.5점 (title:미분적분학 / intro:미분적분학,기초수학 / source:대학교재 > 수학/통계). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:58.300Z"
+    "classified_at": "2026-07-10T21:06:58.990Z"
   },
   {
     "book_id": "B9410294835",
@@ -3085,7 +3114,7 @@
     "confidence": 0.63,
     "classification_reason": "서지정보 가중치 분류 5.0점 (source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:58.307Z"
+    "classified_at": "2026-07-10T21:06:58.996Z"
   },
   {
     "book_id": "B5188226050",
@@ -3106,7 +3135,7 @@
     "confidence": 0.63,
     "classification_reason": "서지정보 가중치 분류 5.0점 (source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:58.312Z"
+    "classified_at": "2026-07-10T21:06:59.002Z"
   },
   {
     "book_id": "B4873443802",
@@ -3129,7 +3158,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 61.5점 (title:전자회로 / intro:전자회로,반도체 / source:대학교재 > 전기/전자). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:58.323Z"
+    "classified_at": "2026-07-10T21:06:59.012Z"
   },
   {
     "book_id": "B7538507270",
@@ -3157,7 +3186,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 88.0점 (title:ai / subtitle:신경망 / intro:ai,인공지능,신경망). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:58.330Z"
+    "classified_at": "2026-07-10T21:06:59.019Z"
   },
   {
     "book_id": "B7398124637",
@@ -3178,7 +3207,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 61.5점 (title:정역학 / intro:정역학,공학설계 / source:대학교재 > 기계/자동차). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:58.336Z"
+    "classified_at": "2026-07-10T21:06:59.025Z"
   },
   {
     "book_id": "B1058814662",
@@ -3199,7 +3228,7 @@
     "confidence": 0.88,
     "classification_reason": "서지정보 가중치 분류 31.5점 (toc:논리회로 / intro:디지털 논리회로,논리회로). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:58.344Z"
+    "classified_at": "2026-07-10T21:06:59.033Z"
   },
   {
     "book_id": "B1734272085",
@@ -3220,7 +3249,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 61.5점 (title:정역학 / intro:정역학,공학설계 / source:대학교재 > 기계/자동차). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:58.350Z"
+    "classified_at": "2026-07-10T21:06:59.038Z"
   },
   {
     "book_id": "B9379593844",
@@ -3243,7 +3272,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 65.0점 (title:회로이론 / toc:전기회로). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:58.362Z"
+    "classified_at": "2026-07-10T21:06:59.050Z"
   },
   {
     "book_id": "B9235231864",
@@ -3268,7 +3297,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 83.0점 (title:머신러닝 / toc:인공지능,머신러닝 / intro:머신러닝 / source:대학교재 > 데이터과학/인공지능). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:58.371Z"
+    "classified_at": "2026-07-10T21:06:59.059Z"
   },
   {
     "book_id": "B5337182587",
@@ -3289,7 +3318,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 89.0점 (title:자바 / toc:프로그래밍,자바,웹 프로그래밍 / intro:프로그래밍,자바,웹 프로그래밍 / source:대학교재 > 프로그래밍). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:58.379Z"
+    "classified_at": "2026-07-10T21:06:59.067Z"
   },
   {
     "book_id": "B6247653252",
@@ -3312,7 +3341,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 84.5점 (title:확률과 통계 / toc:통계학,회귀분석 / intro:통계학,확률과 통계 / source:대학교재 > 수학/통계). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:58.387Z"
+    "classified_at": "2026-07-10T21:06:59.075Z"
   },
   {
     "book_id": "B4527356755",
@@ -3333,7 +3362,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 113.0점 (title:경제학 / subtitle:경제학 / toc:경제학,무역 / intro:경제학 / source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:58.394Z"
+    "classified_at": "2026-07-10T21:06:59.082Z"
   },
   {
     "book_id": "B4365877429",
@@ -3354,7 +3383,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 83.0점 (title:리눅스 / toc:운영체제,리눅스 / intro:리눅스 / source:대학교재 > 컴퓨터공학). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:58.404Z"
+    "classified_at": "2026-07-10T21:06:59.092Z"
   },
   {
     "book_id": "B1272506891",
@@ -3375,7 +3404,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 113.0점 (title:경제학 / subtitle:경제학 / toc:경제학,무역 / intro:경제학 / source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:58.411Z"
+    "classified_at": "2026-07-10T21:06:59.099Z"
   },
   {
     "book_id": "B3844429338",
@@ -3396,7 +3425,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 91.3점 (title:프로그래밍,웹 프로그래밍 / toc:프로그래밍,자바 / intro:프로그래밍,웹 프로그래밍 / source:대학교재 > 프로그래밍). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:58.424Z"
+    "classified_at": "2026-07-10T21:06:59.112Z"
   },
   {
     "book_id": "B6913090957",
@@ -3422,7 +3451,7 @@
     "confidence": 0.91,
     "classification_reason": "서지정보 가중치 분류 80.0점 (title:이산수학 / toc:이산수학 / intro:이산수학 / source:대학교재 > 수학/통계). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:58.433Z"
+    "classified_at": "2026-07-10T21:06:59.121Z"
   },
   {
     "book_id": "B5327472646",
@@ -3445,7 +3474,7 @@
     "confidence": 0.79,
     "classification_reason": "서지정보 가중치 분류 38.0점 (toc:열역학,유체역학 / intro:열역학 / source:대학교재 > 과학/공학일반). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:58.449Z"
+    "classified_at": "2026-07-10T21:06:59.136Z"
   },
   {
     "book_id": "B1799617372",
@@ -3468,7 +3497,7 @@
     "confidence": 0.93,
     "classification_reason": "서지정보 가중치 분류 45.0점 (subtitle:경제학 / intro:경제학 / source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:58.463Z"
+    "classified_at": "2026-07-10T21:06:59.150Z"
   },
   {
     "book_id": "B1797423103",
@@ -3491,7 +3520,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 78.0점 (title:통계학 / toc:통계학,회귀분석 / intro:통계학). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:58.470Z"
+    "classified_at": "2026-07-10T21:06:59.157Z"
   },
   {
     "book_id": "B6212190920",
@@ -3512,7 +3541,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 80.0점 (title:경제학 / toc:경제학 / intro:경제학 / source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:58.478Z"
+    "classified_at": "2026-07-10T21:06:59.164Z"
   },
   {
     "book_id": "B1926970823",
@@ -3536,7 +3565,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 81.5점 (title:경영정보시스템 / toc:비즈니스 / intro:경영정보시스템,비즈니스 / source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:58.489Z"
+    "classified_at": "2026-07-10T21:06:59.175Z"
   },
   {
     "book_id": "B2184630665",
@@ -3557,7 +3586,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 81.5점 (title:esg / toc:esg / intro:비즈니스,esg / source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:58.495Z"
+    "classified_at": "2026-07-10T21:06:59.181Z"
   },
   {
     "book_id": "B5485434008",
@@ -3580,7 +3609,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 80.0점 (title:경제학 / toc:경제학 / intro:경제학 / source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:58.501Z"
+    "classified_at": "2026-07-10T21:06:59.187Z"
   },
   {
     "book_id": "B2507188054",
@@ -3601,7 +3630,7 @@
     "confidence": 0.63,
     "classification_reason": "서지정보 가중치 분류 5.0점 (source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:58.510Z"
+    "classified_at": "2026-07-10T21:06:59.196Z"
   },
   {
     "book_id": "B1296358958",
@@ -3622,7 +3651,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 81.5점 (title:마케팅 / toc:마케팅 / intro:마케팅,비즈니스 / source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:58.518Z"
+    "classified_at": "2026-07-10T21:06:59.204Z"
   },
   {
     "book_id": "B7790829067",
@@ -3647,7 +3676,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 60.0점 (title:선형대수 / intro:선형대수 / source:대학교재 > 수학/통계). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:58.525Z"
+    "classified_at": "2026-07-10T21:06:59.211Z"
   },
   {
     "book_id": "B2376027111",
@@ -3668,7 +3697,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 81.5점 (title:마케팅 / toc:마케팅 / intro:마케팅,비즈니스 / source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:58.533Z"
+    "classified_at": "2026-07-10T21:06:59.219Z"
   },
   {
     "book_id": "B2289079212",
@@ -3689,7 +3718,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 83.0점 (title:확률과 통계 / toc:통계학,회귀분석 / intro:확률과 통계 / source:대학교재 > 수학/통계). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:58.540Z"
+    "classified_at": "2026-07-10T21:06:59.226Z"
   },
   {
     "book_id": "B7340071311",
@@ -3710,7 +3739,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 86.0점 (title:창업 / toc:마케팅,창업,비즈니스 / intro:창업 / source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:58.546Z"
+    "classified_at": "2026-07-10T21:06:59.231Z"
   },
   {
     "book_id": "B7203895534",
@@ -3731,7 +3760,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 86.0점 (title:창업 / toc:마케팅,창업,비즈니스 / intro:창업 / source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:58.553Z"
+    "classified_at": "2026-07-10T21:06:59.238Z"
   },
   {
     "book_id": "B1250497233",
@@ -3763,7 +3792,7 @@
     "confidence": 0.71,
     "classification_reason": "서지정보 가중치 분류 31.5점 (toc:인공지능 / intro:ai,인공지능). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:58.561Z"
+    "classified_at": "2026-07-10T21:06:59.246Z"
   },
   {
     "book_id": "B7601476070",
@@ -3784,7 +3813,7 @@
     "confidence": 0.58,
     "classification_reason": "서지정보 근거가 부족하여 공식 카테고리를 후순위 기준으로 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:58.568Z"
+    "classified_at": "2026-07-10T21:06:59.253Z"
   },
   {
     "book_id": "B2349062734",
@@ -3805,7 +3834,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 80.0점 (title:반도체 / toc:반도체 / intro:반도체 / source:대학교재 > 전기/전자). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:58.584Z"
+    "classified_at": "2026-07-10T21:06:59.269Z"
   },
   {
     "book_id": "B3255188955",
@@ -3839,7 +3868,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 84.0점 (title:인공지능 / toc:인공지능,머신러닝,딥러닝 / intro:인공지능,머신러닝,딥러닝). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:58.592Z"
+    "classified_at": "2026-07-10T21:06:59.278Z"
   },
   {
     "book_id": "B9584532323",
@@ -3860,7 +3889,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 92.8점 (title:프로그래밍,안드로이드 / toc:java,안드로이드 / intro:프로그래밍,java,안드로이드 / source:대학교재 > 프로그래밍). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:58.602Z"
+    "classified_at": "2026-07-10T21:06:59.287Z"
   },
   {
     "book_id": "B7517225831",
@@ -3881,7 +3910,7 @@
     "confidence": 0.88,
     "classification_reason": "서지정보 가중치 분류 34.5점 (toc:데이터 분석,데이터분석 / intro:데이터 분석,데이터분석). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:58.610Z"
+    "classified_at": "2026-07-10T21:06:59.297Z"
   },
   {
     "book_id": "B1188336360",
@@ -3902,7 +3931,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 110.0점 (title:esg / subtitle:esg / toc:esg / intro:esg / source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:58.624Z"
+    "classified_at": "2026-07-10T21:06:59.312Z"
   },
   {
     "book_id": "B8350922472",
@@ -3923,7 +3952,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 83.0점 (title:공학수학 / toc:미분방정식,공학수학 / intro:공학수학 / source:대학교재 > 수학/통계). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:58.634Z"
+    "classified_at": "2026-07-10T21:06:59.323Z"
   },
   {
     "book_id": "B5870841891",
@@ -3946,7 +3975,7 @@
     "confidence": 0.75,
     "classification_reason": "서지정보 가중치 분류 28.0점 (toc:디지털 논리회로,논리회로 / source:대학교재 > 전기/전자). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:58.645Z"
+    "classified_at": "2026-07-10T21:06:59.333Z"
   },
   {
     "book_id": "B6705452897",
@@ -3971,7 +4000,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 84.5점 (title:알고리즘 / toc:자료구조,알고리즘 / intro:자료구조,알고리즘 / source:대학교재 > 컴퓨터공학). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:58.662Z"
+    "classified_at": "2026-07-10T21:06:59.350Z"
   },
   {
     "book_id": "B7813024732",
@@ -3992,7 +4021,7 @@
     "confidence": 0.82,
     "classification_reason": "서지정보 가중치 분류 26.0점 (toc:프로그래밍,파이썬,웹 프로그래밍). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:58.672Z"
+    "classified_at": "2026-07-10T21:06:59.360Z"
   },
   {
     "book_id": "B1052938683",
@@ -4013,7 +4042,7 @@
     "confidence": 0.76,
     "classification_reason": "서지정보 가중치 분류 20.0점 (toc:비즈니스). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:58.682Z"
+    "classified_at": "2026-07-10T21:06:59.371Z"
   },
   {
     "book_id": "B4713457549",
@@ -4034,7 +4063,7 @@
     "confidence": 0.63,
     "classification_reason": "서지정보 가중치 분류 5.0점 (source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:58.688Z"
+    "classified_at": "2026-07-10T21:06:59.377Z"
   },
   {
     "book_id": "B1103072393",
@@ -4055,7 +4084,7 @@
     "confidence": 0.63,
     "classification_reason": "서지정보 가중치 분류 5.0점 (source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:58.694Z"
+    "classified_at": "2026-07-10T21:06:59.383Z"
   },
   {
     "book_id": "B2123697376",
@@ -4076,7 +4105,7 @@
     "confidence": 0.93,
     "classification_reason": "서지정보 가중치 분류 38.0점 (toc:반도체,마이크로컨트롤러 / intro:마이크로컨트롤러 / source:대학교재 > 전기/전자). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:58.701Z"
+    "classified_at": "2026-07-10T21:06:59.389Z"
   },
   {
     "book_id": "B6264756140",
@@ -4097,7 +4126,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 80.0점 (title:미분적분학 / toc:미분적분학 / intro:미분적분학 / source:대학교재 > 수학/통계). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:58.709Z"
+    "classified_at": "2026-07-10T21:06:59.403Z"
   },
   {
     "book_id": "B3329728344",
@@ -4118,7 +4147,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 50.0점 (title:회로이론 / source:대학교재 > 전기/전자). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:58.719Z"
+    "classified_at": "2026-07-10T21:06:59.416Z"
   },
   {
     "book_id": "B9190456035",
@@ -4139,7 +4168,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 79.8점 (title:프로그래밍,웹 프로그래밍 / toc:프로그래밍,자바 / source:대학교재 > 프로그래밍). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:58.733Z"
+    "classified_at": "2026-07-10T21:06:59.429Z"
   },
   {
     "book_id": "B2516970142",
@@ -4162,7 +4191,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 81.5점 (title:신호 및 시스템 / toc:신호 및 시스템 / intro:신호 및 시스템,신호처리 / source:대학교재 > 전기/전자). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:58.745Z"
+    "classified_at": "2026-07-10T21:06:59.442Z"
   },
   {
     "book_id": "B2496920906",
@@ -4183,7 +4212,7 @@
     "confidence": 0.6,
     "classification_reason": "서지정보 가중치 분류 5.0점 (source:대학교재 > 수학/통계). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:58.753Z"
+    "classified_at": "2026-07-10T21:06:59.450Z"
   },
   {
     "book_id": "B3877905038",
@@ -4204,7 +4233,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 80.0점 (title:반도체 / toc:반도체 / intro:반도체 / source:대학교재 > 전기/전자). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:58.767Z"
+    "classified_at": "2026-07-10T21:06:59.464Z"
   },
   {
     "book_id": "B9207844235",
@@ -4225,7 +4254,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 83.0점 (title:마케팅 / toc:마케팅,비즈니스 / intro:마케팅 / source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:58.776Z"
+    "classified_at": "2026-07-10T21:06:59.473Z"
   },
   {
     "book_id": "B1795784207",
@@ -4246,7 +4275,7 @@
     "confidence": 0.58,
     "classification_reason": "서지정보 근거가 부족하여 공식 카테고리를 후순위 기준으로 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:58.780Z"
+    "classified_at": "2026-07-10T21:06:59.477Z"
   },
   {
     "book_id": "B9495416122",
@@ -4267,7 +4296,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 86.0점 (title:공학수학 / toc:미분방정식,선형대수,기초수학 / intro:공학수학 / source:대학교재 > 수학/통계). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:58.791Z"
+    "classified_at": "2026-07-10T21:06:59.487Z"
   },
   {
     "book_id": "B2694830083",
@@ -4294,7 +4323,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 89.0점 (title:인공지능 / toc:인공지능,머신러닝,딥러닝 / intro:인공지능,머신러닝,딥러닝 / source:대학교재 > 데이터과학/인공지능). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:58.802Z"
+    "classified_at": "2026-07-10T21:06:59.499Z"
   },
   {
     "book_id": "B9678437685",
@@ -4315,7 +4344,7 @@
     "confidence": 0.81,
     "classification_reason": "서지정보 가중치 분류 25.0점 (toc:미분적분학 / source:대학교재 > 수학/통계). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:58.809Z"
+    "classified_at": "2026-07-10T21:06:59.506Z"
   },
   {
     "book_id": "B3920478580",
@@ -4336,7 +4365,7 @@
     "confidence": 0.63,
     "classification_reason": "서지정보 가중치 분류 5.0점 (source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:58.816Z"
+    "classified_at": "2026-07-10T21:06:59.512Z"
   },
   {
     "book_id": "B1887182138",
@@ -4357,7 +4386,7 @@
     "confidence": 0.63,
     "classification_reason": "서지정보 가중치 분류 5.0점 (source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:58.823Z"
+    "classified_at": "2026-07-10T21:06:59.519Z"
   },
   {
     "book_id": "B6084981999",
@@ -4378,7 +4407,7 @@
     "confidence": 0.63,
     "classification_reason": "서지정보 가중치 분류 5.0점 (source:경제/경영/인문 > 경제/경영). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:58.828Z"
+    "classified_at": "2026-07-10T21:06:59.525Z"
   },
   {
     "book_id": "B3261280549",
@@ -4399,7 +4428,7 @@
     "confidence": 0.67,
     "classification_reason": "서지정보 가중치 분류 11.5점 (intro:데이터 분석,데이터분석). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:58.841Z"
+    "classified_at": "2026-07-10T21:06:59.537Z"
   },
   {
     "book_id": "B2263537763",
@@ -4420,7 +4449,7 @@
     "confidence": 0.76,
     "classification_reason": "서지정보 가중치 분류 20.0점 (toc:소프트웨어 개발). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:58.850Z"
+    "classified_at": "2026-07-10T21:06:59.547Z"
   },
   {
     "book_id": "B6508189495",
@@ -4441,7 +4470,7 @@
     "confidence": 0.96,
     "classification_reason": "서지정보 가중치 분류 44.0점 (toc:통계 분석,통계분석,데이터 분석 / intro:통계 분석,통계분석,데이터 분석 / source:대학교재 > 수학/통계). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:58.858Z"
+    "classified_at": "2026-07-10T21:06:59.554Z"
   },
   {
     "book_id": "B5961553630",
@@ -4462,7 +4491,7 @@
     "confidence": 0.63,
     "classification_reason": "서지정보 가중치 분류 5.0점 (source:대학교재 > 과학/공학일반). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:58.865Z"
+    "classified_at": "2026-07-10T21:06:59.561Z"
   },
   {
     "book_id": "B3019959799",
@@ -4483,7 +4512,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 89.8점 (title:프로그래밍,웹 프로그래밍 / toc:자바 / intro:프로그래밍,자바,웹 프로그래밍 / source:대학교재 > 프로그래밍). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:58.875Z"
+    "classified_at": "2026-07-10T21:06:59.571Z"
   },
   {
     "book_id": "B1288325617",
@@ -4506,7 +4535,7 @@
     "confidence": 0.72,
     "classification_reason": "서지정보 가중치 분류 35.0점 (toc:회귀분석 / intro:회귀분석 / source:대학교재 > 수학/통계). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:58.882Z"
+    "classified_at": "2026-07-10T21:06:59.578Z"
   },
   {
     "book_id": "B9455762079",
@@ -4527,7 +4556,7 @@
     "confidence": 0.63,
     "classification_reason": "서지정보 가중치 분류 5.0점 (source:대학교재 > 논문). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:58.889Z"
+    "classified_at": "2026-07-10T21:06:59.585Z"
   },
   {
     "book_id": "B3968340073",
@@ -4555,7 +4584,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 89.3점 (title:데이터 분석,데이터분석 / toc:데이터 분석,데이터분석,회귀분석 / intro:데이터 분석,데이터분석). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:58.897Z"
+    "classified_at": "2026-07-10T21:06:59.594Z"
   },
   {
     "book_id": "B6601995673",
@@ -4578,7 +4607,7 @@
     "confidence": 0.83,
     "classification_reason": "서지정보 가중치 분류 36.0점 (toc:프로그래밍,자바,코딩 / intro:코딩). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:58.906Z"
+    "classified_at": "2026-07-10T21:06:59.603Z"
   },
   {
     "book_id": "B5819662862",
@@ -4599,7 +4628,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 87.5점 (title:유체역학 / toc:열역학,유체역학,정역학 / intro:유체역학,정역학 / source:대학교재 > 기계/자동차). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:58.915Z"
+    "classified_at": "2026-07-10T21:06:59.612Z"
   },
   {
     "book_id": "B3416854183",
@@ -4624,7 +4653,7 @@
     "confidence": 0.95,
     "classification_reason": "서지정보 가중치 분류 86.3점 (title:자료구조,알고리즘 / toc:자료구조,알고리즘 / intro:자료구조,알고리즘). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:58.928Z"
+    "classified_at": "2026-07-10T21:06:59.625Z"
   },
   {
     "book_id": "B9814733214",
@@ -4645,7 +4674,7 @@
     "confidence": 0.9,
     "classification_reason": "서지정보 가중치 분류 31.0점 (toc:프로그래밍,java,웹 프로그래밍 / source:대학교재 > 프로그래밍). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:58.940Z"
+    "classified_at": "2026-07-10T21:06:59.636Z"
   },
   {
     "book_id": "B8406119618",
@@ -4666,7 +4695,7 @@
     "confidence": 0.81,
     "classification_reason": "서지정보 가중치 분류 25.0점 (toc:미분적분학 / source:대학교재 > 수학/통계). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:58.948Z"
+    "classified_at": "2026-07-10T21:06:59.644Z"
   },
   {
     "book_id": "B1238020288",
@@ -4689,7 +4718,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 78.0점 (title:통계학 / toc:통계학,회귀분석 / intro:통계학). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:58.957Z"
+    "classified_at": "2026-07-10T21:06:59.654Z"
   },
   {
     "book_id": "B7208078590",
@@ -4710,7 +4739,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 83.0점 (title:확률과 통계 / toc:통계학,확률과 통계 / intro:확률과 통계 / source:대학교재 > 수학/통계). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:58.964Z"
+    "classified_at": "2026-07-10T21:06:59.661Z"
   },
   {
     "book_id": "B1427989673",
@@ -4731,7 +4760,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 68.0점 (subtitle:프로그래밍 / toc:프로그래밍,코딩 / intro:프로그래밍 / source:대학교재 > 프로그래밍). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:58.975Z"
+    "classified_at": "2026-07-10T21:06:59.672Z"
   },
   {
     "book_id": "B5395686917",
@@ -4752,7 +4781,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 91.3점 (title:프로그래밍,자바 / toc:프로그래밍,자바 / intro:자바,코딩 / source:대학교재 > 프로그래밍). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:58.987Z"
+    "classified_at": "2026-07-10T21:06:59.683Z"
   },
   {
     "book_id": "B2488511359",
@@ -4780,7 +4809,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 97.5점 (title:데이터 분석,데이터분석,빅데이터 분석 / toc:데이터 분석,데이터분석,회귀분석 / intro:데이터 분석,데이터분석,빅데이터 분석). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:58.997Z"
+    "classified_at": "2026-07-10T21:06:59.693Z"
   },
   {
     "book_id": "B7241537082",
@@ -4804,7 +4833,7 @@
     "confidence": 0.71,
     "classification_reason": "서지정보 가중치 분류 25.0점 (toc:반도체 / source:대학교재 > 전기/전자). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:59.008Z"
+    "classified_at": "2026-07-10T21:06:59.704Z"
   },
   {
     "book_id": "B3580402703",
@@ -4825,7 +4854,7 @@
     "confidence": 0.6,
     "classification_reason": "서지정보 가중치 분류 5.0점 (source:대학교재 > 수학/통계). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:59.015Z"
+    "classified_at": "2026-07-10T21:06:59.711Z"
   },
   {
     "book_id": "B1191401102",
@@ -4846,7 +4875,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 80.0점 (title:회계원리 / toc:재무회계 / intro:회계원리 / source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:59.026Z"
+    "classified_at": "2026-07-10T21:06:59.721Z"
   },
   {
     "book_id": "B2512784529",
@@ -4867,7 +4896,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 89.3점 (title:데이터 분석,데이터분석 / toc:데이터 분석,데이터분석,회귀분석 / intro:데이터 분석,데이터분석). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:59.035Z"
+    "classified_at": "2026-07-10T21:06:59.731Z"
   },
   {
     "book_id": "B7192437175",
@@ -4891,7 +4920,7 @@
     "confidence": 0.69,
     "classification_reason": "서지정보 가중치 분류 23.0점 (toc:미분방정식,기초수학). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:59.043Z"
+    "classified_at": "2026-07-10T21:06:59.738Z"
   },
   {
     "book_id": "B9111135793",
@@ -4914,7 +4943,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 65.0점 (title:메타분석 / toc:메타분석). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:59.050Z"
+    "classified_at": "2026-07-10T21:06:59.745Z"
   },
   {
     "book_id": "B6983226439",
@@ -4938,7 +4967,7 @@
     "confidence": 0.73,
     "classification_reason": "서지정보 가중치 분류 33.0점 (toc:컴퓨팅 사고,정보 윤리 / intro:컴퓨팅 사고). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:59.058Z"
+    "classified_at": "2026-07-10T21:06:59.754Z"
   },
   {
     "book_id": "B7971953055",
@@ -4959,7 +4988,7 @@
     "confidence": 0.63,
     "classification_reason": "서지정보 가중치 분류 5.0점 (source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:59.067Z"
+    "classified_at": "2026-07-10T21:06:59.762Z"
   },
   {
     "book_id": "B9032308335",
@@ -4980,7 +5009,7 @@
     "confidence": 0.92,
     "classification_reason": "서지정보 가중치 분류 35.0점 (toc:경제학 / intro:경제학 / source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:59.075Z"
+    "classified_at": "2026-07-10T21:06:59.771Z"
   },
   {
     "book_id": "B3469288289",
@@ -5005,7 +5034,7 @@
     "confidence": 0.69,
     "classification_reason": "서지정보 가중치 분류 26.0점 (toc:미적분학,미분방정식,선형대수). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:59.094Z"
+    "classified_at": "2026-07-10T21:06:59.789Z"
   },
   {
     "book_id": "B5432656562",
@@ -5026,7 +5055,7 @@
     "confidence": 0.63,
     "classification_reason": "서지정보 가중치 분류 5.0점 (source:대학교재 > 전기/전자). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:59.111Z"
+    "classified_at": "2026-07-10T21:06:59.806Z"
   },
   {
     "book_id": "B7224713122",
@@ -5052,7 +5081,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 86.0점 (title:파이썬 / toc:프로그래밍,파이썬 / intro:프로그래밍,파이썬,코딩 / source:대학교재 > 프로그래밍). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:59.118Z"
+    "classified_at": "2026-07-10T21:06:59.813Z"
   },
   {
     "book_id": "B2271641400",
@@ -5075,7 +5104,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 75.0점 (title:수치해석 / toc:수치해석 / intro:수치해석). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:59.125Z"
+    "classified_at": "2026-07-10T21:06:59.820Z"
   },
   {
     "book_id": "B1299451650",
@@ -5096,7 +5125,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 94.3점 (title:프로그래밍,자바 / toc:프로그래밍,자바,java / intro:프로그래밍,자바 / source:대학교재 > 프로그래밍). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:59.138Z"
+    "classified_at": "2026-07-10T21:06:59.833Z"
   },
   {
     "book_id": "B6340643222",
@@ -5126,7 +5155,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 65.0점 (title:비즈니스 / toc:비즈니스). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:59.154Z"
+    "classified_at": "2026-07-10T21:06:59.849Z"
   },
   {
     "book_id": "B7388617442",
@@ -5147,7 +5176,7 @@
     "confidence": 0.77,
     "classification_reason": "서지정보 가중치 분류 18.0점 (intro:경영학,경제학,마케팅 / source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:59.161Z"
+    "classified_at": "2026-07-10T21:06:59.856Z"
   },
   {
     "book_id": "B4904272258",
@@ -5168,7 +5197,7 @@
     "confidence": 0.58,
     "classification_reason": "서지정보 근거가 부족하여 공식 카테고리를 후순위 기준으로 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:59.176Z"
+    "classified_at": "2026-07-10T21:06:59.864Z"
   },
   {
     "book_id": "B1626092786",
@@ -5189,7 +5218,7 @@
     "confidence": 0.81,
     "classification_reason": "서지정보 가중치 분류 25.0점 (toc:운영체제 / source:대학교재 > 컴퓨터공학). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:59.191Z"
+    "classified_at": "2026-07-10T21:06:59.879Z"
   },
   {
     "book_id": "B8238028353",
@@ -5210,7 +5239,7 @@
     "confidence": 0.58,
     "classification_reason": "서지정보 근거가 부족하여 공식 카테고리를 후순위 기준으로 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:59.222Z"
+    "classified_at": "2026-07-10T21:06:59.910Z"
   },
   {
     "book_id": "B5620881464",
@@ -5234,7 +5263,7 @@
     "confidence": 0.71,
     "classification_reason": "서지정보 가중치 분류 25.0점 (toc:동역학 / source:대학교재 > 기계/자동차). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:59.233Z"
+    "classified_at": "2026-07-10T21:06:59.921Z"
   },
   {
     "book_id": "B8870109394",
@@ -5264,7 +5293,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 94.3점 (title:딥러닝,컴퓨터 비전 / toc:기계학습,딥러닝,컴퓨터 비전 / intro:딥러닝,컴퓨터 비전 / source:대학교재 > 데이터과학/인공지능). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:59.259Z"
+    "classified_at": "2026-07-10T21:06:59.946Z"
   },
   {
     "book_id": "B1459262097",
@@ -5285,7 +5314,7 @@
     "confidence": 0.63,
     "classification_reason": "서지정보 가중치 분류 5.0점 (source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:59.268Z"
+    "classified_at": "2026-07-10T21:06:59.955Z"
   },
   {
     "book_id": "B3672807578",
@@ -5306,7 +5335,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 119.0점 (title:java / subtitle:자바 / toc:프로그래밍,자바,java / intro:프로그래밍,자바,java / source:대학교재 > 프로그래밍). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:59.280Z"
+    "classified_at": "2026-07-10T21:06:59.966Z"
   },
   {
     "book_id": "B3854933351",
@@ -5327,7 +5356,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 78.0점 (title:파워포인트 / toc:프레젠테이션,파워포인트 / intro:파워포인트). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:59.287Z"
+    "classified_at": "2026-07-10T21:06:59.974Z"
   },
   {
     "book_id": "B4416755821",
@@ -5357,7 +5386,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 91.3점 (title:프로그래밍,파이썬 / toc:프로그래밍,파이썬 / intro:프로그래밍,파이썬 / source:대학교재 > 프로그래밍). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:59.297Z"
+    "classified_at": "2026-07-10T21:06:59.983Z"
   },
   {
     "book_id": "B8753305821",
@@ -5387,7 +5416,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 86.3점 (title:데이터 분석,데이터분석 / toc:데이터 분석,데이터분석 / intro:데이터 분석,데이터분석). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:59.308Z"
+    "classified_at": "2026-07-10T21:06:59.995Z"
   },
   {
     "book_id": "B6136675664",
@@ -5408,7 +5437,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 86.0점 (title:경영학 / toc:마케팅,재무관리,무역 / intro:경영학 / source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:59.314Z"
+    "classified_at": "2026-07-10T21:07:00.001Z"
   },
   {
     "book_id": "B4091777340",
@@ -5429,7 +5458,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 86.0점 (title:경영학 / toc:마케팅,재무관리,무역 / intro:경영학 / source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:59.320Z"
+    "classified_at": "2026-07-10T21:07:00.007Z"
   },
   {
     "book_id": "B2286199605",
@@ -5461,7 +5490,7 @@
     "confidence": 0.9,
     "classification_reason": "서지정보 가중치 분류 55.0점 (title:머신러닝 / intro:머신러닝). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:59.327Z"
+    "classified_at": "2026-07-10T21:07:00.013Z"
   },
   {
     "book_id": "B8171607831",
@@ -5482,7 +5511,7 @@
     "confidence": 0.6,
     "classification_reason": "서지정보 가중치 분류 5.0점 (source:대학교재 > 수학/통계). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:59.334Z"
+    "classified_at": "2026-07-10T21:07:00.020Z"
   },
   {
     "book_id": "B3899600266",
@@ -5503,7 +5532,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 80.0점 (title:전자기학 / toc:전자기학 / intro:전자기학 / source:대학교재 > 전기/전자). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:59.346Z"
+    "classified_at": "2026-07-10T21:07:00.032Z"
   },
   {
     "book_id": "B3016128552",
@@ -5526,7 +5555,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 75.0점 (title:반도체 / toc:반도체 / intro:반도체). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:59.355Z"
+    "classified_at": "2026-07-10T21:07:00.041Z"
   },
   {
     "book_id": "B2998156507",
@@ -5549,7 +5578,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 80.0점 (title:제어공학 / toc:제어공학 / intro:제어공학 / source:대학교재 > 전기/전자). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:59.362Z"
+    "classified_at": "2026-07-10T21:07:00.048Z"
   },
   {
     "book_id": "B9106986428",
@@ -5573,7 +5602,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 128.8점 (title:데이터 분석,데이터분석 / subtitle:데이터 분석,데이터분석 / toc:통계학,데이터 분석,데이터분석 / intro:데이터 분석,데이터분석 / source:대학교재 > 수학/통계). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:59.370Z"
+    "classified_at": "2026-07-10T21:07:00.056Z"
   },
   {
     "book_id": "B8663470444",
@@ -5594,7 +5623,7 @@
     "confidence": 0.76,
     "classification_reason": "서지정보 가중치 분류 20.0점 (toc:알고리즘). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:59.377Z"
+    "classified_at": "2026-07-10T21:07:00.063Z"
   },
   {
     "book_id": "B9765536396",
@@ -5617,7 +5646,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 91.3점 (title:프로그래밍,c# / toc:프로그래밍,c# / intro:프로그래밍,c# / source:대학교재 > 프로그래밍). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:59.387Z"
+    "classified_at": "2026-07-10T21:07:00.072Z"
   },
   {
     "book_id": "B8706529601",
@@ -5640,7 +5669,7 @@
     "confidence": 0.83,
     "classification_reason": "서지정보 가중치 분류 38.0점 (toc:회귀분석 / intro:통계 분석,통계분석,데이터 분석 / source:대학교재 > 수학/통계). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:59.394Z"
+    "classified_at": "2026-07-10T21:07:00.079Z"
   },
   {
     "book_id": "B4622360704",
@@ -5661,7 +5690,7 @@
     "confidence": 0.9,
     "classification_reason": "서지정보 가중치 분류 31.0점 (toc:마케팅,무역,비즈니스 / source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:59.404Z"
+    "classified_at": "2026-07-10T21:07:00.089Z"
   },
   {
     "book_id": "B7306695419",
@@ -5682,7 +5711,7 @@
     "confidence": 0.76,
     "classification_reason": "서지정보 가중치 분류 20.0점 (toc:ai). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:59.416Z"
+    "classified_at": "2026-07-10T21:07:00.101Z"
   },
   {
     "book_id": "B8789429594",
@@ -5703,7 +5732,7 @@
     "confidence": 0.85,
     "classification_reason": "서지정보 가중치 분류 25.0점 (toc:회로이론 / source:대학교재 > 전기/전자). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:59.431Z"
+    "classified_at": "2026-07-10T21:07:00.117Z"
   },
   {
     "book_id": "B6173966244",
@@ -5724,7 +5753,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 71.0점 (title:통계학 / toc:데이터 분석,데이터분석,회귀분석). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:59.444Z"
+    "classified_at": "2026-07-10T21:07:00.129Z"
   },
   {
     "book_id": "B3235254949",
@@ -5745,7 +5774,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 50.0점 (title:비즈니스 / source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:59.449Z"
+    "classified_at": "2026-07-10T21:07:00.134Z"
   },
   {
     "book_id": "B8613955880",
@@ -5766,7 +5795,7 @@
     "confidence": 0.63,
     "classification_reason": "서지정보 가중치 분류 5.0점 (source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:59.459Z"
+    "classified_at": "2026-07-10T21:07:00.144Z"
   },
   {
     "book_id": "B3131155216",
@@ -5787,7 +5816,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 55.0점 (subtitle:마케팅 / toc:마케팅 / source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:59.471Z"
+    "classified_at": "2026-07-10T21:07:00.156Z"
   },
   {
     "book_id": "B7771922356",
@@ -5808,7 +5837,7 @@
     "confidence": 0.85,
     "classification_reason": "서지정보 가중치 분류 25.0점 (toc:마케팅 / source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:59.477Z"
+    "classified_at": "2026-07-10T21:07:00.162Z"
   },
   {
     "book_id": "B4237378688",
@@ -5829,7 +5858,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 83.0점 (title:경제학 / toc:경제학,무역 / intro:무역 / source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:59.486Z"
+    "classified_at": "2026-07-10T21:07:00.170Z"
   },
   {
     "book_id": "B3814732959",
@@ -5850,7 +5879,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 83.0점 (title:경제학 / toc:경제학,무역 / intro:무역 / source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:59.494Z"
+    "classified_at": "2026-07-10T21:07:00.179Z"
   },
   {
     "book_id": "B8672666879",
@@ -5871,7 +5900,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 83.0점 (title:기계설계 / toc:기계설계 / intro:정역학,재료역학,기계설계 / source:대학교재 > 기계/자동차). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:59.504Z"
+    "classified_at": "2026-07-10T21:07:00.188Z"
   },
   {
     "book_id": "B2640361618",
@@ -5892,7 +5921,7 @@
     "confidence": 0.63,
     "classification_reason": "서지정보 가중치 분류 5.0점 (source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:59.509Z"
+    "classified_at": "2026-07-10T21:07:00.194Z"
   },
   {
     "book_id": "B2923812848",
@@ -5915,7 +5944,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 83.0점 (title:plc / toc:전기회로,plc / intro:plc / source:대학교재 > 전기/전자). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:59.524Z"
+    "classified_at": "2026-07-10T21:07:00.209Z"
   },
   {
     "book_id": "B5156679966",
@@ -5936,7 +5965,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 86.0점 (title:전력전자 / toc:회로이론,반도체,전력전자 / intro:전력전자 / source:대학교재 > 전기/전자). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:59.533Z"
+    "classified_at": "2026-07-10T21:07:00.217Z"
   },
   {
     "book_id": "B7738896383",
@@ -5957,7 +5986,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 70.0점 (title:경제학 / toc:경제학 / source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:59.544Z"
+    "classified_at": "2026-07-10T21:07:00.228Z"
   },
   {
     "book_id": "B1959656080",
@@ -5980,7 +6009,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 83.0점 (title:경영학 / toc:인적자원관리,비즈니스 / intro:경영학 / source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:59.563Z"
+    "classified_at": "2026-07-10T21:07:00.247Z"
   },
   {
     "book_id": "B6129400746",
@@ -6001,7 +6030,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 75.0점 (title:리눅스 / toc:리눅스 / intro:리눅스). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:59.574Z"
+    "classified_at": "2026-07-10T21:07:00.257Z"
   },
   {
     "book_id": "B9063949643",
@@ -6024,7 +6053,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 80.0점 (title:프로그래밍 / toc:프로그래밍 / intro:프로그래밍 / source:대학교재 > 프로그래밍). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:59.590Z"
+    "classified_at": "2026-07-10T21:07:00.273Z"
   },
   {
     "book_id": "B7400451696",
@@ -6049,7 +6078,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 68.3점 (title:컴퓨터 네트워크,데이터 통신 / intro:컴퓨터 네트워크,데이터 통신 / source:대학교재 > 컴퓨터공학). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:59.599Z"
+    "classified_at": "2026-07-10T21:07:00.282Z"
   },
   {
     "book_id": "B4947312430",
@@ -6072,7 +6101,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 79.5점 (title:프로그래밍 / toc:c언어,c++ / intro:프로그래밍,c언어). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:59.613Z"
+    "classified_at": "2026-07-10T21:07:00.296Z"
   },
   {
     "book_id": "B1393628384",
@@ -6095,7 +6124,7 @@
     "confidence": 0.69,
     "classification_reason": "서지정보 가중치 분류 26.0점 (toc:프로그래밍,자바,안드로이드). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:59.633Z"
+    "classified_at": "2026-07-10T21:07:00.315Z"
   },
   {
     "book_id": "B9597680767",
@@ -6119,7 +6148,7 @@
     "confidence": 0.95,
     "classification_reason": "서지정보 가중치 분류 86.3점 (title:데이터 분석,데이터분석 / toc:데이터 분석,데이터분석 / intro:데이터 분석,데이터분석). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:59.655Z"
+    "classified_at": "2026-07-10T21:07:00.337Z"
   },
   {
     "book_id": "B2530464059",
@@ -6140,7 +6169,7 @@
     "confidence": 0.58,
     "classification_reason": "서지정보 근거가 부족하여 공식 카테고리를 후순위 기준으로 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:59.661Z"
+    "classified_at": "2026-07-10T21:07:00.343Z"
   },
   {
     "book_id": "B7792763682",
@@ -6163,7 +6192,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 75.0점 (title:엑셀 / toc:엑셀 / intro:엑셀). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:59.669Z"
+    "classified_at": "2026-07-10T21:07:00.351Z"
   },
   {
     "book_id": "B2247981475",
@@ -6184,7 +6213,7 @@
     "confidence": 0.6,
     "classification_reason": "서지정보 가중치 분류 5.0점 (source:대학교재 > 수학/통계). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:59.676Z"
+    "classified_at": "2026-07-10T21:07:00.358Z"
   },
   {
     "book_id": "B5067324775",
@@ -6212,7 +6241,7 @@
     "confidence": 0.78,
     "classification_reason": "서지정보 가중치 분류 36.0점 (toc:프로그래밍,코딩,소프트웨어 개발 / intro:소프트웨어 개발). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:59.702Z"
+    "classified_at": "2026-07-10T21:07:00.384Z"
   },
   {
     "book_id": "B4622884510",
@@ -6233,7 +6262,7 @@
     "confidence": 0.9,
     "classification_reason": "서지정보 가중치 분류 30.0점 (toc:안드로이드 / intro:안드로이드). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:59.711Z"
+    "classified_at": "2026-07-10T21:07:00.393Z"
   },
   {
     "book_id": "B7170139829",
@@ -6254,7 +6283,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 60.0점 (title:기초수학 / intro:공학수학 / source:대학교재 > 수학/통계). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:59.722Z"
+    "classified_at": "2026-07-10T21:07:00.404Z"
   },
   {
     "book_id": "B7121664936",
@@ -6275,7 +6304,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 88.3점 (title:정역학,재료역학 / toc:정역학 / intro:정역학,재료역학 / source:대학교재 > 기계/자동차). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:59.732Z"
+    "classified_at": "2026-07-10T21:07:00.414Z"
   },
   {
     "book_id": "B6236324381",
@@ -6296,7 +6325,7 @@
     "confidence": 0.81,
     "classification_reason": "서지정보 가중치 분류 25.0점 (toc:미분방정식 / source:대학교재 > 수학/통계). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:59.743Z"
+    "classified_at": "2026-07-10T21:07:00.425Z"
   },
   {
     "book_id": "B2195975973",
@@ -6317,7 +6346,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 60.0점 (title:미분적분학 / intro:미분적분학 / source:대학교재 > 수학/통계). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:59.751Z"
+    "classified_at": "2026-07-10T21:07:00.432Z"
   },
   {
     "book_id": "B2995989202",
@@ -6338,7 +6367,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 80.0점 (title:재무회계 / toc:재무회계 / intro:재무회계 / source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:59.761Z"
+    "classified_at": "2026-07-10T21:07:00.442Z"
   },
   {
     "book_id": "B4600453154",
@@ -6359,7 +6388,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 80.0점 (title:인공지능 / toc:인공지능 / intro:인공지능 / source:대학교재 > 데이터과학/인공지능). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:59.770Z"
+    "classified_at": "2026-07-10T21:07:00.451Z"
   },
   {
     "book_id": "B6734033518",
@@ -6380,7 +6409,7 @@
     "confidence": 0.63,
     "classification_reason": "서지정보 가중치 분류 5.0점 (source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:59.777Z"
+    "classified_at": "2026-07-10T21:07:00.461Z"
   },
   {
     "book_id": "B9026931713",
@@ -6401,7 +6430,7 @@
     "confidence": 0.94,
     "classification_reason": "서지정보 가중치 분류 39.5점 (toc:기계공학,공학설계 / intro:정역학,기계설계 / source:대학교재 > 기계/자동차). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:59.784Z"
+    "classified_at": "2026-07-10T21:07:00.472Z"
   },
   {
     "book_id": "B4893899879",
@@ -6429,7 +6458,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 86.3점 (title:프로그래밍,파이썬 / toc:프로그래밍,파이썬 / intro:프로그래밍,파이썬). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:59.800Z"
+    "classified_at": "2026-07-10T21:07:00.487Z"
   },
   {
     "book_id": "B5744853316",
@@ -6450,7 +6479,7 @@
     "confidence": 0.65,
     "classification_reason": "서지정보 가중치 분류 10.0점 (intro:인공지능). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:59.808Z"
+    "classified_at": "2026-07-10T21:07:00.495Z"
   },
   {
     "book_id": "B6032223886",
@@ -6471,7 +6500,7 @@
     "confidence": 0.85,
     "classification_reason": "서지정보 가중치 분류 25.0점 (toc:비즈니스 / source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:59.815Z"
+    "classified_at": "2026-07-10T21:07:00.502Z"
   },
   {
     "book_id": "B8214795859",
@@ -6492,7 +6521,7 @@
     "confidence": 0.6,
     "classification_reason": "서지정보 가중치 분류 5.0점 (source:대학교재 > 수학/통계). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:59.825Z"
+    "classified_at": "2026-07-10T21:07:00.511Z"
   },
   {
     "book_id": "B8372260890",
@@ -6513,7 +6542,7 @@
     "confidence": 0.58,
     "classification_reason": "서지정보 근거가 부족하여 공식 카테고리를 후순위 기준으로 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:59.833Z"
+    "classified_at": "2026-07-10T21:07:00.519Z"
   },
   {
     "book_id": "B6947867590",
@@ -6536,7 +6565,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 80.0점 (title:동역학 / toc:동역학 / intro:동역학 / source:대학교재 > 기계/자동차). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:59.842Z"
+    "classified_at": "2026-07-10T21:07:00.529Z"
   },
   {
     "book_id": "B4334124169",
@@ -6557,7 +6586,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 80.0점 (title:신호처리 / toc:신호처리 / intro:신호처리 / source:대학교재 > 전기/전자). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:59.853Z"
+    "classified_at": "2026-07-10T21:07:00.540Z"
   },
   {
     "book_id": "B3188891806",
@@ -6578,7 +6607,7 @@
     "confidence": 0.74,
     "classification_reason": "서지정보 가중치 분류 15.0점 (intro:비즈니스 / source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:59.874Z"
+    "classified_at": "2026-07-10T21:07:00.561Z"
   },
   {
     "book_id": "B2941761462",
@@ -6599,7 +6628,7 @@
     "confidence": 0.92,
     "classification_reason": "서지정보 가중치 분류 35.0점 (toc:전자기학 / intro:전자기학 / source:대학교재 > 전기/전자). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:59.883Z"
+    "classified_at": "2026-07-10T21:07:00.570Z"
   },
   {
     "book_id": "B7725889032",
@@ -6620,7 +6649,7 @@
     "confidence": 0.63,
     "classification_reason": "서지정보 가중치 분류 5.0점 (source:대학교재 > 전기/전자). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:59.893Z"
+    "classified_at": "2026-07-10T21:07:00.580Z"
   },
   {
     "book_id": "B7033044159",
@@ -6645,7 +6674,7 @@
     "confidence": 0.96,
     "classification_reason": "서지정보 가중치 분류 79.5점 (title:자료구조 / toc:자료구조,알고리즘 / intro:자료구조,알고리즘). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:59.907Z"
+    "classified_at": "2026-07-10T21:07:00.594Z"
   },
   {
     "book_id": "B1962706778",
@@ -6672,7 +6701,7 @@
     "confidence": 0.96,
     "classification_reason": "서지정보 가중치 분류 79.5점 (title:자료구조 / toc:자료구조,알고리즘 / intro:자료구조,알고리즘). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:59.920Z"
+    "classified_at": "2026-07-10T21:07:00.608Z"
   },
   {
     "book_id": "B6505632990",
@@ -6695,7 +6724,7 @@
     "confidence": 0.7,
     "classification_reason": "서지정보 가중치 분류 26.0점 (toc:데이터 분석,데이터분석,빅데이터 분석). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:25:59.933Z"
+    "classified_at": "2026-07-10T21:07:00.621Z"
   },
   {
     "book_id": "B2132529019",
@@ -6718,7 +6747,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 88.3점 (title:디지털 논리회로,논리회로 / toc:논리회로 / intro:디지털 논리회로,논리회로 / source:대학교재 > 전기/전자). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:59.944Z"
+    "classified_at": "2026-07-10T21:07:00.631Z"
   },
   {
     "book_id": "B7307907577",
@@ -6739,7 +6768,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 68.3점 (title:디지털 논리회로,논리회로 / intro:디지털 논리회로,논리회로 / source:대학교재 > 전기/전자). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:59.965Z"
+    "classified_at": "2026-07-10T21:07:00.652Z"
   },
   {
     "book_id": "B2369847218",
@@ -6763,7 +6792,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 83.0점 (title:수치해석 / toc:미분방정식,선형대수 / intro:수치해석 / source:대학교재 > 수학/통계). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:25:59.972Z"
+    "classified_at": "2026-07-10T21:07:00.659Z"
   },
   {
     "book_id": "B1668287710",
@@ -6786,7 +6815,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 119.0점 (title:c언어 / subtitle:프로그래밍 / toc:프로그래밍,c언어,c++ / intro:프로그래밍,c언어,코딩 / source:대학교재 > 프로그래밍). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:00.014Z"
+    "classified_at": "2026-07-10T21:07:00.701Z"
   },
   {
     "book_id": "B5199139984",
@@ -6809,7 +6838,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 117.5점 (title:파이썬 / subtitle:프로그래밍 / toc:프로그래밍,파이썬,코딩 / intro:프로그래밍,파이썬 / source:대학교재 > 프로그래밍). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:00.043Z"
+    "classified_at": "2026-07-10T21:07:00.730Z"
   },
   {
     "book_id": "B6256500150",
@@ -6832,7 +6861,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 89.3점 (title:엑셀,파워포인트 / toc:프레젠테이션,엑셀,파워포인트 / intro:엑셀,파워포인트). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:00.077Z"
+    "classified_at": "2026-07-10T21:07:00.763Z"
   },
   {
     "book_id": "B1606660111",
@@ -6853,7 +6882,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 92.8점 (title:프로그래밍,자바 / toc:프로그래밍,자바 / intro:프로그래밍,자바,웹 프로그래밍 / source:대학교재 > 프로그래밍). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:00.093Z"
+    "classified_at": "2026-07-10T21:07:00.779Z"
   },
   {
     "book_id": "B2545053750",
@@ -6874,7 +6903,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 91.3점 (title:프로그래밍,c언어 / toc:프로그래밍,c언어 / intro:프로그래밍,c언어 / source:대학교재 > 프로그래밍). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:00.122Z"
+    "classified_at": "2026-07-10T21:07:00.808Z"
   },
   {
     "book_id": "B8031863123",
@@ -6904,7 +6933,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 96.5점 (title:머신러닝,데이터 과학,데이터과학 / toc:머신러닝 / intro:머신러닝,데이터 과학,데이터과학 / source:대학교재 > 데이터과학/인공지능). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:00.131Z"
+    "classified_at": "2026-07-10T21:07:00.817Z"
   },
   {
     "book_id": "B7119209370",
@@ -6925,7 +6954,7 @@
     "confidence": 0.63,
     "classification_reason": "서지정보 가중치 분류 5.0점 (source:대학교재 > 데이터과학/인공지능). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:00.138Z"
+    "classified_at": "2026-07-10T21:07:00.824Z"
   },
   {
     "book_id": "B3878279265",
@@ -6946,7 +6975,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 70.0점 (title:재무관리 / toc:재무관리 / source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:00.144Z"
+    "classified_at": "2026-07-10T21:07:00.830Z"
   },
   {
     "book_id": "B9888037240",
@@ -6967,7 +6996,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 70.0점 (title:재무관리 / toc:재무관리 / source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:00.151Z"
+    "classified_at": "2026-07-10T21:07:00.837Z"
   },
   {
     "book_id": "B1836224274",
@@ -6991,7 +7020,7 @@
     "confidence": 0.92,
     "classification_reason": "서지정보 가중치 분류 60.0점 (title:이산수학 / intro:이산수학 / source:대학교재 > 수학/통계). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:00.159Z"
+    "classified_at": "2026-07-10T21:07:00.844Z"
   },
   {
     "book_id": "B5160362412",
@@ -7012,7 +7041,7 @@
     "confidence": 0.76,
     "classification_reason": "서지정보 가중치 분류 20.0점 (toc:비즈니스). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:00.172Z"
+    "classified_at": "2026-07-10T21:07:00.857Z"
   },
   {
     "book_id": "B3943456030",
@@ -7035,7 +7064,7 @@
     "confidence": 0.93,
     "classification_reason": "서지정보 가중치 분류 80.0점 (title:프로그래밍 / toc:프로그래밍 / intro:프로그래밍 / source:대학교재 > 프로그래밍). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:00.183Z"
+    "classified_at": "2026-07-10T21:07:00.867Z"
   },
   {
     "book_id": "B6452589658",
@@ -7063,7 +7092,7 @@
     "confidence": 0.87,
     "classification_reason": "서지정보 가중치 분류 51.0점 (subtitle:논문 작성,논문작성 / intro:논문 작성,논문작성 / source:대학교재 > 논문). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:00.193Z"
+    "classified_at": "2026-07-10T21:07:00.878Z"
   },
   {
     "book_id": "B6434597961",
@@ -7084,7 +7113,7 @@
     "confidence": 0.88,
     "classification_reason": "서지정보 가중치 분류 28.0점 (toc:회로이론,반도체 / source:대학교재 > 전기/전자). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:00.201Z"
+    "classified_at": "2026-07-10T21:07:00.886Z"
   },
   {
     "book_id": "B4633012179",
@@ -7109,7 +7138,7 @@
     "confidence": 0.78,
     "classification_reason": "서지정보 가중치 분류 31.0점 (toc:전자회로,반도체,신호처리 / source:대학교재 > 전기/전자). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:00.216Z"
+    "classified_at": "2026-07-10T21:07:00.900Z"
   },
   {
     "book_id": "B1265976064",
@@ -7130,7 +7159,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 94.3점 (title:프로그래밍,웹 프로그래밍 / toc:프로그래밍,java,웹 프로그래밍 / intro:프로그래밍,웹 프로그래밍 / source:대학교재 > 프로그래밍). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:00.233Z"
+    "classified_at": "2026-07-10T21:07:00.917Z"
   },
   {
     "book_id": "B7533828722",
@@ -7151,7 +7180,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 60.0점 (title:회계원리 / intro:회계원리 / source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:00.244Z"
+    "classified_at": "2026-07-10T21:07:00.928Z"
   },
   {
     "book_id": "B9009516784",
@@ -7172,7 +7201,7 @@
     "confidence": 0.74,
     "classification_reason": "서지정보 가중치 분류 15.0점 (intro:경영학 / source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:00.253Z"
+    "classified_at": "2026-07-10T21:07:00.937Z"
   },
   {
     "book_id": "B1833400260",
@@ -7193,7 +7222,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 60.0점 (title:회계원리 / intro:회계원리 / source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:00.257Z"
+    "classified_at": "2026-07-10T21:07:00.941Z"
   },
   {
     "book_id": "B6993093151",
@@ -7214,7 +7243,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 95.8점 (title:프로그래밍,웹 프로그래밍 / toc:프로그래밍,자바,웹 프로그래밍 / intro:프로그래밍,자바,웹 프로그래밍 / source:대학교재 > 프로그래밍). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:00.269Z"
+    "classified_at": "2026-07-10T21:07:00.953Z"
   },
   {
     "book_id": "B9949658683",
@@ -7238,7 +7267,7 @@
     "confidence": 0.76,
     "classification_reason": "서지정보 가중치 분류 39.0점 (toc:데이터 분석,데이터분석,빅데이터 분석 / intro:데이터 분석,데이터분석,빅데이터 분석). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:00.300Z"
+    "classified_at": "2026-07-10T21:07:00.983Z"
   },
   {
     "book_id": "B8110215482",
@@ -7259,7 +7288,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 80.0점 (title:경영학 / toc:인적자원관리 / intro:경영학 / source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:00.306Z"
+    "classified_at": "2026-07-10T21:07:00.988Z"
   },
   {
     "book_id": "B6386811947",
@@ -7280,7 +7309,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 80.0점 (title:경영학 / toc:인적자원관리 / intro:경영학 / source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:00.311Z"
+    "classified_at": "2026-07-10T21:07:00.994Z"
   },
   {
     "book_id": "B2179952545",
@@ -7303,7 +7332,7 @@
     "confidence": 0.96,
     "classification_reason": "서지정보 가중치 분류 81.5점 (title:비즈니스 / toc:비즈니스 / intro:경영학,비즈니스 / source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:00.323Z"
+    "classified_at": "2026-07-10T21:07:01.005Z"
   },
   {
     "book_id": "B2499110389",
@@ -7324,7 +7353,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 86.0점 (title:정역학 / toc:정역학,동역학,재료역학 / intro:정역학 / source:대학교재 > 기계/자동차). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:00.331Z"
+    "classified_at": "2026-07-10T21:07:01.014Z"
   },
   {
     "book_id": "B7623190015",
@@ -7345,7 +7374,7 @@
     "confidence": 0.63,
     "classification_reason": "서지정보 가중치 분류 5.0점 (source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:00.340Z"
+    "classified_at": "2026-07-10T21:07:01.022Z"
   },
   {
     "book_id": "B7088729199",
@@ -7366,7 +7395,7 @@
     "confidence": 0.58,
     "classification_reason": "서지정보 근거가 부족하여 공식 카테고리를 후순위 기준으로 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:00.347Z"
+    "classified_at": "2026-07-10T21:07:01.029Z"
   },
   {
     "book_id": "B3165374842",
@@ -7387,7 +7416,7 @@
     "confidence": 0.58,
     "classification_reason": "서지정보 근거가 부족하여 공식 카테고리를 후순위 기준으로 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:00.352Z"
+    "classified_at": "2026-07-10T21:07:01.034Z"
   },
   {
     "book_id": "B3148701816",
@@ -7410,7 +7439,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 60.0점 (title:회로이론 / intro:회로이론 / source:대학교재 > 전기/전자). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:00.359Z"
+    "classified_at": "2026-07-10T21:07:01.041Z"
   },
   {
     "book_id": "B2591303726",
@@ -7434,7 +7463,7 @@
     "confidence": 0.78,
     "classification_reason": "서지정보 가중치 분류 31.0점 (toc:신호처리,제어공학,plc / source:대학교재 > 전기/전자). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:00.373Z"
+    "classified_at": "2026-07-10T21:07:01.055Z"
   },
   {
     "book_id": "B2388883228",
@@ -7455,7 +7484,7 @@
     "confidence": 0.76,
     "classification_reason": "서지정보 가중치 분류 20.0점 (toc:마케팅). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:00.384Z"
+    "classified_at": "2026-07-10T21:07:01.066Z"
   },
   {
     "book_id": "B3006151946",
@@ -7480,7 +7509,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 79.5점 (title:자료구조 / toc:자료구조,알고리즘 / intro:자료구조,알고리즘). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:00.394Z"
+    "classified_at": "2026-07-10T21:07:01.076Z"
   },
   {
     "book_id": "B1904486238",
@@ -7503,7 +7532,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 94.3점 (title:컴퓨터 구조,컴퓨터구조 / toc:컴퓨터 구조,컴퓨터구조,마이크로프로세서 / intro:컴퓨터 구조,컴퓨터구조 / source:대학교재 > 컴퓨터공학). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:00.403Z"
+    "classified_at": "2026-07-10T21:07:01.085Z"
   },
   {
     "book_id": "B2500085297",
@@ -7526,7 +7555,7 @@
     "confidence": 0.78,
     "classification_reason": "서지정보 가중치 분류 33.0점 (toc:ai,딥러닝 / intro:ai). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:00.412Z"
+    "classified_at": "2026-07-10T21:07:01.094Z"
   },
   {
     "book_id": "B5696471156",
@@ -7547,7 +7576,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 60.0점 (title:선형대수 / intro:선형대수 / source:대학교재 > 수학/통계). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:00.419Z"
+    "classified_at": "2026-07-10T21:07:01.101Z"
   },
   {
     "book_id": "B4712980610",
@@ -7568,7 +7597,7 @@
     "confidence": 0.92,
     "classification_reason": "서지정보 가중치 분류 35.0점 (toc:미분적분학 / intro:미분적분학 / source:대학교재 > 수학/통계). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:00.429Z"
+    "classified_at": "2026-07-10T21:07:01.111Z"
   },
   {
     "book_id": "B7132069963",
@@ -7589,7 +7618,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 91.3점 (title:프로그래밍,파이썬 / toc:프로그래밍,파이썬 / intro:프로그래밍,파이썬 / source:대학교재 > 프로그래밍). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:00.437Z"
+    "classified_at": "2026-07-10T21:07:01.120Z"
   },
   {
     "book_id": "B8742050283",
@@ -7612,7 +7641,7 @@
     "confidence": 0.93,
     "classification_reason": "서지정보 가중치 분류 38.0점 (toc:ai / intro:ai,인공지능,머신러닝 / source:대학교재 > 데이터과학/인공지능). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:00.447Z"
+    "classified_at": "2026-07-10T21:07:01.129Z"
   },
   {
     "book_id": "B7197534022",
@@ -7633,7 +7662,7 @@
     "confidence": 0.74,
     "classification_reason": "서지정보 가중치 분류 15.0점 (intro:마이크로컨트롤러 / source:대학교재 > 전기/전자). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:00.459Z"
+    "classified_at": "2026-07-10T21:07:01.141Z"
   },
   {
     "book_id": "B3607494159",
@@ -7654,7 +7683,7 @@
     "confidence": 0.58,
     "classification_reason": "서지정보 근거가 부족하여 공식 카테고리를 후순위 기준으로 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:00.466Z"
+    "classified_at": "2026-07-10T21:07:01.148Z"
   },
   {
     "book_id": "B2688599320",
@@ -7677,7 +7706,7 @@
     "confidence": 0.74,
     "classification_reason": "서지정보 가중치 분류 31.0점 (toc:논문 작성,논문작성,연구 방법 / source:대학교재 > 논문). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:00.475Z"
+    "classified_at": "2026-07-10T21:07:01.157Z"
   },
   {
     "book_id": "B4963691938",
@@ -7698,7 +7727,7 @@
     "confidence": 0.81,
     "classification_reason": "서지정보 가중치 분류 25.0점 (toc:미분적분학 / source:대학교재 > 수학/통계). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:00.485Z"
+    "classified_at": "2026-07-10T21:07:01.167Z"
   },
   {
     "book_id": "B4302601747",
@@ -7719,7 +7748,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 50.0점 (title:선형대수 / source:대학교재 > 수학/통계). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:00.491Z"
+    "classified_at": "2026-07-10T21:07:01.173Z"
   },
   {
     "book_id": "B1872121392",
@@ -7742,7 +7771,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 78.0점 (subtitle:엑셀,파워포인트,한글 20 / toc:프레젠테이션,엑셀,파워포인트 / intro:엑셀,파워포인트,한글 20). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:00.524Z"
+    "classified_at": "2026-07-10T21:07:01.206Z"
   },
   {
     "book_id": "B9477508508",
@@ -7766,7 +7795,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 116.0점 (title:통계학 / subtitle:통계학 / toc:통계학,데이터 분석,데이터분석 / intro:통계학 / source:대학교재 > 수학/통계). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:00.543Z"
+    "classified_at": "2026-07-10T21:07:01.224Z"
   },
   {
     "book_id": "B1073758476",
@@ -7787,7 +7816,7 @@
     "confidence": 0.6,
     "classification_reason": "서지정보 가중치 분류 5.0점 (source:대학교재 > 수학/통계). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:00.550Z"
+    "classified_at": "2026-07-10T21:07:01.232Z"
   },
   {
     "book_id": "B9801285644",
@@ -7808,7 +7837,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 60.0점 (title:회계원리 / intro:재무회계 / source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:00.556Z"
+    "classified_at": "2026-07-10T21:07:01.237Z"
   },
   {
     "book_id": "B8317619863",
@@ -7829,7 +7858,7 @@
     "confidence": 0.63,
     "classification_reason": "서지정보 가중치 분류 5.0점 (source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:00.560Z"
+    "classified_at": "2026-07-10T21:07:01.241Z"
   },
   {
     "book_id": "B5386821520",
@@ -7850,7 +7879,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 60.0점 (title:선형대수 / intro:선형대수 / source:대학교재 > 수학/통계). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:00.566Z"
+    "classified_at": "2026-07-10T21:07:01.247Z"
   },
   {
     "book_id": "B9718869266",
@@ -7871,7 +7900,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 80.0점 (title:c언어 / toc:c언어 / intro:c언어 / source:대학교재 > 프로그래밍). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:00.577Z"
+    "classified_at": "2026-07-10T21:07:01.258Z"
   },
   {
     "book_id": "B5762394070",
@@ -7892,7 +7921,7 @@
     "confidence": 0.58,
     "classification_reason": "서지정보 근거가 부족하여 공식 카테고리를 후순위 기준으로 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:00.591Z"
+    "classified_at": "2026-07-10T21:07:01.272Z"
   },
   {
     "book_id": "B8162281459",
@@ -7913,7 +7942,7 @@
     "confidence": 0.58,
     "classification_reason": "서지정보 근거가 부족하여 공식 카테고리를 후순위 기준으로 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:00.596Z"
+    "classified_at": "2026-07-10T21:07:01.277Z"
   },
   {
     "book_id": "B4024148490",
@@ -7934,7 +7963,7 @@
     "confidence": 0.82,
     "classification_reason": "서지정보 가중치 분류 26.0점 (toc:프로그래밍,자바,웹 프로그래밍). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:00.604Z"
+    "classified_at": "2026-07-10T21:07:01.285Z"
   },
   {
     "book_id": "B5877781696",
@@ -7955,7 +7984,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 60.0점 (title:회로이론 / intro:회로이론 / source:대학교재 > 전기/전자). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:00.611Z"
+    "classified_at": "2026-07-10T21:07:01.292Z"
   },
   {
     "book_id": "B1670450648",
@@ -7976,7 +8005,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 60.0점 (title:회로이론 / intro:회로이론 / source:대학교재 > 전기/전자). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:00.617Z"
+    "classified_at": "2026-07-10T21:07:01.298Z"
   },
   {
     "book_id": "B8497885322",
@@ -7997,7 +8026,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 80.0점 (title:데이터 통신 / toc:데이터 통신 / intro:데이터 통신 / source:대학교재 > 컴퓨터공학). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:00.626Z"
+    "classified_at": "2026-07-10T21:07:01.306Z"
   },
   {
     "book_id": "B4186876690",
@@ -8024,7 +8053,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 91.3점 (title:자료구조,알고리즘 / toc:자료구조,알고리즘 / intro:자료구조,알고리즘 / source:대학교재 > 컴퓨터공학). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:00.639Z"
+    "classified_at": "2026-07-10T21:07:01.319Z"
   },
   {
     "book_id": "B5747914873",
@@ -8047,7 +8076,7 @@
     "confidence": 0.75,
     "classification_reason": "서지정보 가중치 분류 28.0점 (toc:열역학,동역학 / source:대학교재 > 과학/공학일반). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:00.661Z"
+    "classified_at": "2026-07-10T21:07:01.341Z"
   },
   {
     "book_id": "B3532160882",
@@ -8068,7 +8097,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 86.0점 (title:재료역학 / toc:정역학,재료역학 / intro:정역학,재료역학,기계공학 / source:대학교재 > 기계/자동차). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:00.670Z"
+    "classified_at": "2026-07-10T21:07:01.350Z"
   },
   {
     "book_id": "B7003679813",
@@ -8089,7 +8118,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 116.0점 (title:창업 / subtitle:창업 / toc:마케팅,재무관리,창업 / intro:창업 / source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:00.678Z"
+    "classified_at": "2026-07-10T21:07:01.359Z"
   },
   {
     "book_id": "B7259300237",
@@ -8110,7 +8139,7 @@
     "confidence": 0.85,
     "classification_reason": "서지정보 가중치 분류 25.0점 (toc:논리회로 / source:대학교재 > 전기/전자). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:00.687Z"
+    "classified_at": "2026-07-10T21:07:01.367Z"
   },
   {
     "book_id": "B3331792777",
@@ -8131,7 +8160,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 76.8점 (title:미분적분학,대학수학 / toc:미분적분학 / source:대학교재 > 수학/통계). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:00.693Z"
+    "classified_at": "2026-07-10T21:07:01.374Z"
   },
   {
     "book_id": "B2312495638",
@@ -8157,7 +8186,7 @@
     "confidence": 0.97,
     "classification_reason": "서지정보 가중치 분류 76.5점 (title:파이썬 / toc:프로그래밍 / intro:파이썬,코딩). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:00.700Z"
+    "classified_at": "2026-07-10T21:07:01.380Z"
   },
   {
     "book_id": "B5373816298",
@@ -8178,7 +8207,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 86.0점 (title:통계학 / toc:통계학,통계 분석,통계분석 / intro:통계학 / source:대학교재 > 수학/통계). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:00.707Z"
+    "classified_at": "2026-07-10T21:07:01.388Z"
   },
   {
     "book_id": "B2903514322",
@@ -8201,7 +8230,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 89.3점 (title:데이터 분석,데이터분석 / toc:통계 분석,통계분석,데이터 분석 / intro:데이터 분석,데이터분석). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:00.717Z"
+    "classified_at": "2026-07-10T21:07:01.398Z"
   },
   {
     "book_id": "B8091740296",
@@ -8231,7 +8260,7 @@
     "confidence": 0.95,
     "classification_reason": "서지정보 가중치 분류 84.0점 (title:인공지능 / toc:인공지능,기계학습,딥러닝 / intro:인공지능,딥러닝,강화학습). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:00.731Z"
+    "classified_at": "2026-07-10T21:07:01.412Z"
   },
   {
     "book_id": "B3159505553",
@@ -8252,7 +8281,7 @@
     "confidence": 0.76,
     "classification_reason": "서지정보 가중치 분류 20.0점 (toc:반도체). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:00.740Z"
+    "classified_at": "2026-07-10T21:07:01.420Z"
   },
   {
     "book_id": "B2890271292",
@@ -8278,7 +8307,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 84.0점 (title:파이썬 / toc:프로그래밍,파이썬,코딩 / intro:프로그래밍,파이썬,코딩). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:00.752Z"
+    "classified_at": "2026-07-10T21:07:01.432Z"
   },
   {
     "book_id": "B6109809364",
@@ -8299,7 +8328,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 80.0점 (title:전자기학 / toc:반도체 / intro:전자기학 / source:대학교재 > 전기/전자). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:00.762Z"
+    "classified_at": "2026-07-10T21:07:01.442Z"
   },
   {
     "book_id": "B1559528854",
@@ -8320,7 +8349,7 @@
     "confidence": 0.58,
     "classification_reason": "서지정보 근거가 부족하여 공식 카테고리를 후순위 기준으로 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:00.777Z"
+    "classified_at": "2026-07-10T21:07:01.458Z"
   },
   {
     "book_id": "B6375462218",
@@ -8341,7 +8370,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 83.0점 (title:전자기학 / toc:회로이론,반도체 / intro:전자기학 / source:대학교재 > 전기/전자). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:00.793Z"
+    "classified_at": "2026-07-10T21:07:01.473Z"
   },
   {
     "book_id": "B2714244159",
@@ -8362,7 +8391,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 94.3점 (title:프로그래밍,자바 / toc:프로그래밍,자바,java / intro:프로그래밍,자바 / source:대학교재 > 프로그래밍). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:00.805Z"
+    "classified_at": "2026-07-10T21:07:01.485Z"
   },
   {
     "book_id": "B4797877052",
@@ -8387,7 +8416,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 83.0점 (title:c++ / toc:프로그래밍,c++ / intro:c++ / source:대학교재 > 프로그래밍). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:00.815Z"
+    "classified_at": "2026-07-10T21:07:01.495Z"
   },
   {
     "book_id": "B6503201303",
@@ -8408,7 +8437,7 @@
     "confidence": 0.76,
     "classification_reason": "서지정보 가중치 분류 20.0점 (toc:엑셀). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:00.843Z"
+    "classified_at": "2026-07-10T21:07:01.523Z"
   },
   {
     "book_id": "B3778110677",
@@ -8431,7 +8460,7 @@
     "confidence": 0.92,
     "classification_reason": "서지정보 가중치 분류 69.5점 (subtitle:비즈니스 / toc:창업,비즈니스 / intro:창업,비즈니스 / source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:00.849Z"
+    "classified_at": "2026-07-10T21:07:01.530Z"
   },
   {
     "book_id": "B1851418066",
@@ -8458,7 +8487,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 113.0점 (title:c++ / subtitle:프로그래밍 / toc:프로그래밍,c++ / intro:c++ / source:대학교재 > 프로그래밍). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:00.860Z"
+    "classified_at": "2026-07-10T21:07:01.542Z"
   },
   {
     "book_id": "B9479195027",
@@ -8490,7 +8519,7 @@
     "confidence": 0.91,
     "classification_reason": "서지정보 가중치 분류 81.0점 (title:딥러닝 / toc:머신러닝,신경망 / intro:머신러닝,딥러닝,데이터 과학). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:00.871Z"
+    "classified_at": "2026-07-10T21:07:01.553Z"
   },
   {
     "book_id": "B2082711299",
@@ -8511,7 +8540,7 @@
     "confidence": 0.82,
     "classification_reason": "서지정보 가중치 분류 26.0점 (toc:프로그래밍,자바,웹 프로그래밍). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:00.879Z"
+    "classified_at": "2026-07-10T21:07:01.561Z"
   },
   {
     "book_id": "B1825116777",
@@ -8532,7 +8561,7 @@
     "confidence": 0.85,
     "classification_reason": "서지정보 가중치 분류 25.0점 (toc:창업 / source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:00.889Z"
+    "classified_at": "2026-07-10T21:07:01.571Z"
   },
   {
     "book_id": "B5937482728",
@@ -8553,7 +8582,7 @@
     "confidence": 0.79,
     "classification_reason": "서지정보 가중치 분류 23.0점 (toc:자바,코딩). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:00.900Z"
+    "classified_at": "2026-07-10T21:07:01.582Z"
   },
   {
     "book_id": "B7926921440",
@@ -8578,7 +8607,7 @@
     "confidence": 0.89,
     "classification_reason": "서지정보 가중치 분류 70.0점 (title:선형대수 / toc:선형대수 / source:대학교재 > 수학/통계). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:00.905Z"
+    "classified_at": "2026-07-10T21:07:01.588Z"
   },
   {
     "book_id": "B8658821149",
@@ -8599,7 +8628,7 @@
     "confidence": 0.85,
     "classification_reason": "서지정보 가중치 분류 28.0점 (toc:미적분학,미분방정식 / source:대학교재 > 수학/통계). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:00.916Z"
+    "classified_at": "2026-07-10T21:07:01.598Z"
   },
   {
     "book_id": "B4295361584",
@@ -8622,7 +8651,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 83.0점 (title:데이터 통신 / toc:데이터 통신,알고리즘 / intro:데이터 통신 / source:대학교재 > 컴퓨터공학). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:00.929Z"
+    "classified_at": "2026-07-10T21:07:01.612Z"
   },
   {
     "book_id": "B3126325886",
@@ -8643,7 +8672,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 114.5점 (title:프로그래밍 / subtitle:c++ / toc:프로그래밍,c++ / intro:프로그래밍,c++ / source:대학교재 > 프로그래밍). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:00.940Z"
+    "classified_at": "2026-07-10T21:07:01.622Z"
   },
   {
     "book_id": "B3055805288",
@@ -8664,7 +8693,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 88.3점 (title:프로그래밍,안드로이드 / toc:안드로이드 / intro:프로그래밍,안드로이드 / source:대학교재 > 프로그래밍). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:00.948Z"
+    "classified_at": "2026-07-10T21:07:01.630Z"
   },
   {
     "book_id": "B3715221949",
@@ -8698,7 +8727,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 82.5점 (title:인공지능 / toc:인공지능,기계학습,신경망 / intro:ai,인공지능). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:00.956Z"
+    "classified_at": "2026-07-10T21:07:01.639Z"
   },
   {
     "book_id": "B1710834745",
@@ -8719,7 +8748,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 80.0점 (title:선형대수 / toc:미분방정식 / intro:선형대수 / source:대학교재 > 수학/통계). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:00.964Z"
+    "classified_at": "2026-07-10T21:07:01.646Z"
   },
   {
     "book_id": "B8200129293",
@@ -8740,7 +8769,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 80.0점 (title:리눅스 / toc:리눅스 / intro:리눅스 / source:대학교재 > 컴퓨터공학). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:00.974Z"
+    "classified_at": "2026-07-10T21:07:01.657Z"
   },
   {
     "book_id": "B8983481859",
@@ -8761,7 +8790,7 @@
     "confidence": 0.58,
     "classification_reason": "서지정보 근거가 부족하여 공식 카테고리를 후순위 기준으로 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:00.987Z"
+    "classified_at": "2026-07-10T21:07:01.669Z"
   },
   {
     "book_id": "B3157570293",
@@ -8782,7 +8811,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 60.0점 (title:회계원리 / intro:회계원리 / source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:00.991Z"
+    "classified_at": "2026-07-10T21:07:01.673Z"
   },
   {
     "book_id": "B2047360488",
@@ -8805,7 +8834,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 80.0점 (title:파이썬 / toc:프로그래밍 / intro:파이썬 / source:대학교재 > 프로그래밍). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:00.997Z"
+    "classified_at": "2026-07-10T21:07:01.679Z"
   },
   {
     "book_id": "B7429065791",
@@ -8826,7 +8855,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 73.0점 (title:유체역학 / toc:정역학,동역학 / source:대학교재 > 컴퓨터공학). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:01.002Z"
+    "classified_at": "2026-07-10T21:07:01.684Z"
   },
   {
     "book_id": "B3710025332",
@@ -8850,7 +8879,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 80.0점 (title:컴파일러 / toc:컴파일러 / intro:컴파일러 / source:대학교재 > 컴퓨터공학). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:01.017Z"
+    "classified_at": "2026-07-10T21:07:01.699Z"
   },
   {
     "book_id": "B8360638502",
@@ -8871,7 +8900,7 @@
     "confidence": 0.63,
     "classification_reason": "서지정보 가중치 분류 5.0점 (source:대학교재 > 과학/공학일반). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:01.023Z"
+    "classified_at": "2026-07-10T21:07:01.705Z"
   },
   {
     "book_id": "B8424694196",
@@ -8898,7 +8927,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 89.0점 (title:운영체제 / toc:운영체제,알고리즘,리눅스 / intro:운영체제,자료구조,알고리즘 / source:대학교재 > 컴퓨터공학). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:01.065Z"
+    "classified_at": "2026-07-10T21:07:01.746Z"
   },
   {
     "book_id": "B8928200501",
@@ -8919,7 +8948,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 50.0점 (title:기초수학 / source:대학교재 > 수학/통계). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:01.071Z"
+    "classified_at": "2026-07-10T21:07:01.752Z"
   },
   {
     "book_id": "B5218745415",
@@ -8940,7 +8969,7 @@
     "confidence": 0.58,
     "classification_reason": "서지정보 근거가 부족하여 공식 카테고리를 후순위 기준으로 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:01.079Z"
+    "classified_at": "2026-07-10T21:07:01.760Z"
   },
   {
     "book_id": "B7654754187",
@@ -8963,7 +8992,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 80.0점 (title:리눅스 / toc:리눅스 / intro:리눅스 / source:대학교재 > 컴퓨터공학). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:01.088Z"
+    "classified_at": "2026-07-10T21:07:01.769Z"
   },
   {
     "book_id": "B6282611417",
@@ -8984,7 +9013,7 @@
     "confidence": 0.76,
     "classification_reason": "서지정보 가중치 분류 20.0점 (toc:안드로이드). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:01.100Z"
+    "classified_at": "2026-07-10T21:07:01.781Z"
   },
   {
     "book_id": "B5940484819",
@@ -9005,7 +9034,7 @@
     "confidence": 0.6,
     "classification_reason": "서지정보 가중치 분류 5.0점 (source:대학교재 > 컴퓨터공학). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:01.118Z"
+    "classified_at": "2026-07-10T21:07:01.799Z"
   },
   {
     "book_id": "B2605474779",
@@ -9026,7 +9055,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 80.0점 (title:plc / toc:plc / intro:plc / source:대학교재 > 전기/전자). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:01.131Z"
+    "classified_at": "2026-07-10T21:07:01.811Z"
   },
   {
     "book_id": "B6031599263",
@@ -9047,7 +9076,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 55.0점 (title:python / intro:python). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:01.134Z"
+    "classified_at": "2026-07-10T21:07:01.814Z"
   },
   {
     "book_id": "B3185671675",
@@ -9070,7 +9099,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 111.0점 (title:stata / subtitle:stata / toc:통계 분석,통계분석,회귀분석 / intro:stata). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:01.147Z"
+    "classified_at": "2026-07-10T21:07:01.826Z"
   },
   {
     "book_id": "B7071757815",
@@ -9091,7 +9120,7 @@
     "confidence": 0.58,
     "classification_reason": "서지정보 근거가 부족하여 공식 카테고리를 후순위 기준으로 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:01.155Z"
+    "classified_at": "2026-07-10T21:07:01.835Z"
   },
   {
     "book_id": "B3728557800",
@@ -9117,7 +9146,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 75.0점 (title:인공지능 / toc:인공지능 / intro:인공지능). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:01.164Z"
+    "classified_at": "2026-07-10T21:07:01.843Z"
   },
   {
     "book_id": "B9612881797",
@@ -9138,7 +9167,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 75.0점 (title:디자인 씽킹 / toc:디자인 씽킹 / intro:디자인 씽킹). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:01.173Z"
+    "classified_at": "2026-07-10T21:07:01.853Z"
   },
   {
     "book_id": "B2221382448",
@@ -9159,7 +9188,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 83.0점 (title:인적자원관리 / toc:무역,인적자원관리 / intro:인적자원관리 / source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:01.180Z"
+    "classified_at": "2026-07-10T21:07:01.860Z"
   },
   {
     "book_id": "B8168612595",
@@ -9180,7 +9209,7 @@
     "confidence": 0.63,
     "classification_reason": "서지정보 가중치 분류 5.0점 (source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:01.184Z"
+    "classified_at": "2026-07-10T21:07:01.864Z"
   },
   {
     "book_id": "B1462862435",
@@ -9201,7 +9230,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 80.0점 (title:인적자원관리 / toc:인적자원관리 / intro:인적자원관리 / source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:01.188Z"
+    "classified_at": "2026-07-10T21:07:01.867Z"
   },
   {
     "book_id": "B2675016391",
@@ -9222,7 +9251,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 81.0점 (title:통계학 / toc:통계학,통계 분석,통계분석 / intro:통계학). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:01.195Z"
+    "classified_at": "2026-07-10T21:07:01.874Z"
   },
   {
     "book_id": "B7656319340",
@@ -9243,7 +9272,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 75.0점 (title:통계학 / toc:회귀분석 / intro:통계학). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:01.199Z"
+    "classified_at": "2026-07-10T21:07:01.878Z"
   },
   {
     "book_id": "B7788298579",
@@ -9266,7 +9295,7 @@
     "confidence": 0.77,
     "classification_reason": "서지정보 가중치 분류 39.0점 (toc:프레젠테이션,엑셀,파워포인트 / intro:엑셀,파워포인트,한글 20). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:01.230Z"
+    "classified_at": "2026-07-10T21:07:01.909Z"
   },
   {
     "book_id": "B7636882348",
@@ -9289,7 +9318,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 81.5점 (title:전자회로 / toc:반도체 / intro:전자회로,반도체 / source:대학교재 > 전기/전자). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:01.242Z"
+    "classified_at": "2026-07-10T21:07:01.921Z"
   },
   {
     "book_id": "B7036218168",
@@ -9312,7 +9341,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 94.3점 (title:미분방정식,선형대수 / toc:미적분학,미분방정식,선형대수 / intro:미분방정식,선형대수 / source:대학교재 > 수학/통계). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:01.250Z"
+    "classified_at": "2026-07-10T21:07:01.930Z"
   },
   {
     "book_id": "B7721595096",
@@ -9333,7 +9362,7 @@
     "confidence": 0.6,
     "classification_reason": "서지정보 가중치 분류 5.0점 (source:대학교재 > 컴퓨터공학). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:01.260Z"
+    "classified_at": "2026-07-10T21:07:01.939Z"
   },
   {
     "book_id": "B5536627282",
@@ -9354,7 +9383,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 81.0점 (title:파워포인트 / toc:프레젠테이션,엑셀,파워포인트 / intro:파워포인트). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:01.285Z"
+    "classified_at": "2026-07-10T21:07:01.964Z"
   },
   {
     "book_id": "B7696109270",
@@ -9378,7 +9407,7 @@
     "confidence": 0.89,
     "classification_reason": "서지정보 가중치 분류 70.0점 (title:코딩 / toc:프로그래밍 / source:대학교재 > 프로그래밍). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:01.293Z"
+    "classified_at": "2026-07-10T21:07:01.972Z"
   },
   {
     "book_id": "B8501117330",
@@ -9399,7 +9428,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 86.3점 (title:포토샵,일러스트레이터 / toc:포토샵,일러스트레이터 / intro:포토샵,일러스트레이터). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:01.313Z"
+    "classified_at": "2026-07-10T21:07:01.989Z"
   },
   {
     "book_id": "B5451383444",
@@ -9420,7 +9449,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 84.5점 (title:프로그래밍 / toc:프로그래밍,웹 프로그래밍 / intro:프로그래밍,웹 프로그래밍 / source:대학교재 > 프로그래밍). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:01.330Z"
+    "classified_at": "2026-07-10T21:07:02.007Z"
   },
   {
     "book_id": "B4956047798",
@@ -9443,7 +9472,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 80.0점 (title:칼만 필터 / toc:칼만 필터 / intro:칼만 필터 / source:대학교재 > 전기/전자). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:01.340Z"
+    "classified_at": "2026-07-10T21:07:02.016Z"
   },
   {
     "book_id": "B7322961018",
@@ -9464,7 +9493,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 75.0점 (title:포토샵 / toc:포토샵 / intro:포토샵). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:01.355Z"
+    "classified_at": "2026-07-10T21:07:02.032Z"
   },
   {
     "book_id": "B9813152923",
@@ -9487,7 +9516,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 80.0점 (title:마케팅 / toc:마케팅 / intro:마케팅 / source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:01.364Z"
+    "classified_at": "2026-07-10T21:07:02.040Z"
   },
   {
     "book_id": "B1193134182",
@@ -9508,7 +9537,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 83.0점 (title:무역 / toc:마케팅,무역 / intro:무역 / source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:01.369Z"
+    "classified_at": "2026-07-10T21:07:02.045Z"
   },
   {
     "book_id": "B2241972333",
@@ -9529,7 +9558,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 86.0점 (title:경영학 / toc:마케팅,재무관리,인적자원관리 / intro:경영학 / source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:01.373Z"
+    "classified_at": "2026-07-10T21:07:02.049Z"
   },
   {
     "book_id": "B2095948575",
@@ -9550,7 +9579,7 @@
     "confidence": 0.88,
     "classification_reason": "서지정보 가중치 분류 28.0점 (toc:마케팅,비즈니스 / source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:01.377Z"
+    "classified_at": "2026-07-10T21:07:02.053Z"
   },
   {
     "book_id": "B3589179269",
@@ -9576,7 +9605,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 97.5점 (title:통계 분석,통계분석,spss / toc:통계 분석,통계분석,회귀분석 / intro:통계학,spss,amos). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:01.388Z"
+    "classified_at": "2026-07-10T21:07:02.064Z"
   },
   {
     "book_id": "B7331189700",
@@ -9600,7 +9629,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 80.0점 (title:마이크로컨트롤러 / toc:마이크로컨트롤러 / intro:마이크로컨트롤러 / source:대학교재 > 전기/전자). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:01.403Z"
+    "classified_at": "2026-07-10T21:07:02.079Z"
   },
   {
     "book_id": "B6770761409",
@@ -9627,7 +9656,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 84.5점 (title:미분적분학 / toc:미적분학,선형대수 / intro:미분적분학,미적분학 / source:대학교재 > 수학/통계). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:01.415Z"
+    "classified_at": "2026-07-10T21:07:02.090Z"
   },
   {
     "book_id": "B6251835089",
@@ -9650,7 +9679,7 @@
     "confidence": 0.97,
     "classification_reason": "서지정보 가중치 분류 86.3점 (title:spss,amos / toc:spss,amos / intro:spss,amos). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:01.434Z"
+    "classified_at": "2026-07-10T21:07:02.110Z"
   },
   {
     "book_id": "B9734986316",
@@ -9673,7 +9702,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 125.8점 (title:프로그래밍,c언어 / subtitle:프로그래밍,c언어 / toc:프로그래밍,c언어 / intro:프로그래밍,c언어 / source:대학교재 > 프로그래밍). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:01.447Z"
+    "classified_at": "2026-07-10T21:07:02.122Z"
   },
   {
     "book_id": "B2802443473",
@@ -9694,7 +9723,7 @@
     "confidence": 0.79,
     "classification_reason": "서지정보 가중치 분류 20.0점 (toc:포토샵). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:01.460Z"
+    "classified_at": "2026-07-10T21:07:02.135Z"
   },
   {
     "book_id": "B6528837069",
@@ -9715,7 +9744,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 105.0점 (title:일러스트레이터 / subtitle:일러스트레이터 / toc:일러스트레이터 / intro:일러스트레이터). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:01.472Z"
+    "classified_at": "2026-07-10T21:07:02.148Z"
   },
   {
     "book_id": "B3283906872",
@@ -9736,7 +9765,7 @@
     "confidence": 0.93,
     "classification_reason": "서지정보 가중치 분류 38.0점 (toc:운영체제,리눅스 / intro:운영체제 / source:대학교재 > 컴퓨터공학). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:01.482Z"
+    "classified_at": "2026-07-10T21:07:02.157Z"
   },
   {
     "book_id": "B4743554662",
@@ -9759,7 +9788,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 60.0점 (title:기초수학 / intro:기초수학 / source:대학교재 > 수학/통계). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:01.490Z"
+    "classified_at": "2026-07-10T21:07:02.165Z"
   },
   {
     "book_id": "B2985687596",
@@ -9785,7 +9814,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 113.0점 (title:수치해석 / subtitle:수치해석 / toc:미분방정식,선형대수 / intro:수치해석 / source:대학교재 > 수학/통계). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:01.501Z"
+    "classified_at": "2026-07-10T21:07:02.177Z"
   },
   {
     "book_id": "B1065544454",
@@ -9806,7 +9835,7 @@
     "confidence": 0.83,
     "classification_reason": "서지정보 가중치 분류 30.0점 (toc:안드로이드 / intro:안드로이드). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:01.512Z"
+    "classified_at": "2026-07-10T21:07:02.187Z"
   },
   {
     "book_id": "B4609297755",
@@ -9827,7 +9856,7 @@
     "confidence": 0.96,
     "classification_reason": "서지정보 가중치 분류 45.0점 (subtitle:코딩 / intro:프로그래밍 / source:대학교재 > 프로그래밍). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:01.521Z"
+    "classified_at": "2026-07-10T21:07:02.196Z"
   },
   {
     "book_id": "B8712296509",
@@ -9850,7 +9879,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 75.0점 (title:엑셀 / toc:엑셀 / intro:엑셀). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:01.549Z"
+    "classified_at": "2026-07-10T21:07:02.225Z"
   },
   {
     "book_id": "B2327630283",
@@ -9871,7 +9900,7 @@
     "confidence": 0.58,
     "classification_reason": "서지정보 근거가 부족하여 공식 카테고리를 후순위 기준으로 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:01.555Z"
+    "classified_at": "2026-07-10T21:07:02.231Z"
   },
   {
     "book_id": "B7734838759",
@@ -9892,7 +9921,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 80.0점 (title:공학수학 / toc:미분방정식 / intro:공학수학 / source:대학교재 > 수학/통계). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:01.566Z"
+    "classified_at": "2026-07-10T21:07:02.242Z"
   },
   {
     "book_id": "B6318137900",
@@ -9918,7 +9947,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 84.0점 (title:spss / toc:통계 분석,통계분석,회귀분석 / intro:통계 분석,통계분석,spss). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:01.586Z"
+    "classified_at": "2026-07-10T21:07:02.261Z"
   },
   {
     "book_id": "B7818919239",
@@ -9941,7 +9970,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 86.0점 (title:c++ / toc:c언어,c++ / intro:프로그래밍,c언어,c++ / source:대학교재 > 프로그래밍). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:01.602Z"
+    "classified_at": "2026-07-10T21:07:02.277Z"
   },
   {
     "book_id": "B1246753904",
@@ -9962,7 +9991,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 84.5점 (title:미분적분학 / toc:미적분학,미분방정식 / intro:미분적분학,미적분학 / source:대학교재 > 수학/통계). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:01.613Z"
+    "classified_at": "2026-07-10T21:07:02.288Z"
   },
   {
     "book_id": "B6316170701",
@@ -9983,7 +10012,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 80.0점 (title:제어공학 / toc:제어공학 / intro:제어공학 / source:대학교재 > 전기/전자). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:01.622Z"
+    "classified_at": "2026-07-10T21:07:02.297Z"
   },
   {
     "book_id": "B5679811608",
@@ -10004,7 +10033,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 80.0점 (title:재무관리 / toc:재무관리 / intro:재무관리 / source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:01.626Z"
+    "classified_at": "2026-07-10T21:07:02.302Z"
   },
   {
     "book_id": "B4622526661",
@@ -10027,7 +10056,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 63.0점 (subtitle:프로그래밍 / toc:프로그래밍 / intro:프로그래밍,c++,c#). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:01.636Z"
+    "classified_at": "2026-07-10T21:07:02.312Z"
   },
   {
     "book_id": "B6848206359",
@@ -10057,7 +10086,7 @@
     "confidence": 0.78,
     "classification_reason": "서지정보 가중치 분류 31.0점 (toc:컴퓨터 구조,컴퓨터구조,운영체제 / source:대학교재 > 컴퓨터공학). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:01.644Z"
+    "classified_at": "2026-07-10T21:07:02.320Z"
   },
   {
     "book_id": "B7707942187",
@@ -10082,7 +10111,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 84.5점 (title:알고리즘 / toc:자료구조,알고리즘 / intro:자료구조,알고리즘 / source:대학교재 > 컴퓨터공학). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:01.659Z"
+    "classified_at": "2026-07-10T21:07:02.335Z"
   },
   {
     "book_id": "B1280986753",
@@ -10103,7 +10132,7 @@
     "confidence": 0.85,
     "classification_reason": "서지정보 가중치 분류 25.0점 (toc:신호 및 시스템 / source:대학교재 > 전기/전자). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:01.673Z"
+    "classified_at": "2026-07-10T21:07:02.349Z"
   },
   {
     "book_id": "B4072673691",
@@ -10126,7 +10155,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 83.0점 (title:plc / toc:전기회로,plc / intro:plc / source:대학교재 > 전기/전자). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:01.686Z"
+    "classified_at": "2026-07-10T21:07:02.362Z"
   },
   {
     "book_id": "B1088651249",
@@ -10147,7 +10176,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 80.0점 (title:미분적분학 / toc:미적분학 / intro:미분적분학 / source:대학교재 > 수학/통계). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:01.695Z"
+    "classified_at": "2026-07-10T21:07:02.371Z"
   },
   {
     "book_id": "B5011871658",
@@ -10168,7 +10197,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 91.3점 (title:프로그래밍,c++ / toc:프로그래밍,c++ / intro:프로그래밍,c++ / source:대학교재 > 프로그래밍). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:01.704Z"
+    "classified_at": "2026-07-10T21:07:02.379Z"
   },
   {
     "book_id": "B4606522972",
@@ -10196,7 +10225,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 82.5점 (title:기계학습 / toc:기계학습,딥러닝,강화학습 / intro:기계학습,딥러닝). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:01.713Z"
+    "classified_at": "2026-07-10T21:07:02.388Z"
   },
   {
     "book_id": "B1780678362",
@@ -10221,7 +10250,7 @@
     "confidence": 0.88,
     "classification_reason": "서지정보 가중치 분류 44.0점 (toc:논문 작성,논문작성,연구 방법 / intro:논문 작성,논문작성,연구방법론 / source:대학교재 > 논문). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:01.725Z"
+    "classified_at": "2026-07-10T21:07:02.400Z"
   },
   {
     "book_id": "B8780433662",
@@ -10242,7 +10271,7 @@
     "confidence": 0.58,
     "classification_reason": "서지정보 근거가 부족하여 공식 카테고리를 후순위 기준으로 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:01.731Z"
+    "classified_at": "2026-07-10T21:07:02.406Z"
   },
   {
     "book_id": "B9464832573",
@@ -10263,7 +10292,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 75.0점 (title:엑셀 / toc:엑셀 / intro:엑셀). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:01.736Z"
+    "classified_at": "2026-07-10T21:07:02.412Z"
   },
   {
     "book_id": "B9739926123",
@@ -10284,7 +10313,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 75.0점 (title:파워포인트 / toc:파워포인트 / intro:파워포인트). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:01.742Z"
+    "classified_at": "2026-07-10T21:07:02.417Z"
   },
   {
     "book_id": "B8304303948",
@@ -10305,7 +10334,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 124.3점 (title:프로그래밍,웹 프로그래밍 / subtitle:java / toc:프로그래밍,자바,웹 프로그래밍 / intro:프로그래밍,자바 / source:대학교재 > 프로그래밍). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:01.751Z"
+    "classified_at": "2026-07-10T21:07:02.426Z"
   },
   {
     "book_id": "B5685822011",
@@ -10326,7 +10355,7 @@
     "confidence": 0.81,
     "classification_reason": "서지정보 가중치 분류 25.0점 (toc:미분방정식 / source:대학교재 > 수학/통계). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:01.763Z"
+    "classified_at": "2026-07-10T21:07:02.438Z"
   },
   {
     "book_id": "B4058943367",
@@ -10349,7 +10378,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 83.0점 (title:plc / toc:전기회로,plc / intro:plc / source:대학교재 > 전기/전자). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:01.776Z"
+    "classified_at": "2026-07-10T21:07:02.451Z"
   },
   {
     "book_id": "B8800508513",
@@ -10370,7 +10399,7 @@
     "confidence": 0.92,
     "classification_reason": "서지정보 가중치 분류 36.0점 (toc:코딩,소프트웨어 개발 / intro:프로그래밍,자바,c++). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:01.787Z"
+    "classified_at": "2026-07-10T21:07:02.462Z"
   },
   {
     "book_id": "B6678975190",
@@ -10391,7 +10420,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 87.5점 (title:공업수학 / toc:미분방정식,선형대수,공업수학 / intro:미분방정식,공업수학 / source:대학교재 > 수학/통계). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:01.794Z"
+    "classified_at": "2026-07-10T21:07:02.469Z"
   },
   {
     "book_id": "B3308171786",
@@ -10412,7 +10441,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 51.0점 (subtitle:프로그래밍,웹 프로그래밍 / intro:프로그래밍,웹 프로그래밍 / source:대학교재 > 프로그래밍). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:01.805Z"
+    "classified_at": "2026-07-10T21:07:02.480Z"
   },
   {
     "book_id": "B7632516600",
@@ -10433,7 +10462,7 @@
     "confidence": 0.79,
     "classification_reason": "서지정보 가중치 분류 23.0점 (toc:연구방법론,연구 방법). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:01.811Z"
+    "classified_at": "2026-07-10T21:07:02.486Z"
   },
   {
     "book_id": "B1505901052",
@@ -10454,7 +10483,7 @@
     "confidence": 0.6,
     "classification_reason": "서지정보 가중치 분류 5.0점 (source:대학교재 > 컴퓨터공학). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:01.821Z"
+    "classified_at": "2026-07-10T21:07:02.495Z"
   },
   {
     "book_id": "B6950900171",
@@ -10481,7 +10510,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 95.8점 (title:프로그래밍,파이썬 / toc:프로그래밍,파이썬,코딩 / intro:프로그래밍,파이썬,python / source:대학교재 > 프로그래밍). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:01.833Z"
+    "classified_at": "2026-07-10T21:07:02.508Z"
   },
   {
     "book_id": "B9034471839",
@@ -10502,7 +10531,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 121.3점 (title:프로그래밍,자바 / subtitle:자바 / toc:프로그래밍,자바 / intro:프로그래밍,자바 / source:대학교재 > 프로그래밍). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:01.844Z"
+    "classified_at": "2026-07-10T21:07:02.519Z"
   },
   {
     "book_id": "B7014039221",
@@ -10529,7 +10558,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 101.0점 (title:통계 분석,통계분석,r 통계 / toc:통계학,회귀분석,r 통계 / intro:데이터 분석,데이터분석 / source:대학교재 > 수학/통계). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:01.854Z"
+    "classified_at": "2026-07-10T21:07:02.529Z"
   },
   {
     "book_id": "B3413755293",
@@ -10550,7 +10579,7 @@
     "confidence": 0.87,
     "classification_reason": "서지정보 가중치 분류 30.0점 (toc:마케팅 / intro:경영학). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:01.865Z"
+    "classified_at": "2026-07-10T21:07:02.541Z"
   },
   {
     "book_id": "B3239422381",
@@ -10575,7 +10604,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 83.0점 (title:운영체제 / toc:운영체제,알고리즘 / intro:운영체제 / source:대학교재 > 컴퓨터공학). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:01.886Z"
+    "classified_at": "2026-07-10T21:07:02.562Z"
   },
   {
     "book_id": "B5073504555",
@@ -10599,7 +10628,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 65.0점 (subtitle:마이크로컨트롤러 / toc:마이크로컨트롤러 / intro:마이크로컨트롤러 / source:대학교재 > 전기/전자). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:01.901Z"
+    "classified_at": "2026-07-10T21:07:02.576Z"
   },
   {
     "book_id": "B1665004188",
@@ -10620,7 +10649,7 @@
     "confidence": 0.74,
     "classification_reason": "서지정보 가중치 분류 15.0점 (intro:프로그래밍 / source:대학교재 > 프로그래밍). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:01.906Z"
+    "classified_at": "2026-07-10T21:07:02.581Z"
   },
   {
     "book_id": "B3595032599",
@@ -10641,7 +10670,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 60.0점 (title:프로그래밍 / intro:프로그래밍 / source:대학교재 > 프로그래밍). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:01.912Z"
+    "classified_at": "2026-07-10T21:07:02.587Z"
   },
   {
     "book_id": "B2509619087",
@@ -10662,7 +10691,7 @@
     "confidence": 0.76,
     "classification_reason": "서지정보 가중치 분류 20.0점 (toc:반도체). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:01.920Z"
+    "classified_at": "2026-07-10T21:07:02.595Z"
   },
   {
     "book_id": "B5566366165",
@@ -10688,7 +10717,7 @@
     "confidence": 0.76,
     "classification_reason": "서지정보 가중치 분류 31.0점 (toc:컴퓨터 구조,컴퓨터구조,운영체제 / source:대학교재 > 컴퓨터공학). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:01.929Z"
+    "classified_at": "2026-07-10T21:07:02.605Z"
   },
   {
     "book_id": "B3682658310",
@@ -10709,7 +10738,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 80.0점 (title:반도체 / toc:반도체 / intro:반도체 / source:대학교재 > 전기/전자). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:01.941Z"
+    "classified_at": "2026-07-10T21:07:02.616Z"
   },
   {
     "book_id": "B5902077493",
@@ -10730,7 +10759,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 55.0점 (title:비즈니스 / intro:비즈니스). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:01.951Z"
+    "classified_at": "2026-07-10T21:07:02.626Z"
   },
   {
     "book_id": "B4708665162",
@@ -10753,7 +10782,7 @@
     "confidence": 0.93,
     "classification_reason": "서지정보 가중치 분류 80.0점 (title:리눅스 / toc:리눅스 / intro:리눅스 / source:대학교재 > 컴퓨터공학). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:01.962Z"
+    "classified_at": "2026-07-10T21:07:02.638Z"
   },
   {
     "book_id": "B4050905352",
@@ -10774,7 +10803,7 @@
     "confidence": 0.74,
     "classification_reason": "서지정보 가중치 분류 15.0점 (intro:공학설계 / source:대학교재 > 과학/공학일반). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:01.971Z"
+    "classified_at": "2026-07-10T21:07:02.646Z"
   },
   {
     "book_id": "B5473016524",
@@ -10795,7 +10824,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 81.5점 (title:프로그래밍 / toc:프로그래밍 / intro:프로그래밍,c언어 / source:대학교재 > 프로그래밍). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:01.979Z"
+    "classified_at": "2026-07-10T21:07:02.654Z"
   },
   {
     "book_id": "B1869193715",
@@ -10816,7 +10845,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 60.0점 (title:미분적분학 / intro:미분적분학 / source:대학교재 > 수학/통계). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:01.988Z"
+    "classified_at": "2026-07-10T21:07:02.663Z"
   },
   {
     "book_id": "B2903606288",
@@ -10837,7 +10866,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 75.0점 (title:포토샵 / toc:포토샵 / intro:포토샵). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:02.002Z"
+    "classified_at": "2026-07-10T21:07:02.677Z"
   },
   {
     "book_id": "B4362196852",
@@ -10858,7 +10887,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 89.3점 (title:엑셀,파워포인트 / toc:프레젠테이션,엑셀,파워포인트 / intro:엑셀,파워포인트). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:02.016Z"
+    "classified_at": "2026-07-10T21:07:02.691Z"
   },
   {
     "book_id": "B9287255068",
@@ -10879,7 +10908,7 @@
     "confidence": 0.63,
     "classification_reason": "서지정보 가중치 분류 5.0점 (source:대학교재 > 경영/경제). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:02.020Z"
+    "classified_at": "2026-07-10T21:07:02.695Z"
   },
   {
     "book_id": "B8043042587",
@@ -10904,7 +10933,7 @@
     "confidence": 0.92,
     "classification_reason": "서지정보 가중치 분류 84.5점 (title:자료구조 / toc:자료구조,알고리즘 / intro:자료구조,알고리즘 / source:대학교재 > 컴퓨터공학). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:02.035Z"
+    "classified_at": "2026-07-10T21:07:02.710Z"
   },
   {
     "book_id": "B5738032387",
@@ -10927,7 +10956,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 84.5점 (title:plc / toc:전기회로,plc / intro:전기회로,plc / source:대학교재 > 전기/전자). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:02.056Z"
+    "classified_at": "2026-07-10T21:07:02.731Z"
   },
   {
     "book_id": "B4223880853",
@@ -10950,7 +10979,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 60.0점 (title:통신이론 / intro:통신이론 / source:대학교재 > 전기/전자). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:02.075Z"
+    "classified_at": "2026-07-10T21:07:02.750Z"
   },
   {
     "book_id": "B4828169719",
@@ -10971,7 +11000,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 75.0점 (title:한글 20 / toc:한글 20 / intro:한글 20). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:02.082Z"
+    "classified_at": "2026-07-10T21:07:02.757Z"
   },
   {
     "book_id": "B4473515743",
@@ -10992,7 +11021,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 75.0점 (title:엑셀 / toc:엑셀 / intro:엑셀). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:02.093Z"
+    "classified_at": "2026-07-10T21:07:02.768Z"
   },
   {
     "book_id": "B8031919328",
@@ -11015,7 +11044,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 80.0점 (title:알고리즘 / toc:알고리즘 / intro:알고리즘 / source:대학교재 > 컴퓨터공학). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:02.107Z"
+    "classified_at": "2026-07-10T21:07:02.782Z"
   },
   {
     "book_id": "B9907946406",
@@ -11041,7 +11070,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 98.0점 (title:컴퓨터 구조,컴퓨터구조,컴퓨터 아키텍처 / toc:운영체제,컴파일러 / intro:컴퓨터 구조,컴퓨터구조 / source:대학교재 > 컴퓨터공학). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:02.119Z"
+    "classified_at": "2026-07-10T21:07:02.794Z"
   },
   {
     "book_id": "B7077591548",
@@ -11062,7 +11091,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 80.0점 (title:회로이론 / toc:신호처리 / intro:전자기학 / source:대학교재 > 전기/전자). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:02.143Z"
+    "classified_at": "2026-07-10T21:07:02.817Z"
   },
   {
     "book_id": "B4536726709",
@@ -11086,7 +11115,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 81.0점 (title:컴퓨터 비전 / toc:기계학습,컴퓨터 비전,신경망 / intro:컴퓨터 비전). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:02.152Z"
+    "classified_at": "2026-07-10T21:07:02.826Z"
   },
   {
     "book_id": "B9503457330",
@@ -11109,7 +11138,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 80.0점 (title:공학설계 / toc:공학설계 / intro:공학설계 / source:대학교재 > 과학/공학일반). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:02.164Z"
+    "classified_at": "2026-07-10T21:07:02.839Z"
   },
   {
     "book_id": "B8455298888",
@@ -11133,7 +11162,7 @@
     "confidence": 0.78,
     "classification_reason": "서지정보 가중치 분류 35.0점 (toc:알고리즘 / intro:리눅스 / source:대학교재 > 컴퓨터공학). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:02.182Z"
+    "classified_at": "2026-07-10T21:07:02.857Z"
   },
   {
     "book_id": "B2320847505",
@@ -11154,7 +11183,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 80.0점 (title:전자회로 / toc:전자회로 / intro:전자회로 / source:대학교재 > 전기/전자). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:02.197Z"
+    "classified_at": "2026-07-10T21:07:02.871Z"
   },
   {
     "book_id": "B6468312423",
@@ -11178,7 +11207,7 @@
     "confidence": 0.85,
     "classification_reason": "서지정보 가중치 분류 38.0점 (toc:반도체,논리회로 / intro:논리회로 / source:대학교재 > 전기/전자). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:02.212Z"
+    "classified_at": "2026-07-10T21:07:02.886Z"
   },
   {
     "book_id": "B6528954340",
@@ -11206,7 +11235,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 83.0점 (title:제어공학 / toc:전자회로,제어공학 / intro:제어공학 / source:대학교재 > 전기/전자). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:02.228Z"
+    "classified_at": "2026-07-10T21:07:02.902Z"
   },
   {
     "book_id": "B1255680631",
@@ -11229,7 +11258,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 80.0점 (title:대학수학 / toc:미분방정식 / intro:미분적분학 / source:대학교재 > 수학/통계). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:02.237Z"
+    "classified_at": "2026-07-10T21:07:02.911Z"
   },
   {
     "book_id": "B6285379134",
@@ -11250,7 +11279,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 80.0점 (title:확률과 통계 / toc:확률과 통계 / intro:확률과 통계 / source:대학교재 > 수학/통계). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:02.245Z"
+    "classified_at": "2026-07-10T21:07:02.918Z"
   },
   {
     "book_id": "B1779572378",
@@ -11275,7 +11304,7 @@
     "confidence": 0.71,
     "classification_reason": "서지정보 가중치 분류 30.0점 (toc:프로그래밍 / intro:프로그래밍). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:02.256Z"
+    "classified_at": "2026-07-10T21:07:02.929Z"
   },
   {
     "book_id": "B4452267120",
@@ -11301,7 +11330,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 78.0점 (title:인공지능 / toc:ai,신경망 / intro:인공지능). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:02.265Z"
+    "classified_at": "2026-07-10T21:07:02.939Z"
   },
   {
     "book_id": "B4766012924",
@@ -11322,7 +11351,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 75.0점 (title:포토샵 / toc:포토샵 / intro:포토샵). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:02.283Z"
+    "classified_at": "2026-07-10T21:07:02.956Z"
   },
   {
     "book_id": "B6321337440",
@@ -11345,7 +11374,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 81.5점 (title:전자회로 / toc:반도체 / intro:전자회로,반도체 / source:대학교재 > 전기/전자). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:02.308Z"
+    "classified_at": "2026-07-10T21:07:02.981Z"
   },
   {
     "book_id": "B6297351572",
@@ -11370,7 +11399,7 @@
     "confidence": 0.95,
     "classification_reason": "서지정보 가중치 분류 84.5점 (title:자료구조 / toc:자료구조,알고리즘 / intro:자료구조,알고리즘 / source:대학교재 > 컴퓨터공학). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:02.318Z"
+    "classified_at": "2026-07-10T21:07:02.991Z"
   },
   {
     "book_id": "B2476698303",
@@ -11393,7 +11422,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 84.0점 (title:프로그래밍 / toc:프로그래밍,java,c++ / intro:프로그래밍,java,c++). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:02.328Z"
+    "classified_at": "2026-07-10T21:07:03.001Z"
   },
   {
     "book_id": "B8437590353",
@@ -11417,7 +11446,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 80.0점 (title:마이크로컨트롤러 / toc:마이크로컨트롤러 / intro:마이크로컨트롤러 / source:대학교재 > 전기/전자). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:02.369Z"
+    "classified_at": "2026-07-10T21:07:03.041Z"
   },
   {
     "book_id": "B6899203363",
@@ -11440,7 +11469,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 84.5점 (title:c++ / toc:프로그래밍,c++ / intro:c언어,c++ / source:대학교재 > 프로그래밍). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:02.380Z"
+    "classified_at": "2026-07-10T21:07:03.052Z"
   },
   {
     "book_id": "B6109161061",
@@ -11461,7 +11490,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 80.0점 (title:반도체 / toc:반도체 / intro:반도체 / source:대학교재 > 전기/전자). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:02.386Z"
+    "classified_at": "2026-07-10T21:07:03.059Z"
   },
   {
     "book_id": "B9501089911",
@@ -11482,7 +11511,7 @@
     "confidence": 0.98,
     "classification_reason": "서지정보 가중치 분류 89.0점 (title:프로그래밍 / toc:프로그래밍,c언어,c++ / intro:프로그래밍,c언어,c++ / source:대학교재 > 프로그래밍). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:02.402Z"
+    "classified_at": "2026-07-10T21:07:03.074Z"
   },
   {
     "book_id": "B5626730084",
@@ -11505,7 +11534,7 @@
     "confidence": 0.82,
     "classification_reason": "서지정보 가중치 분류 35.0점 (toc:반도체 / intro:반도체 / source:대학교재 > 전기/전자). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": false,
-    "classified_at": "2026-07-09T21:26:02.419Z"
+    "classified_at": "2026-07-10T21:07:03.091Z"
   },
   {
     "book_id": "B5468706684",
@@ -11526,7 +11555,7 @@
     "confidence": 0.63,
     "classification_reason": "서지정보 가중치 분류 5.0점 (source:대학교재 > 과학/공학일반). 공식 카테고리는 5점 보정값으로만 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:02.430Z"
+    "classified_at": "2026-07-10T21:07:03.103Z"
   },
   {
     "book_id": "B6407855964",
@@ -11547,7 +11576,7 @@
     "confidence": 0.58,
     "classification_reason": "서지정보 근거가 부족하여 공식 카테고리를 후순위 기준으로 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:02.439Z"
+    "classified_at": "2026-07-10T21:07:03.112Z"
   },
   {
     "book_id": "B9123951212",
@@ -11568,6 +11597,6 @@
     "confidence": 0.58,
     "classification_reason": "서지정보 근거가 부족하여 공식 카테고리를 후순위 기준으로 사용했습니다.",
     "review_required": true,
-    "classified_at": "2026-07-09T21:26:02.446Z"
+    "classified_at": "2026-07-10T21:07:03.119Z"
   }
 ]

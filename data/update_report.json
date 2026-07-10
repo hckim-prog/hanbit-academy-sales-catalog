@@ -1,14 +1,14 @@
 {
-  "last_updated_at": "2026-07-09T21:25:56.449Z",
-  "total_books_before": 511,
-  "total_books_after": 512,
+  "last_updated_at": "2026-07-10T21:06:57.164Z",
+  "total_books_before": 512,
+  "total_books_after": 513,
   "new_books": [
-    "B6873873587"
+    "B3391602187"
   ],
   "changed_books": [],
   "removed_or_hidden_books": [],
   "reclassified_books": [
-    "B6873873587"
+    "B3391602187"
   ],
   "review_required_books": [],
   "crawl_failed_urls": [],
